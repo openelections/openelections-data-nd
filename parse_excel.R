@@ -51,9 +51,13 @@ for (y in offices) {
                         Precinct == "TOTAL")) %>%
              mutate(Office = str_title_case(y), County = z) %>%
              gather(key = Candidate, value = Votes, -County, -Precinct, -Office))
-    statewide_precinct <- rbind.data.frame(statewide_county, get(y)) %>%
-      arrange(Office, County)
+    statewide_precinct <- rbind.data.frame(statewide_precinct, get(y))
   }
 }
 
-write.csv(statewide_county, file = "2016/20161108__nd__general__county.csv")
+statewide_precinct <- statewide_precinct %>%
+  select(County, everything()) %>%
+  mutate(Votes = as.numeric(str_extract(Votes, "^\\d*"))) %>%
+  arrange(Office, County, Precinct)
+
+write.csv(statewide_precinct, file = "2016/20161108__nd__general__precinct.csv")
