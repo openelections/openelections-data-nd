@@ -5,6 +5,7 @@ library(dplyr)
 library(stringr)
 library(readr)
 library(tidyr)
+library(lettercase)
 
 files <- list.files(path = "../openelections-sources-nd", 
                     pattern = "20161108__nd__general__*", 
@@ -23,10 +24,10 @@ for (y in offices) {
   assign(y, read_excel(files[index], skip = 5) %>%
            slice(1:100) %>%
            filter(!(str_detect(County, "District \\b\\b"))) %>%
-           mutate(office = y) %>%
-            gather(key = candidate, value = votes, -County, -office))
+           mutate(Office = str_title_case(y)) %>%
+            gather(key = Candidate, value = Votes, -County, -Office))
   statewide_county <- rbind.data.frame(statewide_county, get(y)) %>%
-    arrange(office, County)
+    arrange(Office, County)
 }
 
 write.csv(statewide_county, file = "2016/20161108__nd__general__county.csv")
@@ -35,3 +36,24 @@ write.csv(statewide_county, file = "2016/20161108__nd__general__county.csv")
 
 counties <- unique(statewide_county$County)
 
+statewide_precinct <- data.frame(Precinct = character(),
+                                 Office = character(),
+                                 County = character(),
+                                 Candidate = character(),
+                                 Votes = character())
+                               
+for (y in offices) {
+  index <- which(offices == y)
+  for(z in counties) {
+    assign(y, read_excel(files[index], sheet = z, skip = 5) %>%
+             filter(!(str_detect(Precinct, "Results") | 
+                        is.na(Precinct) |
+                        Precinct == "TOTAL")) %>%
+             mutate(Office = str_title_case(y), County = z) %>%
+             gather(key = Candidate, value = Votes, -County, -Precinct, -Office))
+    statewide_precinct <- rbind.data.frame(statewide_county, get(y)) %>%
+      arrange(Office, County)
+  }
+}
+
+write.csv(statewide_county, file = "2016/20161108__nd__general__county.csv")
