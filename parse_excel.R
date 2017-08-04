@@ -30,7 +30,7 @@ for (y in offices) {
     arrange(Office, County)
 }
 
-write.csv(statewide_county, file = "2016/20161108__nd__general__county.csv")
+write_csv(statewide_county, "2016/20161108__nd__general__county.csv")
 
 # Precinct results
 
@@ -60,4 +60,4 @@ statewide_precinct <- statewide_precinct %>%
   mutate(Votes = as.numeric(str_extract(Votes, "^\\d*"))) %>%
   arrange(Office, County, Precinct)
 
-write.csv(statewide_precinct, file = "2016/20161108__nd__general__precinct.csv")
+write_csv(statewide_precinct, "2016/20161108__nd__general__precinct.csv")
