@@ -106,7 +106,7 @@ Cass,4401 Broadway Station FARGO,President,,REP,Donald J. Trump,1407
 Cass,4402 Grace Covenant Chrch FARGO,President,,REP,Donald J. Trump,1544
 Cass,4501 FargoDome FARGO,President,,REP,Donald J. Trump,1669
 Cass,4502 Reiles Acres Community Cn,President,,REP,Donald J. Trump,819
-Cass,4503 Harwood Community Center ,President,,REP,Donald J. Trump,745
+Cass,4503 Harwood Community Center,President,,REP,Donald J. Trump,745
 Cass,4504 Argusville Fire Hall,President,,REP,Donald J. Trump,331
 Cass,4601 The Bowler FARGO,President,,REP,Donald J. Trump,937
 Cass,4602 Atonement Lutheran FARGO,President,,REP,Donald J. Trump,1649
@@ -146,7 +146,7 @@ Foster,Precinct 05,President,,REP,Donald J. Trump,380
 Foster,Precinct 06,President,,REP,Donald J. Trump,382
 Golden Valley,Precinct #1,President,,REP,Donald J. Trump,871
 Golden Valley,GOLDEN VALLEY,President,,REP,Donald J. Trump,871
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,President,,REP,Donald J. Trump,537
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,President,,REP,Donald J. Trump,537
 Grand Forks,1705 Alerus 05 GF W6P2,President,,REP,Donald J. Trump,1681
 Grand Forks,4324 Alerus 24 GF W6P1,President,,REP,Donald J. Trump,674
 Grand Forks,4325 Alerus 25 GF W6P3,President,,REP,Donald J. Trump,409
@@ -154,7 +154,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,President,,REP,Donald J. Trump,940
 Grand Forks,4327 Alerus 27 GF W7P2,President,,REP,Donald J. Trump,882
 Grand Forks,1806 Bible Baptist Church out GFAFB,President,,REP,Donald J. Trump,390
 Grand Forks,2017 Emerado Community Hall out GFAFB,President,,REP,Donald J. Trump,404
-Grand Forks,1913 Gilby Presbyterian Church out ,President,,REP,Donald J. Trump,287
+Grand Forks,1913 Gilby Presbyterian Church out,President,,REP,Donald J. Trump,287
 Grand Forks,1808 Grand Forks City Hall GF W3P1,President,,REP,Donald J. Trump,405
 Grand Forks,1809 Grand Forks City Hall GF W3P2,President,,REP,Donald J. Trump,348
 Grand Forks,1810 Grand Forks City Hall GF W3P3,President,,REP,Donald J. Trump,597
@@ -169,7 +169,7 @@ Grand Forks,1915 Manvel Public School out,President,,REP,Donald J. Trump,375
 Grand Forks,1916 Northwood Community Centerout 1916,President,,REP,Donald J. Trump,499
 Grand Forks,4219 Public Works gf W1P1,President,,REP,Donald J. Trump,580
 Grand Forks,4220 Public Works gf W1P2,President,,REP,Donald J. Trump,332
-Grand Forks,2018 Thompson Community Center OUT ,President,,REP,Donald J. Trump,1196
+Grand Forks,2018 Thompson Community Center OUT,President,,REP,Donald J. Trump,1196
 Grand Forks,1807 UND Wellness Center gf W2P3,President,,REP,Donald J. Trump,233
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,President,,REP,Donald J. Trump,296
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,President,,REP,Donald J. Trump,555
@@ -320,7 +320,7 @@ Richland,WAHPETON FAITH CHURCH,President,,REP,Donald J. Trump,663
 Richland,WAHPETON RICHLAND LEC,President,,REP,Donald J. Trump,687
 Richland,WALCOTT,President,,REP,Donald J. Trump,216
 Richland,WYNDMERE,President,,REP,Donald J. Trump,413
-Rolette, Rolla #1,President,,REP,Donald J. Trump,377
+Rolette,Rolla #1,President,,REP,Donald J. Trump,377
 Rolette,Dunseith #4,President,,REP,Donald J. Trump,220
 Rolette,Rolette #5,President,,REP,Donald J. Trump,319
 Rolette,St John #2,President,,REP,Donald J. Trump,179
@@ -529,7 +529,7 @@ Cass,4401 Broadway Station FARGO,President,,DEM,Joe Biden,2233
 Cass,4402 Grace Covenant Chrch FARGO,President,,DEM,Joe Biden,1650
 Cass,4501 FargoDome FARGO,President,,DEM,Joe Biden,1747
 Cass,4502 Reiles Acres Community Cn,President,,DEM,Joe Biden,416
-Cass,4503 Harwood Community Center ,President,,DEM,Joe Biden,364
+Cass,4503 Harwood Community Center,President,,DEM,Joe Biden,364
 Cass,4504 Argusville Fire Hall,President,,DEM,Joe Biden,140
 Cass,4601 The Bowler FARGO,President,,DEM,Joe Biden,1169
 Cass,4602 Atonement Lutheran FARGO,President,,DEM,Joe Biden,1731
@@ -569,7 +569,7 @@ Foster,Precinct 05,President,,DEM,Joe Biden,138
 Foster,Precinct 06,President,,DEM,Joe Biden,117
 Golden Valley,Precinct #1,President,,DEM,Joe Biden,137
 Golden Valley,GOLDEN VALLEY,President,,DEM,Joe Biden,137
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,President,,DEM,Joe Biden,246
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,President,,DEM,Joe Biden,246
 Grand Forks,1705 Alerus 05 GF W6P2,President,,DEM,Joe Biden,1258
 Grand Forks,4324 Alerus 24 GF W6P1,President,,DEM,Joe Biden,681
 Grand Forks,4325 Alerus 25 GF W6P3,President,,DEM,Joe Biden,463
@@ -577,7 +577,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,President,,DEM,Joe Biden,861
 Grand Forks,4327 Alerus 27 GF W7P2,President,,DEM,Joe Biden,816
 Grand Forks,1806 Bible Baptist Church out GFAFB,President,,DEM,Joe Biden,169
 Grand Forks,2017 Emerado Community Hall out GFAFB,President,,DEM,Joe Biden,139
-Grand Forks,1913 Gilby Presbyterian Church out ,President,,DEM,Joe Biden,110
+Grand Forks,1913 Gilby Presbyterian Church out,President,,DEM,Joe Biden,110
 Grand Forks,1808 Grand Forks City Hall GF W3P1,President,,DEM,Joe Biden,403
 Grand Forks,1809 Grand Forks City Hall GF W3P2,President,,DEM,Joe Biden,356
 Grand Forks,1810 Grand Forks City Hall GF W3P3,President,,DEM,Joe Biden,638
@@ -592,7 +592,7 @@ Grand Forks,1915 Manvel Public School out,President,,DEM,Joe Biden,159
 Grand Forks,1916 Northwood Community Centerout 1916,President,,DEM,Joe Biden,171
 Grand Forks,4219 Public Works gf W1P1,President,,DEM,Joe Biden,449
 Grand Forks,4220 Public Works gf W1P2,President,,DEM,Joe Biden,458
-Grand Forks,2018 Thompson Community Center OUT ,President,,DEM,Joe Biden,473
+Grand Forks,2018 Thompson Community Center OUT,President,,DEM,Joe Biden,473
 Grand Forks,1807 UND Wellness Center gf W2P3,President,,DEM,Joe Biden,203
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,President,,DEM,Joe Biden,263
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,President,,DEM,Joe Biden,529
@@ -743,7 +743,7 @@ Richland,WAHPETON FAITH CHURCH,President,,DEM,Joe Biden,378
 Richland,WAHPETON RICHLAND LEC,President,,DEM,Joe Biden,378
 Richland,WALCOTT,President,,DEM,Joe Biden,114
 Richland,WYNDMERE,President,,DEM,Joe Biden,247
-Rolette, Rolla #1,President,,DEM,Joe Biden,257
+Rolette,Rolla #1,President,,DEM,Joe Biden,257
 Rolette,Dunseith #4,President,,DEM,Joe Biden,546
 Rolette,Rolette #5,President,,DEM,Joe Biden,198
 Rolette,St John #2,President,,DEM,Joe Biden,259
@@ -952,7 +952,7 @@ Cass,4401 Broadway Station FARGO,President,,LIB,Jo Jorgensen,119
 Cass,4402 Grace Covenant Chrch FARGO,President,,LIB,Jo Jorgensen,100
 Cass,4501 FargoDome FARGO,President,,LIB,Jo Jorgensen,98
 Cass,4502 Reiles Acres Community Cn,President,,LIB,Jo Jorgensen,32
-Cass,4503 Harwood Community Center ,President,,LIB,Jo Jorgensen,34
+Cass,4503 Harwood Community Center,President,,LIB,Jo Jorgensen,34
 Cass,4504 Argusville Fire Hall,President,,LIB,Jo Jorgensen,11
 Cass,4601 The Bowler FARGO,President,,LIB,Jo Jorgensen,70
 Cass,4602 Atonement Lutheran FARGO,President,,LIB,Jo Jorgensen,81
@@ -992,7 +992,7 @@ Foster,Precinct 05,President,,LIB,Jo Jorgensen,13
 Foster,Precinct 06,President,,LIB,Jo Jorgensen,10
 Golden Valley,Precinct #1,President,,LIB,Jo Jorgensen,16
 Golden Valley,GOLDEN VALLEY,President,,LIB,Jo Jorgensen,16
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,President,,LIB,Jo Jorgensen,8
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,President,,LIB,Jo Jorgensen,8
 Grand Forks,1705 Alerus 05 GF W6P2,President,,LIB,Jo Jorgensen,96
 Grand Forks,4324 Alerus 24 GF W6P1,President,,LIB,Jo Jorgensen,42
 Grand Forks,4325 Alerus 25 GF W6P3,President,,LIB,Jo Jorgensen,27
@@ -1000,7 +1000,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,President,,LIB,Jo Jorgensen,38
 Grand Forks,4327 Alerus 27 GF W7P2,President,,LIB,Jo Jorgensen,48
 Grand Forks,1806 Bible Baptist Church out GFAFB,President,,LIB,Jo Jorgensen,9
 Grand Forks,2017 Emerado Community Hall out GFAFB,President,,LIB,Jo Jorgensen,22
-Grand Forks,1913 Gilby Presbyterian Church out ,President,,LIB,Jo Jorgensen,13
+Grand Forks,1913 Gilby Presbyterian Church out,President,,LIB,Jo Jorgensen,13
 Grand Forks,1808 Grand Forks City Hall GF W3P1,President,,LIB,Jo Jorgensen,25
 Grand Forks,1809 Grand Forks City Hall GF W3P2,President,,LIB,Jo Jorgensen,32
 Grand Forks,1810 Grand Forks City Hall GF W3P3,President,,LIB,Jo Jorgensen,54
@@ -1015,7 +1015,7 @@ Grand Forks,1915 Manvel Public School out,President,,LIB,Jo Jorgensen,18
 Grand Forks,1916 Northwood Community Centerout 1916,President,,LIB,Jo Jorgensen,13
 Grand Forks,4219 Public Works gf W1P1,President,,LIB,Jo Jorgensen,46
 Grand Forks,4220 Public Works gf W1P2,President,,LIB,Jo Jorgensen,48
-Grand Forks,2018 Thompson Community Center OUT ,President,,LIB,Jo Jorgensen,35
+Grand Forks,2018 Thompson Community Center OUT,President,,LIB,Jo Jorgensen,35
 Grand Forks,1807 UND Wellness Center gf W2P3,President,,LIB,Jo Jorgensen,18
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,President,,LIB,Jo Jorgensen,22
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,President,,LIB,Jo Jorgensen,35
@@ -1166,7 +1166,7 @@ Richland,WAHPETON FAITH CHURCH,President,,LIB,Jo Jorgensen,19
 Richland,WAHPETON RICHLAND LEC,President,,LIB,Jo Jorgensen,25
 Richland,WALCOTT,President,,LIB,Jo Jorgensen,7
 Richland,WYNDMERE,President,,LIB,Jo Jorgensen,13
-Rolette, Rolla #1,President,,LIB,Jo Jorgensen,12
+Rolette,Rolla #1,President,,LIB,Jo Jorgensen,12
 Rolette,Dunseith #4,President,,LIB,Jo Jorgensen,14
 Rolette,Rolette #5,President,,LIB,Jo Jorgensen,9
 Rolette,St John #2,President,,LIB,Jo Jorgensen,10
@@ -1375,7 +1375,7 @@ Cass,4401 Broadway Station FARGO,President,,WRI,Write-ins,41
 Cass,4402 Grace Covenant Chrch FARGO,President,,WRI,Write-ins,23
 Cass,4501 FargoDome FARGO,President,,WRI,Write-ins,35
 Cass,4502 Reiles Acres Community Cn,President,,WRI,Write-ins,2
-Cass,4503 Harwood Community Center ,President,,WRI,Write-ins,8
+Cass,4503 Harwood Community Center,President,,WRI,Write-ins,8
 Cass,4504 Argusville Fire Hall,President,,WRI,Write-ins,2
 Cass,4601 The Bowler FARGO,President,,WRI,Write-ins,17
 Cass,4602 Atonement Lutheran FARGO,President,,WRI,Write-ins,31
@@ -1415,7 +1415,7 @@ Foster,Precinct 05,President,,WRI,Write-ins,2
 Foster,Precinct 06,President,,WRI,Write-ins,1
 Golden Valley,Precinct #1,President,,WRI,Write-ins,2
 Golden Valley,GOLDEN VALLEY,President,,WRI,Write-ins,2
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,President,,WRI,Write-ins,5
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,President,,WRI,Write-ins,5
 Grand Forks,1705 Alerus 05 GF W6P2,President,,WRI,Write-ins,19
 Grand Forks,4324 Alerus 24 GF W6P1,President,,WRI,Write-ins,8
 Grand Forks,4325 Alerus 25 GF W6P3,President,,WRI,Write-ins,5
@@ -1423,7 +1423,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,President,,WRI,Write-ins,12
 Grand Forks,4327 Alerus 27 GF W7P2,President,,WRI,Write-ins,8
 Grand Forks,1806 Bible Baptist Church out GFAFB,President,,WRI,Write-ins,3
 Grand Forks,2017 Emerado Community Hall out GFAFB,President,,WRI,Write-ins,3
-Grand Forks,1913 Gilby Presbyterian Church out ,President,,WRI,Write-ins,4
+Grand Forks,1913 Gilby Presbyterian Church out,President,,WRI,Write-ins,4
 Grand Forks,1808 Grand Forks City Hall GF W3P1,President,,WRI,Write-ins,7
 Grand Forks,1809 Grand Forks City Hall GF W3P2,President,,WRI,Write-ins,8
 Grand Forks,1810 Grand Forks City Hall GF W3P3,President,,WRI,Write-ins,16
@@ -1438,7 +1438,7 @@ Grand Forks,1915 Manvel Public School out,President,,WRI,Write-ins,5
 Grand Forks,1916 Northwood Community Centerout 1916,President,,WRI,Write-ins,2
 Grand Forks,4219 Public Works gf W1P1,President,,WRI,Write-ins,9
 Grand Forks,4220 Public Works gf W1P2,President,,WRI,Write-ins,8
-Grand Forks,2018 Thompson Community Center OUT ,President,,WRI,Write-ins,13
+Grand Forks,2018 Thompson Community Center OUT,President,,WRI,Write-ins,13
 Grand Forks,1807 UND Wellness Center gf W2P3,President,,WRI,Write-ins,2
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,President,,WRI,Write-ins,3
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,President,,WRI,Write-ins,8
@@ -1589,7 +1589,7 @@ Richland,WAHPETON FAITH CHURCH,President,,WRI,Write-ins,7
 Richland,WAHPETON RICHLAND LEC,President,,WRI,Write-ins,5
 Richland,WALCOTT,President,,WRI,Write-ins,1
 Richland,WYNDMERE,President,,WRI,Write-ins,6
-Rolette, Rolla #1,President,,WRI,Write-ins,0
+Rolette,Rolla #1,President,,WRI,Write-ins,0
 Rolette,Dunseith #4,President,,WRI,Write-ins,2
 Rolette,Rolette #5,President,,WRI,Write-ins,0
 Rolette,St John #2,President,,WRI,Write-ins,0
@@ -1798,7 +1798,7 @@ Cass,4401 Broadway Station FARGO,US House,,REP,Kelly Armstrong,1543
 Cass,4402 Grace Covenant Chrch FARGO,US House,,REP,Kelly Armstrong,1754
 Cass,4501 FargoDome FARGO,US House,,REP,Kelly Armstrong,1866
 Cass,4502 Reiles Acres Community Cn,US House,,REP,Kelly Armstrong,869
-Cass,4503 Harwood Community Center ,US House,,REP,Kelly Armstrong,800
+Cass,4503 Harwood Community Center,US House,,REP,Kelly Armstrong,800
 Cass,4504 Argusville Fire Hall,US House,,REP,Kelly Armstrong,354
 Cass,4601 The Bowler FARGO,US House,,REP,Kelly Armstrong,1068
 Cass,4602 Atonement Lutheran FARGO,US House,,REP,Kelly Armstrong,1909
@@ -1838,7 +1838,7 @@ Foster,Precinct 05,US House,,REP,Kelly Armstrong,395
 Foster,Precinct 06,US House,,REP,Kelly Armstrong,390
 Golden Valley,Precinct #1,US House,,REP,Kelly Armstrong,871
 Golden Valley,GOLDEN VALLEY,US House,,REP,Kelly Armstrong,871
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,US House,,REP,Kelly Armstrong,572
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,US House,,REP,Kelly Armstrong,572
 Grand Forks,1705 Alerus 05 GF W6P2,US House,,REP,Kelly Armstrong,1855
 Grand Forks,4324 Alerus 24 GF W6P1,US House,,REP,Kelly Armstrong,766
 Grand Forks,4325 Alerus 25 GF W6P3,US House,,REP,Kelly Armstrong,461
@@ -1846,7 +1846,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,US House,,REP,Kelly Armstrong,1018
 Grand Forks,4327 Alerus 27 GF W7P2,US House,,REP,Kelly Armstrong,956
 Grand Forks,1806 Bible Baptist Church out GFAFB,US House,,REP,Kelly Armstrong,395
 Grand Forks,2017 Emerado Community Hall out GFAFB,US House,,REP,Kelly Armstrong,405
-Grand Forks,1913 Gilby Presbyterian Church out ,US House,,REP,Kelly Armstrong,290
+Grand Forks,1913 Gilby Presbyterian Church out,US House,,REP,Kelly Armstrong,290
 Grand Forks,1808 Grand Forks City Hall GF W3P1,US House,,REP,Kelly Armstrong,424
 Grand Forks,1809 Grand Forks City Hall GF W3P2,US House,,REP,Kelly Armstrong,375
 Grand Forks,1810 Grand Forks City Hall GF W3P3,US House,,REP,Kelly Armstrong,666
@@ -1861,7 +1861,7 @@ Grand Forks,1915 Manvel Public School out,US House,,REP,Kelly Armstrong,387
 Grand Forks,1916 Northwood Community Centerout 1916,US House,,REP,Kelly Armstrong,499
 Grand Forks,4219 Public Works gf W1P1,US House,,REP,Kelly Armstrong,629
 Grand Forks,4220 Public Works gf W1P2,US House,,REP,Kelly Armstrong,357
-Grand Forks,2018 Thompson Community Center OUT ,US House,,REP,Kelly Armstrong,1262
+Grand Forks,2018 Thompson Community Center OUT,US House,,REP,Kelly Armstrong,1262
 Grand Forks,1807 UND Wellness Center gf W2P3,US House,,REP,Kelly Armstrong,248
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,US House,,REP,Kelly Armstrong,321
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,US House,,REP,Kelly Armstrong,600
@@ -2012,7 +2012,7 @@ Richland,WAHPETON FAITH CHURCH,US House,,REP,Kelly Armstrong,706
 Richland,WAHPETON RICHLAND LEC,US House,,REP,Kelly Armstrong,741
 Richland,WALCOTT,US House,,REP,Kelly Armstrong,229
 Richland,WYNDMERE,US House,,REP,Kelly Armstrong,415
-Rolette, Rolla #1,US House,,REP,Kelly Armstrong,384
+Rolette,Rolla #1,US House,,REP,Kelly Armstrong,384
 Rolette,Dunseith #4,US House,,REP,Kelly Armstrong,237
 Rolette,Rolette #5,US House,,REP,Kelly Armstrong,341
 Rolette,St John #2,US House,,REP,Kelly Armstrong,190
@@ -2221,7 +2221,7 @@ Cass,4401 Broadway Station FARGO,US House,,DNPL,Zach Raknerud,1995
 Cass,4402 Grace Covenant Chrch FARGO,US House,,DNPL,Zach Raknerud,1378
 Cass,4501 FargoDome FARGO,US House,,DNPL,Zach Raknerud,1488
 Cass,4502 Reiles Acres Community Cn,US House,,DNPL,Zach Raknerud,344
-Cass,4503 Harwood Community Center ,US House,,DNPL,Zach Raknerud,294
+Cass,4503 Harwood Community Center,US House,,DNPL,Zach Raknerud,294
 Cass,4504 Argusville Fire Hall,US House,,DNPL,Zach Raknerud,117
 Cass,4601 The Bowler FARGO,US House,,DNPL,Zach Raknerud,990
 Cass,4602 Atonement Lutheran FARGO,US House,,DNPL,Zach Raknerud,1414
@@ -2261,7 +2261,7 @@ Foster,Precinct 05,US House,,DNPL,Zach Raknerud,113
 Foster,Precinct 06,US House,,DNPL,Zach Raknerud,101
 Golden Valley,Precinct #1,US House,,DNPL,Zach Raknerud,114
 Golden Valley,GOLDEN VALLEY,US House,,DNPL,Zach Raknerud,114
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,US House,,DNPL,Zach Raknerud,206
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,US House,,DNPL,Zach Raknerud,206
 Grand Forks,1705 Alerus 05 GF W6P2,US House,,DNPL,Zach Raknerud,1033
 Grand Forks,4324 Alerus 24 GF W6P1,US House,,DNPL,Zach Raknerud,558
 Grand Forks,4325 Alerus 25 GF W6P3,US House,,DNPL,Zach Raknerud,376
@@ -2269,7 +2269,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,US House,,DNPL,Zach Raknerud,709
 Grand Forks,4327 Alerus 27 GF W7P2,US House,,DNPL,Zach Raknerud,681
 Grand Forks,1806 Bible Baptist Church out GFAFB,US House,,DNPL,Zach Raknerud,142
 Grand Forks,2017 Emerado Community Hall out GFAFB,US House,,DNPL,Zach Raknerud,109
-Grand Forks,1913 Gilby Presbyterian Church out ,US House,,DNPL,Zach Raknerud,89
+Grand Forks,1913 Gilby Presbyterian Church out,US House,,DNPL,Zach Raknerud,89
 Grand Forks,1808 Grand Forks City Hall GF W3P1,US House,,DNPL,Zach Raknerud,356
 Grand Forks,1809 Grand Forks City Hall GF W3P2,US House,,DNPL,Zach Raknerud,305
 Grand Forks,1810 Grand Forks City Hall GF W3P3,US House,,DNPL,Zach Raknerud,551
@@ -2284,7 +2284,7 @@ Grand Forks,1915 Manvel Public School out,US House,,DNPL,Zach Raknerud,140
 Grand Forks,1916 Northwood Community Centerout 1916,US House,,DNPL,Zach Raknerud,171
 Grand Forks,4219 Public Works gf W1P1,US House,,DNPL,Zach Raknerud,377
 Grand Forks,4220 Public Works gf W1P2,US House,,DNPL,Zach Raknerud,400
-Grand Forks,2018 Thompson Community Center OUT ,US House,,DNPL,Zach Raknerud,399
+Grand Forks,2018 Thompson Community Center OUT,US House,,DNPL,Zach Raknerud,399
 Grand Forks,1807 UND Wellness Center gf W2P3,US House,,DNPL,Zach Raknerud,174
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,US House,,DNPL,Zach Raknerud,216
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,US House,,DNPL,Zach Raknerud,435
@@ -2435,7 +2435,7 @@ Richland,WAHPETON FAITH CHURCH,US House,,DNPL,Zach Raknerud,311
 Richland,WAHPETON RICHLAND LEC,US House,,DNPL,Zach Raknerud,295
 Richland,WALCOTT,US House,,DNPL,Zach Raknerud,93
 Richland,WYNDMERE,US House,,DNPL,Zach Raknerud,225
-Rolette, Rolla #1,US House,,DNPL,Zach Raknerud,236
+Rolette,Rolla #1,US House,,DNPL,Zach Raknerud,236
 Rolette,Dunseith #4,US House,,DNPL,Zach Raknerud,497
 Rolette,Rolette #5,US House,,DNPL,Zach Raknerud,170
 Rolette,St John #2,US House,,DNPL,Zach Raknerud,237
@@ -2644,7 +2644,7 @@ Cass,4401 Broadway Station FARGO,US House,,LIB,Steven Peterson,203
 Cass,4402 Grace Covenant Chrch FARGO,US House,,LIB,Steven Peterson,128
 Cass,4501 FargoDome FARGO,US House,,LIB,Steven Peterson,138
 Cass,4502 Reiles Acres Community Cn,US House,,LIB,Steven Peterson,39
-Cass,4503 Harwood Community Center ,US House,,LIB,Steven Peterson,41
+Cass,4503 Harwood Community Center,US House,,LIB,Steven Peterson,41
 Cass,4504 Argusville Fire Hall,US House,,LIB,Steven Peterson,11
 Cass,4601 The Bowler FARGO,US House,,LIB,Steven Peterson,88
 Cass,4602 Atonement Lutheran FARGO,US House,,LIB,Steven Peterson,93
@@ -2684,7 +2684,7 @@ Foster,Precinct 05,US House,,LIB,Steven Peterson,18
 Foster,Precinct 06,US House,,LIB,Steven Peterson,4
 Golden Valley,Precinct #1,US House,,LIB,Steven Peterson,21
 Golden Valley,GOLDEN VALLEY,US House,,LIB,Steven Peterson,21
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,US House,,LIB,Steven Peterson,11
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,US House,,LIB,Steven Peterson,11
 Grand Forks,1705 Alerus 05 GF W6P2,US House,,LIB,Steven Peterson,87
 Grand Forks,4324 Alerus 24 GF W6P1,US House,,LIB,Steven Peterson,47
 Grand Forks,4325 Alerus 25 GF W6P3,US House,,LIB,Steven Peterson,32
@@ -2692,7 +2692,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,US House,,LIB,Steven Peterson,62
 Grand Forks,4327 Alerus 27 GF W7P2,US House,,LIB,Steven Peterson,55
 Grand Forks,1806 Bible Baptist Church out GFAFB,US House,,LIB,Steven Peterson,16
 Grand Forks,2017 Emerado Community Hall out GFAFB,US House,,LIB,Steven Peterson,34
-Grand Forks,1913 Gilby Presbyterian Church out ,US House,,LIB,Steven Peterson,25
+Grand Forks,1913 Gilby Presbyterian Church out,US House,,LIB,Steven Peterson,25
 Grand Forks,1808 Grand Forks City Hall GF W3P1,US House,,LIB,Steven Peterson,31
 Grand Forks,1809 Grand Forks City Hall GF W3P2,US House,,LIB,Steven Peterson,42
 Grand Forks,1810 Grand Forks City Hall GF W3P3,US House,,LIB,Steven Peterson,56
@@ -2707,7 +2707,7 @@ Grand Forks,1915 Manvel Public School out,US House,,LIB,Steven Peterson,16
 Grand Forks,1916 Northwood Community Centerout 1916,US House,,LIB,Steven Peterson,12
 Grand Forks,4219 Public Works gf W1P1,US House,,LIB,Steven Peterson,46
 Grand Forks,4220 Public Works gf W1P2,US House,,LIB,Steven Peterson,54
-Grand Forks,2018 Thompson Community Center OUT ,US House,,LIB,Steven Peterson,39
+Grand Forks,2018 Thompson Community Center OUT,US House,,LIB,Steven Peterson,39
 Grand Forks,1807 UND Wellness Center gf W2P3,US House,,LIB,Steven Peterson,18
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,US House,,LIB,Steven Peterson,24
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,US House,,LIB,Steven Peterson,58
@@ -2858,7 +2858,7 @@ Richland,WAHPETON FAITH CHURCH,US House,,LIB,Steven Peterson,31
 Richland,WAHPETON RICHLAND LEC,US House,,LIB,Steven Peterson,35
 Richland,WALCOTT,US House,,LIB,Steven Peterson,15
 Richland,WYNDMERE,US House,,LIB,Steven Peterson,26
-Rolette, Rolla #1,US House,,LIB,Steven Peterson,19
+Rolette,Rolla #1,US House,,LIB,Steven Peterson,19
 Rolette,Dunseith #4,US House,,LIB,Steven Peterson,14
 Rolette,Rolette #5,US House,,LIB,Steven Peterson,14
 Rolette,St John #2,US House,,LIB,Steven Peterson,11
@@ -3067,7 +3067,7 @@ Cass,4401 Broadway Station FARGO,US House,,WRI,Write-ins,3
 Cass,4402 Grace Covenant Chrch FARGO,US House,,WRI,Write-ins,2
 Cass,4501 FargoDome FARGO,US House,,WRI,Write-ins,3
 Cass,4502 Reiles Acres Community Cn,US House,,WRI,Write-ins,0
-Cass,4503 Harwood Community Center ,US House,,WRI,Write-ins,0
+Cass,4503 Harwood Community Center,US House,,WRI,Write-ins,0
 Cass,4504 Argusville Fire Hall,US House,,WRI,Write-ins,0
 Cass,4601 The Bowler FARGO,US House,,WRI,Write-ins,2
 Cass,4602 Atonement Lutheran FARGO,US House,,WRI,Write-ins,3
@@ -3107,7 +3107,7 @@ Foster,Precinct 05,US House,,WRI,Write-ins,0
 Foster,Precinct 06,US House,,WRI,Write-ins,1
 Golden Valley,Precinct #1,US House,,WRI,Write-ins,1
 Golden Valley,GOLDEN VALLEY,US House,,WRI,Write-ins,1
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,US House,,WRI,Write-ins,2
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,US House,,WRI,Write-ins,2
 Grand Forks,1705 Alerus 05 GF W6P2,US House,,WRI,Write-ins,2
 Grand Forks,4324 Alerus 24 GF W6P1,US House,,WRI,Write-ins,0
 Grand Forks,4325 Alerus 25 GF W6P3,US House,,WRI,Write-ins,0
@@ -3115,7 +3115,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,US House,,WRI,Write-ins,1
 Grand Forks,4327 Alerus 27 GF W7P2,US House,,WRI,Write-ins,1
 Grand Forks,1806 Bible Baptist Church out GFAFB,US House,,WRI,Write-ins,1
 Grand Forks,2017 Emerado Community Hall out GFAFB,US House,,WRI,Write-ins,0
-Grand Forks,1913 Gilby Presbyterian Church out ,US House,,WRI,Write-ins,0
+Grand Forks,1913 Gilby Presbyterian Church out,US House,,WRI,Write-ins,0
 Grand Forks,1808 Grand Forks City Hall GF W3P1,US House,,WRI,Write-ins,1
 Grand Forks,1809 Grand Forks City Hall GF W3P2,US House,,WRI,Write-ins,1
 Grand Forks,1810 Grand Forks City Hall GF W3P3,US House,,WRI,Write-ins,2
@@ -3130,7 +3130,7 @@ Grand Forks,1915 Manvel Public School out,US House,,WRI,Write-ins,0
 Grand Forks,1916 Northwood Community Centerout 1916,US House,,WRI,Write-ins,0
 Grand Forks,4219 Public Works gf W1P1,US House,,WRI,Write-ins,0
 Grand Forks,4220 Public Works gf W1P2,US House,,WRI,Write-ins,1
-Grand Forks,2018 Thompson Community Center OUT ,US House,,WRI,Write-ins,0
+Grand Forks,2018 Thompson Community Center OUT,US House,,WRI,Write-ins,0
 Grand Forks,1807 UND Wellness Center gf W2P3,US House,,WRI,Write-ins,0
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,US House,,WRI,Write-ins,0
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,US House,,WRI,Write-ins,1
@@ -3281,7 +3281,7 @@ Richland,WAHPETON FAITH CHURCH,US House,,WRI,Write-ins,1
 Richland,WAHPETON RICHLAND LEC,US House,,WRI,Write-ins,0
 Richland,WALCOTT,US House,,WRI,Write-ins,0
 Richland,WYNDMERE,US House,,WRI,Write-ins,0
-Rolette, Rolla #1,US House,,WRI,Write-ins,0
+Rolette,Rolla #1,US House,,WRI,Write-ins,0
 Rolette,Dunseith #4,US House,,WRI,Write-ins,0
 Rolette,Rolette #5,US House,,WRI,Write-ins,0
 Rolette,St John #2,US House,,WRI,Write-ins,1
@@ -3490,7 +3490,7 @@ Cass,4401 Broadway Station FARGO,Governor,,REP,Doug Burgum,1720
 Cass,4402 Grace Covenant Chrch FARGO,Governor,,REP,Doug Burgum,1896
 Cass,4501 FargoDome FARGO,Governor,,REP,Doug Burgum,2046
 Cass,4502 Reiles Acres Community Cn,Governor,,REP,Doug Burgum,877
-Cass,4503 Harwood Community Center ,Governor,,REP,Doug Burgum,862
+Cass,4503 Harwood Community Center,Governor,,REP,Doug Burgum,862
 Cass,4504 Argusville Fire Hall,Governor,,REP,Doug Burgum,369
 Cass,4601 The Bowler FARGO,Governor,,REP,Doug Burgum,1153
 Cass,4602 Atonement Lutheran FARGO,Governor,,REP,Doug Burgum,2063
@@ -3530,7 +3530,7 @@ Foster,Precinct 05,Governor,,REP,Doug Burgum,376
 Foster,Precinct 06,Governor,,REP,Doug Burgum,381
 Golden Valley,Precinct #1,Governor,,REP,Doug Burgum,792
 Golden Valley,GOLDEN VALLEY,Governor,,REP,Doug Burgum,792
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Governor,,REP,Doug Burgum,594
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Governor,,REP,Doug Burgum,594
 Grand Forks,1705 Alerus 05 GF W6P2,Governor,,REP,Doug Burgum,1920
 Grand Forks,4324 Alerus 24 GF W6P1,Governor,,REP,Doug Burgum,769
 Grand Forks,4325 Alerus 25 GF W6P3,Governor,,REP,Doug Burgum,507
@@ -3538,7 +3538,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Governor,,REP,Doug Burgum,1066
 Grand Forks,4327 Alerus 27 GF W7P2,Governor,,REP,Doug Burgum,1003
 Grand Forks,1806 Bible Baptist Church out GFAFB,Governor,,REP,Doug Burgum,386
 Grand Forks,2017 Emerado Community Hall out GFAFB,Governor,,REP,Doug Burgum,415
-Grand Forks,1913 Gilby Presbyterian Church out ,Governor,,REP,Doug Burgum,312
+Grand Forks,1913 Gilby Presbyterian Church out,Governor,,REP,Doug Burgum,312
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Governor,,REP,Doug Burgum,439
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Governor,,REP,Doug Burgum,399
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Governor,,REP,Doug Burgum,710
@@ -3553,7 +3553,7 @@ Grand Forks,1915 Manvel Public School out,Governor,,REP,Doug Burgum,405
 Grand Forks,1916 Northwood Community Centerout 1916,Governor,,REP,Doug Burgum,525
 Grand Forks,4219 Public Works gf W1P1,Governor,,REP,Doug Burgum,651
 Grand Forks,4220 Public Works gf W1P2,Governor,,REP,Doug Burgum,379
-Grand Forks,2018 Thompson Community Center OUT ,Governor,,REP,Doug Burgum,1273
+Grand Forks,2018 Thompson Community Center OUT,Governor,,REP,Doug Burgum,1273
 Grand Forks,1807 UND Wellness Center gf W2P3,Governor,,REP,Doug Burgum,260
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Governor,,REP,Doug Burgum,325
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Governor,,REP,Doug Burgum,633
@@ -3704,7 +3704,7 @@ Richland,WAHPETON FAITH CHURCH,Governor,,REP,Doug Burgum,788
 Richland,WAHPETON RICHLAND LEC,Governor,,REP,Doug Burgum,768
 Richland,WALCOTT,Governor,,REP,Doug Burgum,232
 Richland,WYNDMERE,Governor,,REP,Doug Burgum,429
-Rolette, Rolla #1,Governor,,REP,Doug Burgum,385
+Rolette,Rolla #1,Governor,,REP,Doug Burgum,385
 Rolette,Dunseith #4,Governor,,REP,Doug Burgum,277
 Rolette,Rolette #5,Governor,,REP,Doug Burgum,354
 Rolette,St John #2,Governor,,REP,Doug Burgum,224
@@ -3913,7 +3913,7 @@ Cass,4401 Broadway Station FARGO,Governor,,DNPL,Shelley Lenz,1867
 Cass,4402 Grace Covenant Chrch FARGO,Governor,,DNPL,Shelley Lenz,1280
 Cass,4501 FargoDome FARGO,Governor,,DNPL,Shelley Lenz,1360
 Cass,4502 Reiles Acres Community Cn,Governor,,DNPL,Shelley Lenz,322
-Cass,4503 Harwood Community Center ,Governor,,DNPL,Shelley Lenz,250
+Cass,4503 Harwood Community Center,Governor,,DNPL,Shelley Lenz,250
 Cass,4504 Argusville Fire Hall,Governor,,DNPL,Shelley Lenz,102
 Cass,4601 The Bowler FARGO,Governor,,DNPL,Shelley Lenz,935
 Cass,4602 Atonement Lutheran FARGO,Governor,,DNPL,Shelley Lenz,1281
@@ -3953,7 +3953,7 @@ Foster,Precinct 05,Governor,,DNPL,Shelley Lenz,112
 Foster,Precinct 06,Governor,,DNPL,Shelley Lenz,88
 Golden Valley,Precinct #1,Governor,,DNPL,Shelley Lenz,105
 Golden Valley,GOLDEN VALLEY,Governor,,DNPL,Shelley Lenz,105
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Governor,,DNPL,Shelley Lenz,183
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Governor,,DNPL,Shelley Lenz,183
 Grand Forks,1705 Alerus 05 GF W6P2,Governor,,DNPL,Shelley Lenz,958
 Grand Forks,4324 Alerus 24 GF W6P1,Governor,,DNPL,Shelley Lenz,551
 Grand Forks,4325 Alerus 25 GF W6P3,Governor,,DNPL,Shelley Lenz,351
@@ -3961,7 +3961,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Governor,,DNPL,Shelley Lenz,679
 Grand Forks,4327 Alerus 27 GF W7P2,Governor,,DNPL,Shelley Lenz,651
 Grand Forks,1806 Bible Baptist Church out GFAFB,Governor,,DNPL,Shelley Lenz,142
 Grand Forks,2017 Emerado Community Hall out GFAFB,Governor,,DNPL,Shelley Lenz,99
-Grand Forks,1913 Gilby Presbyterian Church out ,Governor,,DNPL,Shelley Lenz,74
+Grand Forks,1913 Gilby Presbyterian Church out,Governor,,DNPL,Shelley Lenz,74
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Governor,,DNPL,Shelley Lenz,340
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Governor,,DNPL,Shelley Lenz,286
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Governor,,DNPL,Shelley Lenz,512
@@ -3976,7 +3976,7 @@ Grand Forks,1915 Manvel Public School out,Governor,,DNPL,Shelley Lenz,127
 Grand Forks,1916 Northwood Community Centerout 1916,Governor,,DNPL,Shelley Lenz,123
 Grand Forks,4219 Public Works gf W1P1,Governor,,DNPL,Shelley Lenz,378
 Grand Forks,4220 Public Works gf W1P2,Governor,,DNPL,Shelley Lenz,373
-Grand Forks,2018 Thompson Community Center OUT ,Governor,,DNPL,Shelley Lenz,349
+Grand Forks,2018 Thompson Community Center OUT,Governor,,DNPL,Shelley Lenz,349
 Grand Forks,1807 UND Wellness Center gf W2P3,Governor,,DNPL,Shelley Lenz,159
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Governor,,DNPL,Shelley Lenz,194
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Governor,,DNPL,Shelley Lenz,429
@@ -4127,7 +4127,7 @@ Richland,WAHPETON FAITH CHURCH,Governor,,DNPL,Shelley Lenz,252
 Richland,WAHPETON RICHLAND LEC,Governor,,DNPL,Shelley Lenz,269
 Richland,WALCOTT,Governor,,DNPL,Shelley Lenz,90
 Richland,WYNDMERE,Governor,,DNPL,Shelley Lenz,207
-Rolette, Rolla #1,Governor,,DNPL,Shelley Lenz,226
+Rolette,Rolla #1,Governor,,DNPL,Shelley Lenz,226
 Rolette,Dunseith #4,Governor,,DNPL,Shelley Lenz,465
 Rolette,Rolette #5,Governor,,DNPL,Shelley Lenz,147
 Rolette,St John #2,Governor,,DNPL,Shelley Lenz,212
@@ -4336,7 +4336,7 @@ Cass,4401 Broadway Station FARGO,Governor,,LIB,DuWayne Hendrickson,157
 Cass,4402 Grace Covenant Chrch FARGO,Governor,,LIB,DuWayne Hendrickson,108
 Cass,4501 FargoDome FARGO,Governor,,LIB,DuWayne Hendrickson,87
 Cass,4502 Reiles Acres Community Cn,Governor,,LIB,DuWayne Hendrickson,45
-Cass,4503 Harwood Community Center ,Governor,,LIB,DuWayne Hendrickson,23
+Cass,4503 Harwood Community Center,Governor,,LIB,DuWayne Hendrickson,23
 Cass,4504 Argusville Fire Hall,Governor,,LIB,DuWayne Hendrickson,5
 Cass,4601 The Bowler FARGO,Governor,,LIB,DuWayne Hendrickson,68
 Cass,4602 Atonement Lutheran FARGO,Governor,,LIB,DuWayne Hendrickson,68
@@ -4376,7 +4376,7 @@ Foster,Precinct 05,Governor,,LIB,DuWayne Hendrickson,22
 Foster,Precinct 06,Governor,,LIB,DuWayne Hendrickson,11
 Golden Valley,Precinct #1,Governor,,LIB,DuWayne Hendrickson,46
 Golden Valley,GOLDEN VALLEY,Governor,,LIB,DuWayne Hendrickson,46
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Governor,,LIB,DuWayne Hendrickson,11
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Governor,,LIB,DuWayne Hendrickson,11
 Grand Forks,1705 Alerus 05 GF W6P2,Governor,,LIB,DuWayne Hendrickson,107
 Grand Forks,4324 Alerus 24 GF W6P1,Governor,,LIB,DuWayne Hendrickson,43
 Grand Forks,4325 Alerus 25 GF W6P3,Governor,,LIB,DuWayne Hendrickson,21
@@ -4384,7 +4384,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Governor,,LIB,DuWayne Hendrickson,59
 Grand Forks,4327 Alerus 27 GF W7P2,Governor,,LIB,DuWayne Hendrickson,50
 Grand Forks,1806 Bible Baptist Church out GFAFB,Governor,,LIB,DuWayne Hendrickson,22
 Grand Forks,2017 Emerado Community Hall out GFAFB,Governor,,LIB,DuWayne Hendrickson,25
-Grand Forks,1913 Gilby Presbyterian Church out ,Governor,,LIB,DuWayne Hendrickson,19
+Grand Forks,1913 Gilby Presbyterian Church out,Governor,,LIB,DuWayne Hendrickson,19
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Governor,,LIB,DuWayne Hendrickson,29
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Governor,,LIB,DuWayne Hendrickson,37
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Governor,,LIB,DuWayne Hendrickson,46
@@ -4399,7 +4399,7 @@ Grand Forks,1915 Manvel Public School out,Governor,,LIB,DuWayne Hendrickson,13
 Grand Forks,1916 Northwood Community Centerout 1916,Governor,,LIB,DuWayne Hendrickson,18
 Grand Forks,4219 Public Works gf W1P1,Governor,,LIB,DuWayne Hendrickson,34
 Grand Forks,4220 Public Works gf W1P2,Governor,,LIB,DuWayne Hendrickson,56
-Grand Forks,2018 Thompson Community Center OUT ,Governor,,LIB,DuWayne Hendrickson,46
+Grand Forks,2018 Thompson Community Center OUT,Governor,,LIB,DuWayne Hendrickson,46
 Grand Forks,1807 UND Wellness Center gf W2P3,Governor,,LIB,DuWayne Hendrickson,20
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Governor,,LIB,DuWayne Hendrickson,32
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Governor,,LIB,DuWayne Hendrickson,34
@@ -4550,7 +4550,7 @@ Richland,WAHPETON FAITH CHURCH,Governor,,LIB,DuWayne Hendrickson,21
 Richland,WAHPETON RICHLAND LEC,Governor,,LIB,DuWayne Hendrickson,35
 Richland,WALCOTT,Governor,,LIB,DuWayne Hendrickson,15
 Richland,WYNDMERE,Governor,,LIB,DuWayne Hendrickson,12
-Rolette, Rolla #1,Governor,,LIB,DuWayne Hendrickson,18
+Rolette,Rolla #1,Governor,,LIB,DuWayne Hendrickson,18
 Rolette,Dunseith #4,Governor,,LIB,DuWayne Hendrickson,19
 Rolette,Rolette #5,Governor,,LIB,DuWayne Hendrickson,9
 Rolette,St John #2,Governor,,LIB,DuWayne Hendrickson,7
@@ -4759,7 +4759,7 @@ Cass,4401 Broadway Station FARGO,Governor,,WRI,Write-ins,33
 Cass,4402 Grace Covenant Chrch FARGO,Governor,,WRI,Write-ins,29
 Cass,4501 FargoDome FARGO,Governor,,WRI,Write-ins,33
 Cass,4502 Reiles Acres Community Cn,Governor,,WRI,Write-ins,16
-Cass,4503 Harwood Community Center ,Governor,,WRI,Write-ins,13
+Cass,4503 Harwood Community Center,Governor,,WRI,Write-ins,13
 Cass,4504 Argusville Fire Hall,Governor,,WRI,Write-ins,10
 Cass,4601 The Bowler FARGO,Governor,,WRI,Write-ins,12
 Cass,4602 Atonement Lutheran FARGO,Governor,,WRI,Write-ins,34
@@ -4799,7 +4799,7 @@ Foster,Precinct 05,Governor,,WRI,Write-ins,18
 Foster,Precinct 06,Governor,,WRI,Write-ins,22
 Golden Valley,Precinct #1,Governor,,WRI,Write-ins,71
 Golden Valley,GOLDEN VALLEY,Governor,,WRI,Write-ins,71
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Governor,,WRI,Write-ins,9
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Governor,,WRI,Write-ins,9
 Grand Forks,1705 Alerus 05 GF W6P2,Governor,,WRI,Write-ins,22
 Grand Forks,4324 Alerus 24 GF W6P1,Governor,,WRI,Write-ins,14
 Grand Forks,4325 Alerus 25 GF W6P3,Governor,,WRI,Write-ins,10
@@ -4807,7 +4807,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Governor,,WRI,Write-ins,21
 Grand Forks,4327 Alerus 27 GF W7P2,Governor,,WRI,Write-ins,9
 Grand Forks,1806 Bible Baptist Church out GFAFB,Governor,,WRI,Write-ins,9
 Grand Forks,2017 Emerado Community Hall out GFAFB,Governor,,WRI,Write-ins,8
-Grand Forks,1913 Gilby Presbyterian Church out ,Governor,,WRI,Write-ins,9
+Grand Forks,1913 Gilby Presbyterian Church out,Governor,,WRI,Write-ins,9
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Governor,,WRI,Write-ins,9
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Governor,,WRI,Write-ins,12
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Governor,,WRI,Write-ins,18
@@ -4822,7 +4822,7 @@ Grand Forks,1915 Manvel Public School out,Governor,,WRI,Write-ins,8
 Grand Forks,1916 Northwood Community Centerout 1916,Governor,,WRI,Write-ins,14
 Grand Forks,4219 Public Works gf W1P1,Governor,,WRI,Write-ins,6
 Grand Forks,4220 Public Works gf W1P2,Governor,,WRI,Write-ins,6
-Grand Forks,2018 Thompson Community Center OUT ,Governor,,WRI,Write-ins,41
+Grand Forks,2018 Thompson Community Center OUT,Governor,,WRI,Write-ins,41
 Grand Forks,1807 UND Wellness Center gf W2P3,Governor,,WRI,Write-ins,4
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Governor,,WRI,Write-ins,9
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Governor,,WRI,Write-ins,10
@@ -4973,7 +4973,7 @@ Richland,WAHPETON FAITH CHURCH,Governor,,WRI,Write-ins,4
 Richland,WAHPETON RICHLAND LEC,Governor,,WRI,Write-ins,11
 Richland,WALCOTT,Governor,,WRI,Write-ins,1
 Richland,WYNDMERE,Governor,,WRI,Write-ins,22
-Rolette, Rolla #1,Governor,,WRI,Write-ins,11
+Rolette,Rolla #1,Governor,,WRI,Write-ins,11
 Rolette,Dunseith #4,Governor,,WRI,Write-ins,6
 Rolette,Rolette #5,Governor,,WRI,Write-ins,16
 Rolette,St John #2,Governor,,WRI,Write-ins,4
@@ -5182,7 +5182,7 @@ Cass,4401 Broadway Station FARGO,Auditor,,REP,Joshua Gallion,1540
 Cass,4402 Grace Covenant Chrch FARGO,Auditor,,REP,Joshua Gallion,1667
 Cass,4501 FargoDome FARGO,Auditor,,REP,Joshua Gallion,1809
 Cass,4502 Reiles Acres Community Cn,Auditor,,REP,Joshua Gallion,853
-Cass,4503 Harwood Community Center ,Auditor,,REP,Joshua Gallion,764
+Cass,4503 Harwood Community Center,Auditor,,REP,Joshua Gallion,764
 Cass,4504 Argusville Fire Hall,Auditor,,REP,Joshua Gallion,332
 Cass,4601 The Bowler FARGO,Auditor,,REP,Joshua Gallion,1030
 Cass,4602 Atonement Lutheran FARGO,Auditor,,REP,Joshua Gallion,1783
@@ -5222,7 +5222,7 @@ Foster,Precinct 05,Auditor,,REP,Joshua Gallion,356
 Foster,Precinct 06,Auditor,,REP,Joshua Gallion,364
 Golden Valley,Precinct #1,Auditor,,REP,Joshua Gallion,823
 Golden Valley,GOLDEN VALLEY,Auditor,,REP,Joshua Gallion,823
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Auditor,,REP,Joshua Gallion,538
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Auditor,,REP,Joshua Gallion,538
 Grand Forks,1705 Alerus 05 GF W6P2,Auditor,,REP,Joshua Gallion,1733
 Grand Forks,4324 Alerus 24 GF W6P1,Auditor,,REP,Joshua Gallion,717
 Grand Forks,4325 Alerus 25 GF W6P3,Auditor,,REP,Joshua Gallion,408
@@ -5230,7 +5230,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Auditor,,REP,Joshua Gallion,964
 Grand Forks,4327 Alerus 27 GF W7P2,Auditor,,REP,Joshua Gallion,881
 Grand Forks,1806 Bible Baptist Church out GFAFB,Auditor,,REP,Joshua Gallion,371
 Grand Forks,2017 Emerado Community Hall out GFAFB,Auditor,,REP,Joshua Gallion,398
-Grand Forks,1913 Gilby Presbyterian Church out ,Auditor,,REP,Joshua Gallion,272
+Grand Forks,1913 Gilby Presbyterian Church out,Auditor,,REP,Joshua Gallion,272
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Auditor,,REP,Joshua Gallion,391
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Auditor,,REP,Joshua Gallion,360
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Auditor,,REP,Joshua Gallion,619
@@ -5245,7 +5245,7 @@ Grand Forks,1915 Manvel Public School out,Auditor,,REP,Joshua Gallion,357
 Grand Forks,1916 Northwood Community Centerout 1916,Auditor,,REP,Joshua Gallion,484
 Grand Forks,4219 Public Works gf W1P1,Auditor,,REP,Joshua Gallion,580
 Grand Forks,4220 Public Works gf W1P2,Auditor,,REP,Joshua Gallion,368
-Grand Forks,2018 Thompson Community Center OUT ,Auditor,,REP,Joshua Gallion,1209
+Grand Forks,2018 Thompson Community Center OUT,Auditor,,REP,Joshua Gallion,1209
 Grand Forks,1807 UND Wellness Center gf W2P3,Auditor,,REP,Joshua Gallion,213
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Auditor,,REP,Joshua Gallion,299
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Auditor,,REP,Joshua Gallion,583
@@ -5396,7 +5396,7 @@ Richland,WAHPETON FAITH CHURCH,Auditor,,REP,Joshua Gallion,691
 Richland,WAHPETON RICHLAND LEC,Auditor,,REP,Joshua Gallion,694
 Richland,WALCOTT,Auditor,,REP,Joshua Gallion,228
 Richland,WYNDMERE,Auditor,,REP,Joshua Gallion,395
-Rolette, Rolla #1,Auditor,,REP,Joshua Gallion,348
+Rolette,Rolla #1,Auditor,,REP,Joshua Gallion,348
 Rolette,Dunseith #4,Auditor,,REP,Joshua Gallion,205
 Rolette,Rolette #5,Auditor,,REP,Joshua Gallion,308
 Rolette,St John #2,Auditor,,REP,Joshua Gallion,174
@@ -5605,7 +5605,7 @@ Cass,4401 Broadway Station FARGO,Auditor,,DNPL,Patrick Hart,2121
 Cass,4402 Grace Covenant Chrch FARGO,Auditor,,DNPL,Patrick Hart,1491
 Cass,4501 FargoDome FARGO,Auditor,,DNPL,Patrick Hart,1602
 Cass,4502 Reiles Acres Community Cn,Auditor,,DNPL,Patrick Hart,380
-Cass,4503 Harwood Community Center ,Auditor,,DNPL,Patrick Hart,340
+Cass,4503 Harwood Community Center,Auditor,,DNPL,Patrick Hart,340
 Cass,4504 Argusville Fire Hall,Auditor,,DNPL,Patrick Hart,141
 Cass,4601 The Bowler FARGO,Auditor,,DNPL,Patrick Hart,1073
 Cass,4602 Atonement Lutheran FARGO,Auditor,,DNPL,Patrick Hart,1512
@@ -5645,7 +5645,7 @@ Foster,Precinct 05,Auditor,,DNPL,Patrick Hart,155
 Foster,Precinct 06,Auditor,,DNPL,Patrick Hart,120
 Golden Valley,Precinct #1,Auditor,,DNPL,Patrick Hart,139
 Golden Valley,GOLDEN VALLEY,Auditor,,DNPL,Patrick Hart,139
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Auditor,,DNPL,Patrick Hart,232
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Auditor,,DNPL,Patrick Hart,232
 Grand Forks,1705 Alerus 05 GF W6P2,Auditor,,DNPL,Patrick Hart,1140
 Grand Forks,4324 Alerus 24 GF W6P1,Auditor,,DNPL,Patrick Hart,601
 Grand Forks,4325 Alerus 25 GF W6P3,Auditor,,DNPL,Patrick Hart,436
@@ -5653,7 +5653,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Auditor,,DNPL,Patrick Hart,769
 Grand Forks,4327 Alerus 27 GF W7P2,Auditor,,DNPL,Patrick Hart,751
 Grand Forks,1806 Bible Baptist Church out GFAFB,Auditor,,DNPL,Patrick Hart,167
 Grand Forks,2017 Emerado Community Hall out GFAFB,Auditor,,DNPL,Patrick Hart,126
-Grand Forks,1913 Gilby Presbyterian Church out ,Auditor,,DNPL,Patrick Hart,119
+Grand Forks,1913 Gilby Presbyterian Church out,Auditor,,DNPL,Patrick Hart,119
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Auditor,,DNPL,Patrick Hart,386
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Auditor,,DNPL,Patrick Hart,339
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Auditor,,DNPL,Patrick Hart,610
@@ -5668,7 +5668,7 @@ Grand Forks,1915 Manvel Public School out,Auditor,,DNPL,Patrick Hart,175
 Grand Forks,1916 Northwood Community Centerout 1916,Auditor,,DNPL,Patrick Hart,171
 Grand Forks,4219 Public Works gf W1P1,Auditor,,DNPL,Patrick Hart,441
 Grand Forks,4220 Public Works gf W1P2,Auditor,,DNPL,Patrick Hart,407
-Grand Forks,2018 Thompson Community Center OUT ,Auditor,,DNPL,Patrick Hart,443
+Grand Forks,2018 Thompson Community Center OUT,Auditor,,DNPL,Patrick Hart,443
 Grand Forks,1807 UND Wellness Center gf W2P3,Auditor,,DNPL,Patrick Hart,208
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Auditor,,DNPL,Patrick Hart,225
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Auditor,,DNPL,Patrick Hart,472
@@ -5819,7 +5819,7 @@ Richland,WAHPETON FAITH CHURCH,Auditor,,DNPL,Patrick Hart,333
 Richland,WAHPETON RICHLAND LEC,Auditor,,DNPL,Patrick Hart,351
 Richland,WALCOTT,Auditor,,DNPL,Patrick Hart,104
 Richland,WYNDMERE,Auditor,,DNPL,Patrick Hart,251
-Rolette, Rolla #1,Auditor,,DNPL,Patrick Hart,269
+Rolette,Rolla #1,Auditor,,DNPL,Patrick Hart,269
 Rolette,Dunseith #4,Auditor,,DNPL,Patrick Hart,541
 Rolette,Rolette #5,Auditor,,DNPL,Patrick Hart,193
 Rolette,St John #2,Auditor,,DNPL,Patrick Hart,254
@@ -6028,7 +6028,7 @@ Cass,4401 Broadway Station FARGO,Auditor,,WRI,Write-in,12
 Cass,4402 Grace Covenant Chrch FARGO,Auditor,,WRI,Write-in,5
 Cass,4501 FargoDome FARGO,Auditor,,WRI,Write-in,9
 Cass,4502 Reiles Acres Community Cn,Auditor,,WRI,Write-in,0
-Cass,4503 Harwood Community Center ,Auditor,,WRI,Write-in,1
+Cass,4503 Harwood Community Center,Auditor,,WRI,Write-in,1
 Cass,4504 Argusville Fire Hall,Auditor,,WRI,Write-in,0
 Cass,4601 The Bowler FARGO,Auditor,,WRI,Write-in,4
 Cass,4602 Atonement Lutheran FARGO,Auditor,,WRI,Write-in,8
@@ -6068,7 +6068,7 @@ Foster,Precinct 05,Auditor,,WRI,Write-in,0
 Foster,Precinct 06,Auditor,,WRI,Write-in,1
 Golden Valley,Precinct #1,Auditor,,WRI,Write-in,0
 Golden Valley,GOLDEN VALLEY,Auditor,,WRI,Write-in,0
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Auditor,,WRI,Write-in,1
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Auditor,,WRI,Write-in,1
 Grand Forks,1705 Alerus 05 GF W6P2,Auditor,,WRI,Write-in,1
 Grand Forks,4324 Alerus 24 GF W6P1,Auditor,,WRI,Write-in,1
 Grand Forks,4325 Alerus 25 GF W6P3,Auditor,,WRI,Write-in,0
@@ -6076,7 +6076,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Auditor,,WRI,Write-in,2
 Grand Forks,4327 Alerus 27 GF W7P2,Auditor,,WRI,Write-in,5
 Grand Forks,1806 Bible Baptist Church out GFAFB,Auditor,,WRI,Write-in,2
 Grand Forks,2017 Emerado Community Hall out GFAFB,Auditor,,WRI,Write-in,1
-Grand Forks,1913 Gilby Presbyterian Church out ,Auditor,,WRI,Write-in,0
+Grand Forks,1913 Gilby Presbyterian Church out,Auditor,,WRI,Write-in,0
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Auditor,,WRI,Write-in,0
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Auditor,,WRI,Write-in,0
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Auditor,,WRI,Write-in,1
@@ -6091,7 +6091,7 @@ Grand Forks,1915 Manvel Public School out,Auditor,,WRI,Write-in,0
 Grand Forks,1916 Northwood Community Centerout 1916,Auditor,,WRI,Write-in,1
 Grand Forks,4219 Public Works gf W1P1,Auditor,,WRI,Write-in,1
 Grand Forks,4220 Public Works gf W1P2,Auditor,,WRI,Write-in,1
-Grand Forks,2018 Thompson Community Center OUT ,Auditor,,WRI,Write-in,1
+Grand Forks,2018 Thompson Community Center OUT,Auditor,,WRI,Write-in,1
 Grand Forks,1807 UND Wellness Center gf W2P3,Auditor,,WRI,Write-in,1
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Auditor,,WRI,Write-in,2
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Auditor,,WRI,Write-in,1
@@ -6242,7 +6242,7 @@ Richland,WAHPETON FAITH CHURCH,Auditor,,WRI,Write-in,1
 Richland,WAHPETON RICHLAND LEC,Auditor,,WRI,Write-in,1
 Richland,WALCOTT,Auditor,,WRI,Write-in,0
 Richland,WYNDMERE,Auditor,,WRI,Write-in,0
-Rolette, Rolla #1,Auditor,,WRI,Write-in,1
+Rolette,Rolla #1,Auditor,,WRI,Write-in,1
 Rolette,Dunseith #4,Auditor,,WRI,Write-in,0
 Rolette,Rolette #5,Auditor,,WRI,Write-in,1
 Rolette,St John #2,Auditor,,WRI,Write-in,1
@@ -6451,7 +6451,7 @@ Cass,4401 Broadway Station FARGO,Treasurer,,REP,Thomas Beadle,1556
 Cass,4402 Grace Covenant Chrch FARGO,Treasurer,,REP,Thomas Beadle,1667
 Cass,4501 FargoDome FARGO,Treasurer,,REP,Thomas Beadle,1799
 Cass,4502 Reiles Acres Community Cn,Treasurer,,REP,Thomas Beadle,823
-Cass,4503 Harwood Community Center ,Treasurer,,REP,Thomas Beadle,751
+Cass,4503 Harwood Community Center,Treasurer,,REP,Thomas Beadle,751
 Cass,4504 Argusville Fire Hall,Treasurer,,REP,Thomas Beadle,324
 Cass,4601 The Bowler FARGO,Treasurer,,REP,Thomas Beadle,1025
 Cass,4602 Atonement Lutheran FARGO,Treasurer,,REP,Thomas Beadle,1771
@@ -6491,7 +6491,7 @@ Foster,Precinct 05,Treasurer,,REP,Thomas Beadle,361
 Foster,Precinct 06,Treasurer,,REP,Thomas Beadle,362
 Golden Valley,Precinct #1,Treasurer,,REP,Thomas Beadle,790
 Golden Valley,GOLDEN VALLEY,Treasurer,,REP,Thomas Beadle,790
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Treasurer,,REP,Thomas Beadle,528
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Treasurer,,REP,Thomas Beadle,528
 Grand Forks,1705 Alerus 05 GF W6P2,Treasurer,,REP,Thomas Beadle,1739
 Grand Forks,4324 Alerus 24 GF W6P1,Treasurer,,REP,Thomas Beadle,714
 Grand Forks,4325 Alerus 25 GF W6P3,Treasurer,,REP,Thomas Beadle,419
@@ -6499,7 +6499,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Treasurer,,REP,Thomas Beadle,966
 Grand Forks,4327 Alerus 27 GF W7P2,Treasurer,,REP,Thomas Beadle,885
 Grand Forks,1806 Bible Baptist Church out GFAFB,Treasurer,,REP,Thomas Beadle,361
 Grand Forks,2017 Emerado Community Hall out GFAFB,Treasurer,,REP,Thomas Beadle,397
-Grand Forks,1913 Gilby Presbyterian Church out ,Treasurer,,REP,Thomas Beadle,276
+Grand Forks,1913 Gilby Presbyterian Church out,Treasurer,,REP,Thomas Beadle,276
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Treasurer,,REP,Thomas Beadle,390
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Treasurer,,REP,Thomas Beadle,361
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Treasurer,,REP,Thomas Beadle,601
@@ -6514,7 +6514,7 @@ Grand Forks,1915 Manvel Public School out,Treasurer,,REP,Thomas Beadle,367
 Grand Forks,1916 Northwood Community Centerout 1916,Treasurer,,REP,Thomas Beadle,477
 Grand Forks,4219 Public Works gf W1P1,Treasurer,,REP,Thomas Beadle,583
 Grand Forks,4220 Public Works gf W1P2,Treasurer,,REP,Thomas Beadle,355
-Grand Forks,2018 Thompson Community Center OUT ,Treasurer,,REP,Thomas Beadle,1147
+Grand Forks,2018 Thompson Community Center OUT,Treasurer,,REP,Thomas Beadle,1147
 Grand Forks,1807 UND Wellness Center gf W2P3,Treasurer,,REP,Thomas Beadle,219
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Treasurer,,REP,Thomas Beadle,289
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Treasurer,,REP,Thomas Beadle,552
@@ -6665,7 +6665,7 @@ Richland,WAHPETON FAITH CHURCH,Treasurer,,REP,Thomas Beadle,664
 Richland,WAHPETON RICHLAND LEC,Treasurer,,REP,Thomas Beadle,706
 Richland,WALCOTT,Treasurer,,REP,Thomas Beadle,221
 Richland,WYNDMERE,Treasurer,,REP,Thomas Beadle,383
-Rolette, Rolla #1,Treasurer,,REP,Thomas Beadle,338
+Rolette,Rolla #1,Treasurer,,REP,Thomas Beadle,338
 Rolette,Dunseith #4,Treasurer,,REP,Thomas Beadle,209
 Rolette,Rolette #5,Treasurer,,REP,Thomas Beadle,292
 Rolette,St John #2,Treasurer,,REP,Thomas Beadle,176
@@ -6874,7 +6874,7 @@ Cass,4401 Broadway Station FARGO,Treasurer,,DNPL,Mark Haugen,2123
 Cass,4402 Grace Covenant Chrch FARGO,Treasurer,,DNPL,Mark Haugen,1520
 Cass,4501 FargoDome FARGO,Treasurer,,DNPL,Mark Haugen,1612
 Cass,4502 Reiles Acres Community Cn,Treasurer,,DNPL,Mark Haugen,411
-Cass,4503 Harwood Community Center ,Treasurer,,DNPL,Mark Haugen,360
+Cass,4503 Harwood Community Center,Treasurer,,DNPL,Mark Haugen,360
 Cass,4504 Argusville Fire Hall,Treasurer,,DNPL,Mark Haugen,150
 Cass,4601 The Bowler FARGO,Treasurer,,DNPL,Mark Haugen,1087
 Cass,4602 Atonement Lutheran FARGO,Treasurer,,DNPL,Mark Haugen,1536
@@ -6914,7 +6914,7 @@ Foster,Precinct 05,Treasurer,,DNPL,Mark Haugen,154
 Foster,Precinct 06,Treasurer,,DNPL,Mark Haugen,120
 Golden Valley,Precinct #1,Treasurer,,DNPL,Mark Haugen,182
 Golden Valley,GOLDEN VALLEY,Treasurer,,DNPL,Mark Haugen,182
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Treasurer,,DNPL,Mark Haugen,243
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Treasurer,,DNPL,Mark Haugen,243
 Grand Forks,1705 Alerus 05 GF W6P2,Treasurer,,DNPL,Mark Haugen,1127
 Grand Forks,4324 Alerus 24 GF W6P1,Treasurer,,DNPL,Mark Haugen,606
 Grand Forks,4325 Alerus 25 GF W6P3,Treasurer,,DNPL,Mark Haugen,430
@@ -6922,7 +6922,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Treasurer,,DNPL,Mark Haugen,765
 Grand Forks,4327 Alerus 27 GF W7P2,Treasurer,,DNPL,Mark Haugen,763
 Grand Forks,1806 Bible Baptist Church out GFAFB,Treasurer,,DNPL,Mark Haugen,175
 Grand Forks,2017 Emerado Community Hall out GFAFB,Treasurer,,DNPL,Mark Haugen,128
-Grand Forks,1913 Gilby Presbyterian Church out ,Treasurer,,DNPL,Mark Haugen,114
+Grand Forks,1913 Gilby Presbyterian Church out,Treasurer,,DNPL,Mark Haugen,114
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Treasurer,,DNPL,Mark Haugen,387
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Treasurer,,DNPL,Mark Haugen,345
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Treasurer,,DNPL,Mark Haugen,630
@@ -6937,7 +6937,7 @@ Grand Forks,1915 Manvel Public School out,Treasurer,,DNPL,Mark Haugen,159
 Grand Forks,1916 Northwood Community Centerout 1916,Treasurer,,DNPL,Mark Haugen,172
 Grand Forks,4219 Public Works gf W1P1,Treasurer,,DNPL,Mark Haugen,442
 Grand Forks,4220 Public Works gf W1P2,Treasurer,,DNPL,Mark Haugen,413
-Grand Forks,2018 Thompson Community Center OUT ,Treasurer,,DNPL,Mark Haugen,507
+Grand Forks,2018 Thompson Community Center OUT,Treasurer,,DNPL,Mark Haugen,507
 Grand Forks,1807 UND Wellness Center gf W2P3,Treasurer,,DNPL,Mark Haugen,210
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Treasurer,,DNPL,Mark Haugen,235
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Treasurer,,DNPL,Mark Haugen,504
@@ -7088,7 +7088,7 @@ Richland,WAHPETON FAITH CHURCH,Treasurer,,DNPL,Mark Haugen,365
 Richland,WAHPETON RICHLAND LEC,Treasurer,,DNPL,Mark Haugen,345
 Richland,WALCOTT,Treasurer,,DNPL,Mark Haugen,108
 Richland,WYNDMERE,Treasurer,,DNPL,Mark Haugen,268
-Rolette, Rolla #1,Treasurer,,DNPL,Mark Haugen,282
+Rolette,Rolla #1,Treasurer,,DNPL,Mark Haugen,282
 Rolette,Dunseith #4,Treasurer,,DNPL,Mark Haugen,538
 Rolette,Rolette #5,Treasurer,,DNPL,Mark Haugen,218
 Rolette,St John #2,Treasurer,,DNPL,Mark Haugen,257
@@ -7297,7 +7297,7 @@ Cass,4401 Broadway Station FARGO,Treasurer,,WRI,Write-in,7
 Cass,4402 Grace Covenant Chrch FARGO,Treasurer,,WRI,Write-in,9
 Cass,4501 FargoDome FARGO,Treasurer,,WRI,Write-in,9
 Cass,4502 Reiles Acres Community Cn,Treasurer,,WRI,Write-in,1
-Cass,4503 Harwood Community Center ,Treasurer,,WRI,Write-in,2
+Cass,4503 Harwood Community Center,Treasurer,,WRI,Write-in,2
 Cass,4504 Argusville Fire Hall,Treasurer,,WRI,Write-in,1
 Cass,4601 The Bowler FARGO,Treasurer,,WRI,Write-in,2
 Cass,4602 Atonement Lutheran FARGO,Treasurer,,WRI,Write-in,10
@@ -7337,7 +7337,7 @@ Foster,Precinct 05,Treasurer,,WRI,Write-in,0
 Foster,Precinct 06,Treasurer,,WRI,Write-in,4
 Golden Valley,Precinct #1,Treasurer,,WRI,Write-in,6
 Golden Valley,GOLDEN VALLEY,Treasurer,,WRI,Write-in,6
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Treasurer,,WRI,Write-in,3
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Treasurer,,WRI,Write-in,3
 Grand Forks,1705 Alerus 05 GF W6P2,Treasurer,,WRI,Write-in,8
 Grand Forks,4324 Alerus 24 GF W6P1,Treasurer,,WRI,Write-in,2
 Grand Forks,4325 Alerus 25 GF W6P3,Treasurer,,WRI,Write-in,0
@@ -7345,7 +7345,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Treasurer,,WRI,Write-in,3
 Grand Forks,4327 Alerus 27 GF W7P2,Treasurer,,WRI,Write-in,6
 Grand Forks,1806 Bible Baptist Church out GFAFB,Treasurer,,WRI,Write-in,4
 Grand Forks,2017 Emerado Community Hall out GFAFB,Treasurer,,WRI,Write-in,3
-Grand Forks,1913 Gilby Presbyterian Church out ,Treasurer,,WRI,Write-in,0
+Grand Forks,1913 Gilby Presbyterian Church out,Treasurer,,WRI,Write-in,0
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Treasurer,,WRI,Write-in,6
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Treasurer,,WRI,Write-in,3
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Treasurer,,WRI,Write-in,1
@@ -7360,7 +7360,7 @@ Grand Forks,1915 Manvel Public School out,Treasurer,,WRI,Write-in,4
 Grand Forks,1916 Northwood Community Centerout 1916,Treasurer,,WRI,Write-in,4
 Grand Forks,4219 Public Works gf W1P1,Treasurer,,WRI,Write-in,1
 Grand Forks,4220 Public Works gf W1P2,Treasurer,,WRI,Write-in,3
-Grand Forks,2018 Thompson Community Center OUT ,Treasurer,,WRI,Write-in,5
+Grand Forks,2018 Thompson Community Center OUT,Treasurer,,WRI,Write-in,5
 Grand Forks,1807 UND Wellness Center gf W2P3,Treasurer,,WRI,Write-in,0
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Treasurer,,WRI,Write-in,2
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Treasurer,,WRI,Write-in,5
@@ -7511,7 +7511,7 @@ Richland,WAHPETON FAITH CHURCH,Treasurer,,WRI,Write-in,1
 Richland,WAHPETON RICHLAND LEC,Treasurer,,WRI,Write-in,2
 Richland,WALCOTT,Treasurer,,WRI,Write-in,0
 Richland,WYNDMERE,Treasurer,,WRI,Write-in,2
-Rolette, Rolla #1,Treasurer,,WRI,Write-in,1
+Rolette,Rolla #1,Treasurer,,WRI,Write-in,1
 Rolette,Dunseith #4,Treasurer,,WRI,Write-in,1
 Rolette,Rolette #5,Treasurer,,WRI,Write-in,1
 Rolette,St John #2,Treasurer,,WRI,Write-in,1
@@ -7720,7 +7720,7 @@ Cass,4401 Broadway Station FARGO,Insurance,,REP,John Godfread,2535
 Cass,4402 Grace Covenant Chrch FARGO,Insurance,,REP,John Godfread,2481
 Cass,4501 FargoDome FARGO,Insurance,,REP,John Godfread,2725
 Cass,4502 Reiles Acres Community Cn,Insurance,,REP,John Godfread,1081
-Cass,4503 Harwood Community Center ,Insurance,,REP,John Godfread,997
+Cass,4503 Harwood Community Center,Insurance,,REP,John Godfread,997
 Cass,4504 Argusville Fire Hall,Insurance,,REP,John Godfread,430
 Cass,4601 The Bowler FARGO,Insurance,,REP,John Godfread,1616
 Cass,4602 Atonement Lutheran FARGO,Insurance,,REP,John Godfread,2640
@@ -7760,7 +7760,7 @@ Foster,Precinct 05,Insurance,,REP,John Godfread,460
 Foster,Precinct 06,Insurance,,REP,John Godfread,422
 Golden Valley,Precinct #1,Insurance,,REP,John Godfread,890
 Golden Valley,GOLDEN VALLEY,Insurance,,REP,John Godfread,890
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Insurance,,REP,John Godfread,680
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Insurance,,REP,John Godfread,680
 Grand Forks,1705 Alerus 05 GF W6P2,Insurance,,REP,John Godfread,2402
 Grand Forks,4324 Alerus 24 GF W6P1,Insurance,,REP,John Godfread,1033
 Grand Forks,4325 Alerus 25 GF W6P3,Insurance,,REP,John Godfread,659
@@ -7768,7 +7768,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Insurance,,REP,John Godfread,1377
 Grand Forks,4327 Alerus 27 GF W7P2,Insurance,,REP,John Godfread,1263
 Grand Forks,1806 Bible Baptist Church out GFAFB,Insurance,,REP,John Godfread,457
 Grand Forks,2017 Emerado Community Hall out GFAFB,Insurance,,REP,John Godfread,467
-Grand Forks,1913 Gilby Presbyterian Church out ,Insurance,,REP,John Godfread,343
+Grand Forks,1913 Gilby Presbyterian Church out,Insurance,,REP,John Godfread,343
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Insurance,,REP,John Godfread,583
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Insurance,,REP,John Godfread,554
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Insurance,,REP,John Godfread,925
@@ -7783,7 +7783,7 @@ Grand Forks,1915 Manvel Public School out,Insurance,,REP,John Godfread,465
 Grand Forks,1916 Northwood Community Centerout 1916,Insurance,,REP,John Godfread,603
 Grand Forks,4219 Public Works gf W1P1,Insurance,,REP,John Godfread,841
 Grand Forks,4220 Public Works gf W1P2,Insurance,,REP,John Godfread,582
-Grand Forks,2018 Thompson Community Center OUT ,Insurance,,REP,John Godfread,1468
+Grand Forks,2018 Thompson Community Center OUT,Insurance,,REP,John Godfread,1468
 Grand Forks,1807 UND Wellness Center gf W2P3,Insurance,,REP,John Godfread,338
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Insurance,,REP,John Godfread,426
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Insurance,,REP,John Godfread,839
@@ -7934,7 +7934,7 @@ Richland,WAHPETON FAITH CHURCH,Insurance,,REP,John Godfread,907
 Richland,WAHPETON RICHLAND LEC,Insurance,,REP,John Godfread,915
 Richland,WALCOTT,Insurance,,REP,John Godfread,289
 Richland,WYNDMERE,Insurance,,REP,John Godfread,516
-Rolette, Rolla #1,Insurance,,REP,John Godfread,511
+Rolette,Rolla #1,Insurance,,REP,John Godfread,511
 Rolette,Dunseith #4,Insurance,,REP,John Godfread,462
 Rolette,Rolette #5,Insurance,,REP,John Godfread,410
 Rolette,St John #2,Insurance,,REP,John Godfread,315
@@ -8143,7 +8143,7 @@ Cass,4401 Broadway Station FARGO,Insurance,,WRI,Write-in,183
 Cass,4402 Grace Covenant Chrch FARGO,Insurance,,WRI,Write-in,80
 Cass,4501 FargoDome FARGO,Insurance,,WRI,Write-in,123
 Cass,4502 Reiles Acres Community Cn,Insurance,,WRI,Write-in,29
-Cass,4503 Harwood Community Center ,Insurance,,WRI,Write-in,16
+Cass,4503 Harwood Community Center,Insurance,,WRI,Write-in,16
 Cass,4504 Argusville Fire Hall,Insurance,,WRI,Write-in,4
 Cass,4601 The Bowler FARGO,Insurance,,WRI,Write-in,76
 Cass,4602 Atonement Lutheran FARGO,Insurance,,WRI,Write-in,92
@@ -8183,7 +8183,7 @@ Foster,Precinct 05,Insurance,,WRI,Write-in,9
 Foster,Precinct 06,Insurance,,WRI,Write-in,5
 Golden Valley,Precinct #1,Insurance,,WRI,Write-in,7
 Golden Valley,GOLDEN VALLEY,Insurance,,WRI,Write-in,7
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,Insurance,,WRI,Write-in,12
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,Insurance,,WRI,Write-in,12
 Grand Forks,1705 Alerus 05 GF W6P2,Insurance,,WRI,Write-in,64
 Grand Forks,4324 Alerus 24 GF W6P1,Insurance,,WRI,Write-in,41
 Grand Forks,4325 Alerus 25 GF W6P3,Insurance,,WRI,Write-in,9
@@ -8191,7 +8191,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,Insurance,,WRI,Write-in,38
 Grand Forks,4327 Alerus 27 GF W7P2,Insurance,,WRI,Write-in,60
 Grand Forks,1806 Bible Baptist Church out GFAFB,Insurance,,WRI,Write-in,14
 Grand Forks,2017 Emerado Community Hall out GFAFB,Insurance,,WRI,Write-in,3
-Grand Forks,1913 Gilby Presbyterian Church out ,Insurance,,WRI,Write-in,7
+Grand Forks,1913 Gilby Presbyterian Church out,Insurance,,WRI,Write-in,7
 Grand Forks,1808 Grand Forks City Hall GF W3P1,Insurance,,WRI,Write-in,31
 Grand Forks,1809 Grand Forks City Hall GF W3P2,Insurance,,WRI,Write-in,31
 Grand Forks,1810 Grand Forks City Hall GF W3P3,Insurance,,WRI,Write-in,46
@@ -8206,7 +8206,7 @@ Grand Forks,1915 Manvel Public School out,Insurance,,WRI,Write-in,3
 Grand Forks,1916 Northwood Community Centerout 1916,Insurance,,WRI,Write-in,8
 Grand Forks,4219 Public Works gf W1P1,Insurance,,WRI,Write-in,32
 Grand Forks,4220 Public Works gf W1P2,Insurance,,WRI,Write-in,32
-Grand Forks,2018 Thompson Community Center OUT ,Insurance,,WRI,Write-in,28
+Grand Forks,2018 Thompson Community Center OUT,Insurance,,WRI,Write-in,28
 Grand Forks,1807 UND Wellness Center gf W2P3,Insurance,,WRI,Write-in,10
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,Insurance,,WRI,Write-in,11
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,Insurance,,WRI,Write-in,29
@@ -8357,7 +8357,7 @@ Richland,WAHPETON FAITH CHURCH,Insurance,,WRI,Write-in,9
 Richland,WAHPETON RICHLAND LEC,Insurance,,WRI,Write-in,20
 Richland,WALCOTT,Insurance,,WRI,Write-in,5
 Richland,WYNDMERE,Insurance,,WRI,Write-in,17
-Rolette, Rolla #1,Insurance,,WRI,Write-in,15
+Rolette,Rolla #1,Insurance,,WRI,Write-in,15
 Rolette,Dunseith #4,Insurance,,WRI,Write-in,23
 Rolette,Rolette #5,Insurance,,WRI,Write-in,12
 Rolette,St John #2,Insurance,,WRI,Write-in,18
@@ -8566,7 +8566,7 @@ Cass,4401 Broadway Station FARGO,PSC,,REP,Brian Kroshus,1499
 Cass,4402 Grace Covenant Chrch FARGO,PSC,,REP,Brian Kroshus,1703
 Cass,4501 FargoDome FARGO,PSC,,REP,Brian Kroshus,1818
 Cass,4502 Reiles Acres Community Cn,PSC,,REP,Brian Kroshus,844
-Cass,4503 Harwood Community Center ,PSC,,REP,Brian Kroshus,774
+Cass,4503 Harwood Community Center,PSC,,REP,Brian Kroshus,774
 Cass,4504 Argusville Fire Hall,PSC,,REP,Brian Kroshus,329
 Cass,4601 The Bowler FARGO,PSC,,REP,Brian Kroshus,1008
 Cass,4602 Atonement Lutheran FARGO,PSC,,REP,Brian Kroshus,1818
@@ -8606,7 +8606,7 @@ Foster,Precinct 05,PSC,,REP,Brian Kroshus,357
 Foster,Precinct 06,PSC,,REP,Brian Kroshus,364
 Golden Valley,Precinct #1,PSC,,REP,Brian Kroshus,829
 Golden Valley,GOLDEN VALLEY,PSC,,REP,Brian Kroshus,829
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,PSC,,REP,Brian Kroshus,543
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,PSC,,REP,Brian Kroshus,543
 Grand Forks,1705 Alerus 05 GF W6P2,PSC,,REP,Brian Kroshus,1718
 Grand Forks,4324 Alerus 24 GF W6P1,PSC,,REP,Brian Kroshus,710
 Grand Forks,4325 Alerus 25 GF W6P3,PSC,,REP,Brian Kroshus,401
@@ -8614,7 +8614,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,PSC,,REP,Brian Kroshus,949
 Grand Forks,4327 Alerus 27 GF W7P2,PSC,,REP,Brian Kroshus,866
 Grand Forks,1806 Bible Baptist Church out GFAFB,PSC,,REP,Brian Kroshus,361
 Grand Forks,2017 Emerado Community Hall out GFAFB,PSC,,REP,Brian Kroshus,393
-Grand Forks,1913 Gilby Presbyterian Church out ,PSC,,REP,Brian Kroshus,284
+Grand Forks,1913 Gilby Presbyterian Church out,PSC,,REP,Brian Kroshus,284
 Grand Forks,1808 Grand Forks City Hall GF W3P1,PSC,,REP,Brian Kroshus,365
 Grand Forks,1809 Grand Forks City Hall GF W3P2,PSC,,REP,Brian Kroshus,341
 Grand Forks,1810 Grand Forks City Hall GF W3P3,PSC,,REP,Brian Kroshus,587
@@ -8629,7 +8629,7 @@ Grand Forks,1915 Manvel Public School out,PSC,,REP,Brian Kroshus,366
 Grand Forks,1916 Northwood Community Centerout 1916,PSC,,REP,Brian Kroshus,480
 Grand Forks,4219 Public Works gf W1P1,PSC,,REP,Brian Kroshus,575
 Grand Forks,4220 Public Works gf W1P2,PSC,,REP,Brian Kroshus,357
-Grand Forks,2018 Thompson Community Center OUT ,PSC,,REP,Brian Kroshus,1162
+Grand Forks,2018 Thompson Community Center OUT,PSC,,REP,Brian Kroshus,1162
 Grand Forks,1807 UND Wellness Center gf W2P3,PSC,,REP,Brian Kroshus,206
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,PSC,,REP,Brian Kroshus,279
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,PSC,,REP,Brian Kroshus,531
@@ -8780,7 +8780,7 @@ Richland,WAHPETON FAITH CHURCH,PSC,,REP,Brian Kroshus,677
 Richland,WAHPETON RICHLAND LEC,PSC,,REP,Brian Kroshus,709
 Richland,WALCOTT,PSC,,REP,Brian Kroshus,221
 Richland,WYNDMERE,PSC,,REP,Brian Kroshus,380
-Rolette, Rolla #1,PSC,,REP,Brian Kroshus,342
+Rolette,Rolla #1,PSC,,REP,Brian Kroshus,342
 Rolette,Dunseith #4,PSC,,REP,Brian Kroshus,213
 Rolette,Rolette #5,PSC,,REP,Brian Kroshus,303
 Rolette,St John #2,PSC,,REP,Brian Kroshus,179
@@ -8989,7 +8989,7 @@ Cass,4401 Broadway Station FARGO,PSC,,DNPL,Casey Buchmann,2154
 Cass,4402 Grace Covenant Chrch FARGO,PSC,,DNPL,Casey Buchmann,1451
 Cass,4501 FargoDome FARGO,PSC,,DNPL,Casey Buchmann,1587
 Cass,4502 Reiles Acres Community Cn,PSC,,DNPL,Casey Buchmann,375
-Cass,4503 Harwood Community Center ,PSC,,DNPL,Casey Buchmann,326
+Cass,4503 Harwood Community Center,PSC,,DNPL,Casey Buchmann,326
 Cass,4504 Argusville Fire Hall,PSC,,DNPL,Casey Buchmann,141
 Cass,4601 The Bowler FARGO,PSC,,DNPL,Casey Buchmann,1057
 Cass,4602 Atonement Lutheran FARGO,PSC,,DNPL,Casey Buchmann,1433
@@ -9029,7 +9029,7 @@ Foster,Precinct 05,PSC,,DNPL,Casey Buchmann,148
 Foster,Precinct 06,PSC,,DNPL,Casey Buchmann,115
 Golden Valley,Precinct #1,PSC,,DNPL,Casey Buchmann,146
 Golden Valley,GOLDEN VALLEY,PSC,,DNPL,Casey Buchmann,146
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,PSC,,DNPL,Casey Buchmann,223
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,PSC,,DNPL,Casey Buchmann,223
 Grand Forks,1705 Alerus 05 GF W6P2,PSC,,DNPL,Casey Buchmann,1125
 Grand Forks,4324 Alerus 24 GF W6P1,PSC,,DNPL,Casey Buchmann,602
 Grand Forks,4325 Alerus 25 GF W6P3,PSC,,DNPL,Casey Buchmann,434
@@ -9037,7 +9037,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,PSC,,DNPL,Casey Buchmann,759
 Grand Forks,4327 Alerus 27 GF W7P2,PSC,,DNPL,Casey Buchmann,762
 Grand Forks,1806 Bible Baptist Church out GFAFB,PSC,,DNPL,Casey Buchmann,171
 Grand Forks,2017 Emerado Community Hall out GFAFB,PSC,,DNPL,Casey Buchmann,126
-Grand Forks,1913 Gilby Presbyterian Church out ,PSC,,DNPL,Casey Buchmann,102
+Grand Forks,1913 Gilby Presbyterian Church out,PSC,,DNPL,Casey Buchmann,102
 Grand Forks,1808 Grand Forks City Hall GF W3P1,PSC,,DNPL,Casey Buchmann,379
 Grand Forks,1809 Grand Forks City Hall GF W3P2,PSC,,DNPL,Casey Buchmann,340
 Grand Forks,1810 Grand Forks City Hall GF W3P3,PSC,,DNPL,Casey Buchmann,608
@@ -9052,7 +9052,7 @@ Grand Forks,1915 Manvel Public School out,PSC,,DNPL,Casey Buchmann,168
 Grand Forks,1916 Northwood Community Centerout 1916,PSC,,DNPL,Casey Buchmann,169
 Grand Forks,4219 Public Works gf W1P1,PSC,,DNPL,Casey Buchmann,421
 Grand Forks,4220 Public Works gf W1P2,PSC,,DNPL,Casey Buchmann,402
-Grand Forks,2018 Thompson Community Center OUT ,PSC,,DNPL,Casey Buchmann,462
+Grand Forks,2018 Thompson Community Center OUT,PSC,,DNPL,Casey Buchmann,462
 Grand Forks,1807 UND Wellness Center gf W2P3,PSC,,DNPL,Casey Buchmann,211
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,PSC,,DNPL,Casey Buchmann,234
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,PSC,,DNPL,Casey Buchmann,497
@@ -9203,7 +9203,7 @@ Richland,WAHPETON FAITH CHURCH,PSC,,DNPL,Casey Buchmann,350
 Richland,WAHPETON RICHLAND LEC,PSC,,DNPL,Casey Buchmann,334
 Richland,WALCOTT,PSC,,DNPL,Casey Buchmann,108
 Richland,WYNDMERE,PSC,,DNPL,Casey Buchmann,245
-Rolette, Rolla #1,PSC,,DNPL,Casey Buchmann,271
+Rolette,Rolla #1,PSC,,DNPL,Casey Buchmann,271
 Rolette,Dunseith #4,PSC,,DNPL,Casey Buchmann,525
 Rolette,Rolette #5,PSC,,DNPL,Casey Buchmann,200
 Rolette,St John #2,PSC,,DNPL,Casey Buchmann,246
@@ -9412,7 +9412,7 @@ Cass,4401 Broadway Station FARGO,PSC,,WRI,Write-in,4
 Cass,4402 Grace Covenant Chrch FARGO,PSC,,WRI,Write-in,3
 Cass,4501 FargoDome FARGO,PSC,,WRI,Write-in,6
 Cass,4502 Reiles Acres Community Cn,PSC,,WRI,Write-in,1
-Cass,4503 Harwood Community Center ,PSC,,WRI,Write-in,0
+Cass,4503 Harwood Community Center,PSC,,WRI,Write-in,0
 Cass,4504 Argusville Fire Hall,PSC,,WRI,Write-in,1
 Cass,4601 The Bowler FARGO,PSC,,WRI,Write-in,6
 Cass,4602 Atonement Lutheran FARGO,PSC,,WRI,Write-in,4
@@ -9452,7 +9452,7 @@ Foster,Precinct 05,PSC,,WRI,Write-in,0
 Foster,Precinct 06,PSC,,WRI,Write-in,1
 Golden Valley,Precinct #1,PSC,,WRI,Write-in,0
 Golden Valley,GOLDEN VALLEY,PSC,,WRI,Write-in,0
-Grand Forks,1701 Alerus 01 Brenna/GF twp out ,PSC,,WRI,Write-in,0
+Grand Forks,1701 Alerus 01 Brenna/GF twp out,PSC,,WRI,Write-in,0
 Grand Forks,1705 Alerus 05 GF W6P2,PSC,,WRI,Write-in,4
 Grand Forks,4324 Alerus 24 GF W6P1,PSC,,WRI,Write-in,1
 Grand Forks,4325 Alerus 25 GF W6P3,PSC,,WRI,Write-in,1
@@ -9460,7 +9460,7 @@ Grand Forks,4326 Alerus 26 GF W7P1,PSC,,WRI,Write-in,4
 Grand Forks,4327 Alerus 27 GF W7P2,PSC,,WRI,Write-in,3
 Grand Forks,1806 Bible Baptist Church out GFAFB,PSC,,WRI,Write-in,2
 Grand Forks,2017 Emerado Community Hall out GFAFB,PSC,,WRI,Write-in,1
-Grand Forks,1913 Gilby Presbyterian Church out ,PSC,,WRI,Write-in,0
+Grand Forks,1913 Gilby Presbyterian Church out,PSC,,WRI,Write-in,0
 Grand Forks,1808 Grand Forks City Hall GF W3P1,PSC,,WRI,Write-in,3
 Grand Forks,1809 Grand Forks City Hall GF W3P2,PSC,,WRI,Write-in,1
 Grand Forks,1810 Grand Forks City Hall GF W3P3,PSC,,WRI,Write-in,2
@@ -9475,7 +9475,7 @@ Grand Forks,1915 Manvel Public School out,PSC,,WRI,Write-in,0
 Grand Forks,1916 Northwood Community Centerout 1916,PSC,,WRI,Write-in,0
 Grand Forks,4219 Public Works gf W1P1,PSC,,WRI,Write-in,1
 Grand Forks,4220 Public Works gf W1P2,PSC,,WRI,Write-in,0
-Grand Forks,2018 Thompson Community Center OUT ,PSC,,WRI,Write-in,1
+Grand Forks,2018 Thompson Community Center OUT,PSC,,WRI,Write-in,1
 Grand Forks,1807 UND Wellness Center gf W2P3,PSC,,WRI,Write-in,0
 Grand Forks,4221 UND Wellness Center gf 4221 W2P1,PSC,,WRI,Write-in,2
 Grand Forks,4222 UND Wellness Center gf 4222 W2P2,PSC,,WRI,Write-in,1
@@ -9626,7 +9626,7 @@ Richland,WAHPETON FAITH CHURCH,PSC,,WRI,Write-in,1
 Richland,WAHPETON RICHLAND LEC,PSC,,WRI,Write-in,1
 Richland,WALCOTT,PSC,,WRI,Write-in,1
 Richland,WYNDMERE,PSC,,WRI,Write-in,1
-Rolette, Rolla #1,PSC,,WRI,Write-in,0
+Rolette,Rolla #1,PSC,,WRI,Write-in,0
 Rolette,Dunseith #4,PSC,,WRI,Write-in,0
 Rolette,Rolette #5,PSC,,WRI,Write-in,1
 Rolette,St John #2,PSC,,WRI,Write-in,2
@@ -9943,64 +9943,64 @@ Ward,Des Lacs Community Hall,State Senate,38,REP,David Hogue,251
 Ward,Dist 38 Minot,State Senate,38,REP,David Hogue,3625
 Ward,Harrison Courthouse,State Senate,38,REP,David Hogue,772
 Ward,North Central,State Senate,38,REP,David Hogue,225
-Ward,Dist 40 Minot,State Senate,40,REP,Karen Kay Krebsbach ,3722
-Ward,Ruthville,State Senate,40,REP,Karen Kay Krebsbach ,533
+Ward,Dist 40 Minot,State Senate,40,REP,Karen Kay Krebsbach,3722
+Ward,Ruthville,State Senate,40,REP,Karen Kay Krebsbach,533
 Grand Forks,Public Works 19,State Senate,42,REP,Curt Kreun,608
 Grand Forks,Public Works 20,State Senate,42,REP,Curt Kreun,364
 Grand Forks,UND Wellness Center 21,State Senate,42,REP,Curt Kreun,311
 Grand Forks,UND Wellness Center 22,State Senate,42,REP,Curt Kreun,573
 Cass,4401 Broadway Station,State Senate,44,REP,Tim Flakoll,1509
 Cass,4402 Grace Covenant Chrch,State Senate,44,REP,Tim Flakoll,1700
-Cass,4601 The Bowler,State Senate,46,REP,Jim  Roers ,1051
-Cass,4602 Atonement Lutheran,State Senate,46,REP,Jim  Roers ,1849
-Cass,4603 Riverview Place,State Senate,46,REP,Jim  Roers ,1374
-Burke,Precinct 01,State House,2,REP,Bert  Anderson ,39
-Burke,Precinct 02,State House,2,REP,Bert  Anderson ,227
-Burke,Precinct 03,State House,2,REP,Bert  Anderson ,269
-Burke,Precinct 04,State House,2,REP,Bert  Anderson ,129
-Burke,Precinct 05,State House,2,REP,Bert  Anderson ,98
-Burke,Precinct 06,State House,2,REP,Bert  Anderson ,57
-Divide,Precinct 1,State House,2,REP,Bert  Anderson ,449
-Divide,Precinct 2,State House,2,REP,Bert  Anderson ,216
-Divide,Precinct 3,State House,2,REP,Bert  Anderson ,119
-Divide,Precinct 4,State House,2,REP,Bert  Anderson ,107
-Mountrail,Precinct 01,State House,2,REP,Bert  Anderson ,519
-Mountrail,Precinct 06,State House,2,REP,Bert  Anderson ,114
-Mountrail,Precinct 07,State House,2,REP,Bert  Anderson ,274
-Williams,Precinct 43,State House,2,REP,Bert  Anderson ,992
-Williams,Precinct 45,State House,2,REP,Bert  Anderson ,123
-Williams,Precinct 48,State House,2,REP,Bert  Anderson ,1228
-Williams,Precinct 53,State House,2,REP,Bert  Anderson ,111
-Williams,Precinct 55,State House,2,REP,Bert  Anderson ,210
-Williams,Precinct 62,State House,2,REP,Bert  Anderson ,226
-Williams,Precinct 63,State House,2,REP,Bert  Anderson ,323
-Williams,Precinct 64,State House,2,REP,Bert  Anderson ,734
-Williams,Precinct 65,State House,2,REP,Bert  Anderson ,146
-Williams,Precinct 67,State House,2,REP,Bert  Anderson ,138
-Williams,Precinct 76,State House,2,REP,Bert  Anderson ,412
-Dunn,Antelope - Twin Buttes,State House,4,REP,Clayton  Fegley ,33
-Dunn,Collins/Halliday,State House,4,REP,Clayton  Fegley ,168
-Dunn,Dodge/Loring,State House,4,REP,Clayton  Fegley ,60
-Dunn,Dunn Center/Decorah,State House,4,REP,Clayton  Fegley ,271
-Dunn,North Fox,State House,4,REP,Clayton  Fegley ,14
-McKenzie,04-01 Four Bears,State House,4,REP,Clayton  Fegley ,27
-McKenzie,04-02 Mandaree,State House,4,REP,Clayton  Fegley ,19
-McKenzie,MCKENZIE,State House,4,REP,Clayton  Fegley ,46
-McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,REP,Clayton  Fegley ,485
-McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,REP,Clayton  Fegley ,28
-Mercer,Precinct 0401,State House,4,REP,Clayton  Fegley ,5
-Mountrail,Precinct 02,State House,4,REP,Clayton  Fegley ,164
-Mountrail,Precinct 03,State House,4,REP,Clayton  Fegley ,195
-Mountrail,Precinct 04,State House,4,REP,Clayton  Fegley ,160
-Mountrail,Precinct 05,State House,4,REP,Clayton  Fegley ,262
-Mountrail,Precinct 08,State House,4,REP,Clayton  Fegley ,302
-Mountrail,Precinct 09,State House,4,REP,Clayton  Fegley ,189
-Ward,Berthold Sr Citizen Center,State House,4,REP,Clayton  Fegley ,455
-Ward,Kenmare Memorial Hall,State House,4,REP,Clayton  Fegley ,601
-Ward,Makoti Pioneer Sr Citizen Club,State House,4,REP,Clayton  Fegley ,131
-Ward,Ryder City Building,State House,4,REP,Clayton  Fegley ,168
-Ward,Sawyer City Hall,State House,4,REP,Clayton  Fegley ,386
-Ward,South Prairie School,State House,4,REP,Clayton  Fegley ,202
+Cass,4601 The Bowler,State Senate,46,REP,Jim  Roers,1051
+Cass,4602 Atonement Lutheran,State Senate,46,REP,Jim  Roers,1849
+Cass,4603 Riverview Place,State Senate,46,REP,Jim  Roers,1374
+Burke,Precinct 01,State House,2,REP,Bert  Anderson,39
+Burke,Precinct 02,State House,2,REP,Bert  Anderson,227
+Burke,Precinct 03,State House,2,REP,Bert  Anderson,269
+Burke,Precinct 04,State House,2,REP,Bert  Anderson,129
+Burke,Precinct 05,State House,2,REP,Bert  Anderson,98
+Burke,Precinct 06,State House,2,REP,Bert  Anderson,57
+Divide,Precinct 1,State House,2,REP,Bert  Anderson,449
+Divide,Precinct 2,State House,2,REP,Bert  Anderson,216
+Divide,Precinct 3,State House,2,REP,Bert  Anderson,119
+Divide,Precinct 4,State House,2,REP,Bert  Anderson,107
+Mountrail,Precinct 01,State House,2,REP,Bert  Anderson,519
+Mountrail,Precinct 06,State House,2,REP,Bert  Anderson,114
+Mountrail,Precinct 07,State House,2,REP,Bert  Anderson,274
+Williams,Precinct 43,State House,2,REP,Bert  Anderson,992
+Williams,Precinct 45,State House,2,REP,Bert  Anderson,123
+Williams,Precinct 48,State House,2,REP,Bert  Anderson,1228
+Williams,Precinct 53,State House,2,REP,Bert  Anderson,111
+Williams,Precinct 55,State House,2,REP,Bert  Anderson,210
+Williams,Precinct 62,State House,2,REP,Bert  Anderson,226
+Williams,Precinct 63,State House,2,REP,Bert  Anderson,323
+Williams,Precinct 64,State House,2,REP,Bert  Anderson,734
+Williams,Precinct 65,State House,2,REP,Bert  Anderson,146
+Williams,Precinct 67,State House,2,REP,Bert  Anderson,138
+Williams,Precinct 76,State House,2,REP,Bert  Anderson,412
+Dunn,Antelope - Twin Buttes,State House,4,REP,Clayton  Fegley,33
+Dunn,Collins/Halliday,State House,4,REP,Clayton  Fegley,168
+Dunn,Dodge/Loring,State House,4,REP,Clayton  Fegley,60
+Dunn,Dunn Center/Decorah,State House,4,REP,Clayton  Fegley,271
+Dunn,North Fox,State House,4,REP,Clayton  Fegley,14
+McKenzie,04-01 Four Bears,State House,4,REP,Clayton  Fegley,27
+McKenzie,04-02 Mandaree,State House,4,REP,Clayton  Fegley,19
+McKenzie,MCKENZIE,State House,4,REP,Clayton  Fegley,46
+McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,REP,Clayton  Fegley,485
+McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,REP,Clayton  Fegley,28
+Mercer,Precinct 0401,State House,4,REP,Clayton  Fegley,5
+Mountrail,Precinct 02,State House,4,REP,Clayton  Fegley,164
+Mountrail,Precinct 03,State House,4,REP,Clayton  Fegley,195
+Mountrail,Precinct 04,State House,4,REP,Clayton  Fegley,160
+Mountrail,Precinct 05,State House,4,REP,Clayton  Fegley,262
+Mountrail,Precinct 08,State House,4,REP,Clayton  Fegley,302
+Mountrail,Precinct 09,State House,4,REP,Clayton  Fegley,189
+Ward,Berthold Sr Citizen Center,State House,4,REP,Clayton  Fegley,455
+Ward,Kenmare Memorial Hall,State House,4,REP,Clayton  Fegley,601
+Ward,Makoti Pioneer Sr Citizen Club,State House,4,REP,Clayton  Fegley,131
+Ward,Ryder City Building,State House,4,REP,Clayton  Fegley,168
+Ward,Sawyer City Hall,State House,4,REP,Clayton  Fegley,386
+Ward,South Prairie School,State House,4,REP,Clayton  Fegley,202
 Bottineau,Precinct 01,State House,6,REP,Richard Anderson,428
 Bottineau,Precinct 02,State House,6,REP,Richard Anderson,593
 Bottineau,Precinct 03,State House,6,REP,Richard Anderson,428
@@ -10019,101 +10019,101 @@ Renville,MOHALL,State House,6,REP,Richard Anderson,394
 Renville,SHERWOOD,State House,6,REP,Richard Anderson,204
 Renville,TOLLEY,State House,6,REP,Richard Anderson,102
 Renville,WHITE ASH,State House,6,REP,Richard Anderson,50
-Burleigh,County 4-H Building 0804,State House,8,REP,David  Andahl ,1181
-Burleigh,Evangel Assembly of God 0805,State House,8,REP,David  Andahl ,962
-Burleigh,Legacy Methodist Church 0806,State House,8,REP,David  Andahl ,596
-Burleigh,Wilton County Shop 0801,State House,8,REP,David  Andahl ,174
-Burleigh,Wilton County Shop 0802,State House,8,REP,David  Andahl ,101
-Burleigh,Wing Fire Hall 0803,State House,8,REP,David  Andahl ,147
-McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,REP,David  Andahl ,2768
-Cavalier,Precinct 1,State House,10,REP,Chuck  Damschen ,1380
-Pembina,Precinct 10-01,State House,10,REP,Chuck  Damschen ,396
-Pembina,Precinct 10-02,State House,10,REP,Chuck  Damschen ,403
-Pembina,Precinct 10-03,State House,10,REP,Chuck  Damschen ,467
-Pembina,Precinct 10-04,State House,10,REP,Chuck  Damschen ,488
-Pembina,Precinct 10-05,State House,10,REP,Chuck  Damschen ,138
-Pembina,Precinct 10-06,State House,10,REP,Chuck  Damschen ,221
-Walsh,Precinct 2 -District 10,State House,10,REP,Chuck  Damschen ,921
-Stutsman,Precinct J1,State House,12,REP,Mitch  Ostlie ,573
-Stutsman,Precinct J2,State House,12,REP,Mitch  Ostlie ,967
-Stutsman,Precinct J3,State House,12,REP,Mitch  Ostlie ,670
-Stutsman,Precinct J5,State House,12,REP,Mitch  Ostlie ,625
-Stutsman,Precinct J6,State House,12,REP,Mitch  Ostlie ,486
+Burleigh,County 4-H Building 0804,State House,8,REP,David  Andahl,1181
+Burleigh,Evangel Assembly of God 0805,State House,8,REP,David  Andahl,962
+Burleigh,Legacy Methodist Church 0806,State House,8,REP,David  Andahl,596
+Burleigh,Wilton County Shop 0801,State House,8,REP,David  Andahl,174
+Burleigh,Wilton County Shop 0802,State House,8,REP,David  Andahl,101
+Burleigh,Wing Fire Hall 0803,State House,8,REP,David  Andahl,147
+McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,REP,David  Andahl,2768
+Cavalier,Precinct 1,State House,10,REP,Chuck  Damschen,1380
+Pembina,Precinct 10-01,State House,10,REP,Chuck  Damschen,396
+Pembina,Precinct 10-02,State House,10,REP,Chuck  Damschen,403
+Pembina,Precinct 10-03,State House,10,REP,Chuck  Damschen,467
+Pembina,Precinct 10-04,State House,10,REP,Chuck  Damschen,488
+Pembina,Precinct 10-05,State House,10,REP,Chuck  Damschen,138
+Pembina,Precinct 10-06,State House,10,REP,Chuck  Damschen,221
+Walsh,Precinct 2 -District 10,State House,10,REP,Chuck  Damschen,921
+Stutsman,Precinct J1,State House,12,REP,Mitch  Ostlie,573
+Stutsman,Precinct J2,State House,12,REP,Mitch  Ostlie,967
+Stutsman,Precinct J3,State House,12,REP,Mitch  Ostlie,670
+Stutsman,Precinct J5,State House,12,REP,Mitch  Ostlie,625
+Stutsman,Precinct J6,State House,12,REP,Mitch  Ostlie,486
 Benson,Precinct 1,State House,14,REP,Jon Nelson,694
 Kidder,Dawson,State House,14,REP,Jon Nelson,134
-Kidder,Pettibone,State House,14,REP,Jon  Nelson ,68
-Kidder,Robinson,State House,14,REP,Jon  Nelson ,58
-Kidder,Steele,State House,14,REP,Jon  Nelson ,464
-Kidder,Tappen,State House,14,REP,Jon  Nelson ,256
-Kidder,Tuttle,State House,14,REP,Jon  Nelson ,78
-Pierce,Precinct 01,State House,14,REP,Jon  Nelson ,103
-Pierce,Precinct 02,State House,14,REP,Jon  Nelson ,114
-Pierce,Precinct 03,State House,14,REP,Jon  Nelson ,241
-Pierce,Precinct 04- 1ST WARD 1ST,State House,14,REP,Jon  Nelson ,132
-Pierce,Precinct 05- 1ST WARD 2ND,State House,14,REP,Jon  Nelson ,67
-Pierce,Precinct 06 -2ND WARD,State House,14,REP,Jon  Nelson ,304
-Pierce,Precinct 07-3RD WARD,State House,14,REP,Jon  Nelson ,222
-Pierce,Precinct 08 - 4TH WARD,State House,14,REP,Jon  Nelson ,351
-Sheridan,Precinct 01,State House,14,REP,Jon  Nelson ,599
-Wells,Precinct 01 Harvey,State House,14,REP,Jon  Nelson ,273
-Wells,Precinct 02 Fessenden,State House,14,REP,Jon  Nelson ,182
-Wells,Precinct 03 Bowdon,State House,14,REP,Jon  Nelson ,188
-Wells,Precinct 04 Sykeston,State House,14,REP,Jon  Nelson ,200
-Wells,Precinct 05 Harvey,State House,14,REP,Jon  Nelson ,586
-Wells,Precinct 06 Fessenden,State House,14,REP,Jon  Nelson ,177
-Cass,1601 Meadowridge Bible Chapel,State House,16,REP,Ben  Koppelman ,1051
-Cass,1602 Lutheran Church of the Cross,State House,16,REP,Ben  Koppelman ,1156
-Cass,1603 Scheels Arena,State House,16,REP,Ben  Koppelman ,2341
-Cass,1604 Faith Journey Church,State House,16,REP,Ben  Koppelman ,882
-Grand Forks,Bible Baptist Church,State House,18,REP,Cindy  Kaml ,334
-Grand Forks,Grand Forks City Hall 08,State House,18,REP,Cindy  Kaml ,325
-Grand Forks,Grand Forks City Hall 09,State House,18,REP,Cindy  Kaml ,315
-Grand Forks,Grand Forks City Hall 10,State House,18,REP,Cindy  Kaml ,509
-Grand Forks,Holy Family 11,State House,18,REP,Cindy  Kaml ,65
-Grand Forks,Holy Family 12,State House,18,REP,Cindy  Kaml ,659
-Grand Forks,UND Wellness Center 07,State House,18,REP,Cindy  Kaml ,209
-Cass,2001 Northern Cass PSD,State House,20,REP,Mike  Beltz ,257
-Grand Forks,Emerado Community Hall,State House,20,REP,Mike  Beltz ,360
-Grand Forks,Thompson Community Center,State House,20,REP,Mike  Beltz ,1111
-Traill,Precinct 1,State House,20,REP,Mike  Beltz ,129
-Traill,Precinct 10,State House,20,REP,Mike  Beltz ,240
-Traill,Precinct 11,State House,20,REP,Mike  Beltz ,525
-Traill,Precinct 12,State House,20,REP,Mike  Beltz ,210
-Traill,Precinct 2,State House,20,REP,Mike  Beltz ,271
-Traill,Precinct 3,State House,20,REP,Mike  Beltz ,159
-Traill,Precinct 4,State House,20,REP,Mike  Beltz ,133
-Traill,Precinct 5,State House,20,REP,Mike  Beltz ,85
-Traill,Precinct 6,State House,20,REP,Mike  Beltz ,58
-Traill,Precinct 7,State House,20,REP,Mike  Beltz ,291
-Traill,Precinct 8,State House,20,REP,Mike  Beltz ,141
-Traill,Precinct 9,State House,20,REP,Mike  Beltz ,240
-Cass,2201 Page Senior Ctr,State House,22,REP,Michael  Howe ,143
-Cass,2202 Arthur Community Hall,State House,22,REP,Michael  Howe ,367
-Cass,2203 Buffalo Community Center,State House,22,REP,Michael  Howe ,177
-Cass,2204 Casselton City Auditorium,State House,22,REP,Michael  Howe ,1067
-Cass,2205 Mapleton Community Ctr,State House,22,REP,Michael  Howe ,582
-Cass,2206 Triumph West Church,State House,22,REP,Michael  Howe ,2330
-Cass,2207 Davenport Community Ctr,State House,22,REP,Michael  Howe ,350
-Cass,2208 Horace Senior Center,State House,22,REP,Michael  Howe ,1808
-Barnes,Precinct 2401-00,State House,24,REP,Cole  Christensen ,171
-Barnes,Precinct 2402-00,State House,24,REP,Cole  Christensen ,329
-Barnes,Precinct 2403-00,State House,24,REP,Cole  Christensen ,189
-Barnes,Precinct 2404-00,State House,24,REP,Cole  Christensen ,309
-Barnes,Precinct 2405-00,State House,24,REP,Cole  Christensen ,434
-Barnes,Precinct 2406-00,State House,24,REP,Cole  Christensen ,200
-Barnes,Precinct 2407-00,State House,24,REP,Cole  Christensen ,103
-Barnes,Precinct 2408-00,State House,24,REP,Cole  Christensen ,94
-Barnes,Precinct 2409-00,State House,24,REP,Cole  Christensen ,142
-Barnes,Precinct 2410-00,State House,24,REP,Cole  Christensen ,52
-Barnes,Precinct 2411-00,State House,24,REP,Cole  Christensen ,352
-Barnes,Precinct 2412-00,State House,24,REP,Cole  Christensen ,150
-Barnes,Precinct 2413-00,State House,24,REP,Cole  Christensen ,164
-Barnes,Precinct 2414-00,State House,24,REP,Cole  Christensen ,47
-Barnes,Precinct 2415-00,State House,24,REP,Cole  Christensen ,113
-Cass,2401 Tower City Community Ctr,State House,24,REP,Cole  Christensen ,97
-Cass,2402 Alice Quality Seed Office,State House,24,REP,Cole  Christensen ,195
-Ransom,Precinct 1,State House,24,REP,Cole  Christensen ,144
-Ransom,Precinct 2,State House,24,REP,Cole  Christensen ,320
+Kidder,Pettibone,State House,14,REP,Jon  Nelson,68
+Kidder,Robinson,State House,14,REP,Jon  Nelson,58
+Kidder,Steele,State House,14,REP,Jon  Nelson,464
+Kidder,Tappen,State House,14,REP,Jon  Nelson,256
+Kidder,Tuttle,State House,14,REP,Jon  Nelson,78
+Pierce,Precinct 01,State House,14,REP,Jon  Nelson,103
+Pierce,Precinct 02,State House,14,REP,Jon  Nelson,114
+Pierce,Precinct 03,State House,14,REP,Jon  Nelson,241
+Pierce,Precinct 04- 1ST WARD 1ST,State House,14,REP,Jon  Nelson,132
+Pierce,Precinct 05- 1ST WARD 2ND,State House,14,REP,Jon  Nelson,67
+Pierce,Precinct 06 -2ND WARD,State House,14,REP,Jon  Nelson,304
+Pierce,Precinct 07-3RD WARD,State House,14,REP,Jon  Nelson,222
+Pierce,Precinct 08 - 4TH WARD,State House,14,REP,Jon  Nelson,351
+Sheridan,Precinct 01,State House,14,REP,Jon  Nelson,599
+Wells,Precinct 01 Harvey,State House,14,REP,Jon  Nelson,273
+Wells,Precinct 02 Fessenden,State House,14,REP,Jon  Nelson,182
+Wells,Precinct 03 Bowdon,State House,14,REP,Jon  Nelson,188
+Wells,Precinct 04 Sykeston,State House,14,REP,Jon  Nelson,200
+Wells,Precinct 05 Harvey,State House,14,REP,Jon  Nelson,586
+Wells,Precinct 06 Fessenden,State House,14,REP,Jon  Nelson,177
+Cass,1601 Meadowridge Bible Chapel,State House,16,REP,Ben  Koppelman,1051
+Cass,1602 Lutheran Church of the Cross,State House,16,REP,Ben  Koppelman,1156
+Cass,1603 Scheels Arena,State House,16,REP,Ben  Koppelman,2341
+Cass,1604 Faith Journey Church,State House,16,REP,Ben  Koppelman,882
+Grand Forks,Bible Baptist Church,State House,18,REP,Cindy  Kaml,334
+Grand Forks,Grand Forks City Hall 08,State House,18,REP,Cindy  Kaml,325
+Grand Forks,Grand Forks City Hall 09,State House,18,REP,Cindy  Kaml,315
+Grand Forks,Grand Forks City Hall 10,State House,18,REP,Cindy  Kaml,509
+Grand Forks,Holy Family 11,State House,18,REP,Cindy  Kaml,65
+Grand Forks,Holy Family 12,State House,18,REP,Cindy  Kaml,659
+Grand Forks,UND Wellness Center 07,State House,18,REP,Cindy  Kaml,209
+Cass,2001 Northern Cass PSD,State House,20,REP,Mike  Beltz,257
+Grand Forks,Emerado Community Hall,State House,20,REP,Mike  Beltz,360
+Grand Forks,Thompson Community Center,State House,20,REP,Mike  Beltz,1111
+Traill,Precinct 1,State House,20,REP,Mike  Beltz,129
+Traill,Precinct 10,State House,20,REP,Mike  Beltz,240
+Traill,Precinct 11,State House,20,REP,Mike  Beltz,525
+Traill,Precinct 12,State House,20,REP,Mike  Beltz,210
+Traill,Precinct 2,State House,20,REP,Mike  Beltz,271
+Traill,Precinct 3,State House,20,REP,Mike  Beltz,159
+Traill,Precinct 4,State House,20,REP,Mike  Beltz,133
+Traill,Precinct 5,State House,20,REP,Mike  Beltz,85
+Traill,Precinct 6,State House,20,REP,Mike  Beltz,58
+Traill,Precinct 7,State House,20,REP,Mike  Beltz,291
+Traill,Precinct 8,State House,20,REP,Mike  Beltz,141
+Traill,Precinct 9,State House,20,REP,Mike  Beltz,240
+Cass,2201 Page Senior Ctr,State House,22,REP,Michael  Howe,143
+Cass,2202 Arthur Community Hall,State House,22,REP,Michael  Howe,367
+Cass,2203 Buffalo Community Center,State House,22,REP,Michael  Howe,177
+Cass,2204 Casselton City Auditorium,State House,22,REP,Michael  Howe,1067
+Cass,2205 Mapleton Community Ctr,State House,22,REP,Michael  Howe,582
+Cass,2206 Triumph West Church,State House,22,REP,Michael  Howe,2330
+Cass,2207 Davenport Community Ctr,State House,22,REP,Michael  Howe,350
+Cass,2208 Horace Senior Center,State House,22,REP,Michael  Howe,1808
+Barnes,Precinct 2401-00,State House,24,REP,Cole  Christensen,171
+Barnes,Precinct 2402-00,State House,24,REP,Cole  Christensen,329
+Barnes,Precinct 2403-00,State House,24,REP,Cole  Christensen,189
+Barnes,Precinct 2404-00,State House,24,REP,Cole  Christensen,309
+Barnes,Precinct 2405-00,State House,24,REP,Cole  Christensen,434
+Barnes,Precinct 2406-00,State House,24,REP,Cole  Christensen,200
+Barnes,Precinct 2407-00,State House,24,REP,Cole  Christensen,103
+Barnes,Precinct 2408-00,State House,24,REP,Cole  Christensen,94
+Barnes,Precinct 2409-00,State House,24,REP,Cole  Christensen,142
+Barnes,Precinct 2410-00,State House,24,REP,Cole  Christensen,52
+Barnes,Precinct 2411-00,State House,24,REP,Cole  Christensen,352
+Barnes,Precinct 2412-00,State House,24,REP,Cole  Christensen,150
+Barnes,Precinct 2413-00,State House,24,REP,Cole  Christensen,164
+Barnes,Precinct 2414-00,State House,24,REP,Cole  Christensen,47
+Barnes,Precinct 2415-00,State House,24,REP,Cole  Christensen,113
+Cass,2401 Tower City Community Ctr,State House,24,REP,Cole  Christensen,97
+Cass,2402 Alice Quality Seed Office,State House,24,REP,Cole  Christensen,195
+Ransom,Precinct 1,State House,24,REP,Cole  Christensen,144
+Ransom,Precinct 2,State House,24,REP,Cole  Christensen,320
 Dickey,Precinct 02,State House,26,REP,Sebastian Ertelt,86
 Dickey,Precinct 03,State House,26,REP,Sebastian Ertelt,644
 Ransom,Precinct 3,State House,26,REP,Sebastian Ertelt,432
@@ -10128,72 +10128,72 @@ Sargent,Forman-Havana #4,State House,26,REP,Sebastian Ertelt,259
 Sargent,Gwinner #2,State House,26,REP,Sebastian Ertelt,252
 Sargent,Milnor #1,State House,26,REP,Sebastian Ertelt,246
 Sargent,Rutland-Cayuga #5,State House,26,REP,Sebastian Ertelt,111
-Burleigh,County 4-H Building 2803,State House,28,REP,Mike  Brandenburg ,582
-Burleigh,County 4-H Building 2804,State House,28,REP,Mike  Brandenburg ,34
-Burleigh,Crossroads Cowboy Church 2802,State House,28,REP,Mike  Brandenburg ,214
-Burleigh,Sterling Methodist Church 2801,State House,28,REP,Mike  Brandenburg ,147
-Dickey,Precinct 01,State House,28,REP,Mike  Brandenburg ,680
-Emmons,Precinct 1,State House,28,REP,Mike  Brandenburg ,277
-Emmons,Precinct 2,State House,28,REP,Mike  Brandenburg ,258
-Emmons,Precinct 3,State House,28,REP,Mike  Brandenburg ,293
-Emmons,Precinct 4,State House,28,REP,Mike  Brandenburg ,205
-Emmons,Precinct 5,State House,28,REP,Mike  Brandenburg ,218
-Lamoure,Precinct 4,State House,28,REP,Mike  Brandenburg ,518
-Logan,Precinct 01- American Legion,State House,28,REP,Mike  Brandenburg ,174
-Logan,Precinct 02-American Legion,State House,28,REP,Mike  Brandenburg ,265
-Logan,Precinct 03 - Gackle School,State House,28,REP,Mike  Brandenburg ,162
-Logan,Precinct 04 -Lehr Com Cent.,State House,28,REP,Mike  Brandenburg ,52
-Logan,Precinct 05 - Fredonia Mini Ml,State House,28,REP,Mike  Brandenburg ,50
-McIntosh,Precinct 1-City of Ashley,State House,28,REP,Mike  Brandenburg ,273
-McIntosh,Precinct 2-Rural Ashley,State House,28,REP,Mike  Brandenburg ,147
-McIntosh,Precinct 3-Lehr/Rural Lehr,State House,28,REP,Mike  Brandenburg ,56
-McIntosh,Precinct 4-City of Wishek,State House,28,REP,Mike  Brandenburg ,333
-McIntosh,Precinct 5-Rural Wishek,State House,28,REP,Mike  Brandenburg ,113
-McIntosh,Precinct 6-Zeeland/Rural,State House,28,REP,Mike  Brandenburg ,108
-Burleigh,House of Prayer Church 3001,State House,30,REP,Glenn  Bosch ,1108
-Burleigh,House of Prayer Church 3004,State House,30,REP,Glenn  Bosch ,1775
-Burleigh,Lord of Life Church 3002,State House,30,REP,Glenn  Bosch ,1026
-Burleigh,Lord of Life Church 3003,State House,30,REP,Glenn  Bosch ,1359
-Burleigh,Bismarck Event Center 3201,State House,32,REP,Pat  Heinert ,416
-Burleigh,Bismarck Event Center 3202,State House,32,REP,Pat  Heinert ,428
-Burleigh,Bismarck Event Center 3203,State House,32,REP,Pat  Heinert ,698
-Burleigh,Bismarck Event Center 3204,State House,32,REP,Pat  Heinert ,2647
-Morton,Precinct 01,State House,34,REP,Todd  Porter ,1376
-Morton,Precinct 02,State House,34,REP,Todd  Porter ,1583
-Morton,Precinct 03,State House,34,REP,Todd  Porter ,522
-Morton,Precinct 04,State House,34,REP,Todd  Porter ,541
-Morton,Precinct 06,State House,34,REP,Todd  Porter ,660
-Morton,Precinct 07,State House,34,REP,Todd  Porter ,464
-Morton,Precinct 08,State House,34,REP,Todd  Porter ,374
-Dunn,Killdeer City 36,State House,36,REP,Mike  Schatz ,14
-Dunn,Kyseth,State House,36,REP,Mike  Schatz ,79
-Dunn,Manning,State House,36,REP,Mike  Schatz ,263
-Dunn,New Hradec,State House,36,REP,Mike  Schatz ,198
-Hettinger,Indian Creek #4,State House,36,REP,Mike  Schatz ,112
-Hettinger,New England #3,State House,36,REP,Mike  Schatz ,363
-Morton,Precinct 36,State House,36,REP,Mike  Schatz ,434
-Morton,Precinct 38,State House,36,REP,Mike  Schatz ,347
-Stark,Belfield,State House,36,REP,Mike  Schatz ,470
-Stark,Dickinson 36th,State House,36,REP,Mike  Schatz ,1699
-Stark,Gladstone,State House,36,REP,Mike  Schatz ,234
-Stark,Range 95/96,State House,36,REP,Mike  Schatz ,1251
-Stark,Richardton,State House,36,REP,Mike  Schatz ,441
-Stark,South Heart,State House,36,REP,Mike  Schatz ,635
-Stark,Taylor,State House,36,REP,Mike  Schatz ,208
-Ward,Afton Our Redeemers,State House,38,REP,Larry  Bellew ,318
-Ward,Burlington City Hall,State House,38,REP,Larry  Bellew ,733
-Ward,Des Lacs Community Hall,State House,38,REP,Larry  Bellew ,208
-Ward,Dist 38 Minot,State House,38,REP,Larry  Bellew ,3068
-Ward,Harrison Courthouse,State House,38,REP,Larry  Bellew ,624
-Ward,North Central,State House,38,REP,Larry  Bellew ,146
-Ward,Dist 40 Minot,State House,40,REP,Matthew  Ruby ,2811
-Ward,Ruthville,State House,40,REP,Matthew  Ruby ,413
-Grand Forks,Public Works 19,State House,42,REP,Claire  Cory ,508
-Grand Forks,Public Works 20,State House,42,REP,Claire  Cory ,312
-Grand Forks,UND Wellness Center 21,State House,42,REP,Claire  Cory ,283
-Grand Forks,UND Wellness Center 22,State House,42,REP,Claire  Cory ,486
-Cass,4401 Broadway Station,State House,44,REP,Scott  Wagner ,1492
-Cass,4402 Grace Covenant Chrch,State House,44,REP,Scott  Wagner ,1665
+Burleigh,County 4-H Building 2803,State House,28,REP,Mike  Brandenburg,582
+Burleigh,County 4-H Building 2804,State House,28,REP,Mike  Brandenburg,34
+Burleigh,Crossroads Cowboy Church 2802,State House,28,REP,Mike  Brandenburg,214
+Burleigh,Sterling Methodist Church 2801,State House,28,REP,Mike  Brandenburg,147
+Dickey,Precinct 01,State House,28,REP,Mike  Brandenburg,680
+Emmons,Precinct 1,State House,28,REP,Mike  Brandenburg,277
+Emmons,Precinct 2,State House,28,REP,Mike  Brandenburg,258
+Emmons,Precinct 3,State House,28,REP,Mike  Brandenburg,293
+Emmons,Precinct 4,State House,28,REP,Mike  Brandenburg,205
+Emmons,Precinct 5,State House,28,REP,Mike  Brandenburg,218
+Lamoure,Precinct 4,State House,28,REP,Mike  Brandenburg,518
+Logan,Precinct 01- American Legion,State House,28,REP,Mike  Brandenburg,174
+Logan,Precinct 02-American Legion,State House,28,REP,Mike  Brandenburg,265
+Logan,Precinct 03 - Gackle School,State House,28,REP,Mike  Brandenburg,162
+Logan,Precinct 04 -Lehr Com Cent.,State House,28,REP,Mike  Brandenburg,52
+Logan,Precinct 05 - Fredonia Mini Ml,State House,28,REP,Mike  Brandenburg,50
+McIntosh,Precinct 1-City of Ashley,State House,28,REP,Mike  Brandenburg,273
+McIntosh,Precinct 2-Rural Ashley,State House,28,REP,Mike  Brandenburg,147
+McIntosh,Precinct 3-Lehr/Rural Lehr,State House,28,REP,Mike  Brandenburg,56
+McIntosh,Precinct 4-City of Wishek,State House,28,REP,Mike  Brandenburg,333
+McIntosh,Precinct 5-Rural Wishek,State House,28,REP,Mike  Brandenburg,113
+McIntosh,Precinct 6-Zeeland/Rural,State House,28,REP,Mike  Brandenburg,108
+Burleigh,House of Prayer Church 3001,State House,30,REP,Glenn  Bosch,1108
+Burleigh,House of Prayer Church 3004,State House,30,REP,Glenn  Bosch,1775
+Burleigh,Lord of Life Church 3002,State House,30,REP,Glenn  Bosch,1026
+Burleigh,Lord of Life Church 3003,State House,30,REP,Glenn  Bosch,1359
+Burleigh,Bismarck Event Center 3201,State House,32,REP,Pat  Heinert,416
+Burleigh,Bismarck Event Center 3202,State House,32,REP,Pat  Heinert,428
+Burleigh,Bismarck Event Center 3203,State House,32,REP,Pat  Heinert,698
+Burleigh,Bismarck Event Center 3204,State House,32,REP,Pat  Heinert,2647
+Morton,Precinct 01,State House,34,REP,Todd  Porter,1376
+Morton,Precinct 02,State House,34,REP,Todd  Porter,1583
+Morton,Precinct 03,State House,34,REP,Todd  Porter,522
+Morton,Precinct 04,State House,34,REP,Todd  Porter,541
+Morton,Precinct 06,State House,34,REP,Todd  Porter,660
+Morton,Precinct 07,State House,34,REP,Todd  Porter,464
+Morton,Precinct 08,State House,34,REP,Todd  Porter,374
+Dunn,Killdeer City 36,State House,36,REP,Mike  Schatz,14
+Dunn,Kyseth,State House,36,REP,Mike  Schatz,79
+Dunn,Manning,State House,36,REP,Mike  Schatz,263
+Dunn,New Hradec,State House,36,REP,Mike  Schatz,198
+Hettinger,Indian Creek #4,State House,36,REP,Mike  Schatz,112
+Hettinger,New England #3,State House,36,REP,Mike  Schatz,363
+Morton,Precinct 36,State House,36,REP,Mike  Schatz,434
+Morton,Precinct 38,State House,36,REP,Mike  Schatz,347
+Stark,Belfield,State House,36,REP,Mike  Schatz,470
+Stark,Dickinson 36th,State House,36,REP,Mike  Schatz,1699
+Stark,Gladstone,State House,36,REP,Mike  Schatz,234
+Stark,Range 95/96,State House,36,REP,Mike  Schatz,1251
+Stark,Richardton,State House,36,REP,Mike  Schatz,441
+Stark,South Heart,State House,36,REP,Mike  Schatz,635
+Stark,Taylor,State House,36,REP,Mike  Schatz,208
+Ward,Afton Our Redeemers,State House,38,REP,Larry  Bellew,318
+Ward,Burlington City Hall,State House,38,REP,Larry  Bellew,733
+Ward,Des Lacs Community Hall,State House,38,REP,Larry  Bellew,208
+Ward,Dist 38 Minot,State House,38,REP,Larry  Bellew,3068
+Ward,Harrison Courthouse,State House,38,REP,Larry  Bellew,624
+Ward,North Central,State House,38,REP,Larry  Bellew,146
+Ward,Dist 40 Minot,State House,40,REP,Matthew  Ruby,2811
+Ward,Ruthville,State House,40,REP,Matthew  Ruby,413
+Grand Forks,Public Works 19,State House,42,REP,Claire  Cory,508
+Grand Forks,Public Works 20,State House,42,REP,Claire  Cory,312
+Grand Forks,UND Wellness Center 21,State House,42,REP,Claire  Cory,283
+Grand Forks,UND Wellness Center 22,State House,42,REP,Claire  Cory,486
+Cass,4401 Broadway Station,State House,44,REP,Scott  Wagner,1492
+Cass,4402 Grace Covenant Chrch,State House,44,REP,Scott  Wagner,1665
 Cass,4601 The Bowler,State House,46,REP,Jim Kasper,906
 Cass,4602 Atonement Lutheran,State House,46,REP,Jim Kasper,1529
 Cass,4603 Riverview Place,State House,46,REP,Jim Kasper,1197
@@ -10364,9 +10364,9 @@ Grand Forks,UND Wellness Center 21,State Senate,42,DNPL,Melissa Gjellstad,237
 Grand Forks,UND Wellness Center 22,State Senate,42,DNPL,Melissa Gjellstad,509
 Cass,4401 Broadway Station,State Senate,44,DNPL,Merrill Piepkorn,2229
 Cass,4402 Grace Covenant Chrch,State Senate,44,DNPL,Merrill Piepkorn,1571
-Cass,4601 The Bowler,State Senate,46,DNPL,Terri  Hedman ,1094
-Cass,4602 Atonement Lutheran,State Senate,46,DNPL,Terri  Hedman ,1545
-Cass,4603 Riverview Place,State Senate,46,DNPL,Terri  Hedman ,997
+Cass,4601 The Bowler,State Senate,46,DNPL,Terri  Hedman,1094
+Cass,4602 Atonement Lutheran,State Senate,46,DNPL,Terri  Hedman,1545
+Cass,4603 Riverview Place,State Senate,46,DNPL,Terri  Hedman,997
 Ward,Berthold Sr Citizen Center,State Senate,4,WRI,write-in,0
 Ward,Kenmare Memorial Hall,State Senate,4,WRI,write-in,1
 Ward,Makoti Pioneer Sr Citizen Club,State Senate,4,WRI,write-in,0
@@ -10593,47 +10593,47 @@ Williams,Precinct 64,State House,2,REP,Donald Longmuir,846
 Williams,Precinct 65,State House,2,REP,Donald Longmuir,117
 Williams,Precinct 67,State House,2,REP,Donald Longmuir,127
 Williams,Precinct 76,State House,2,REP,Donald Longmuir,315
-Dunn,Antelope - Twin Buttes,State House,4,REP,Terry Burton Jones ,34
-Dunn,Collins/Halliday,State House,4,REP,Terry Burton Jones ,154
-Dunn,Dodge/Loring,State House,4,REP,Terry Burton Jones ,64
-Dunn,Dunn Center/Decorah,State House,4,REP,Terry Burton Jones ,246
-Dunn,North Fox,State House,4,REP,Terry Burton Jones ,13
-McKenzie,04-01 Four Bears,State House,4,REP,Terry Burton Jones ,16
-McKenzie,04-02 Mandaree,State House,4,REP,Terry Burton Jones ,20
-McKenzie,MCKENZIE,State House,4,REP,Terry Burton Jones ,36
-McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,REP,Terry Burton Jones ,473
-McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,REP,Terry Burton Jones ,34
-Mercer,Precinct 0401,State House,4,REP,Terry Burton Jones ,4
-Mountrail,Precinct 02,State House,4,REP,Terry Burton Jones ,148
-Mountrail,Precinct 03,State House,4,REP,Terry Burton Jones ,184
-Mountrail,Precinct 04,State House,4,REP,Terry Burton Jones ,143
-Mountrail,Precinct 05,State House,4,REP,Terry Burton Jones ,220
-Mountrail,Precinct 08,State House,4,REP,Terry Burton Jones ,269
-Mountrail,Precinct 09,State House,4,REP,Terry Burton Jones ,138
-Ward,Berthold Sr Citizen Center,State House,4,REP,Terry Burton Jones ,361
-Ward,Kenmare Memorial Hall,State House,4,REP,Terry Burton Jones ,573
-Ward,Makoti Pioneer Sr Citizen Club,State House,4,REP,Terry Burton Jones ,105
-Ward,Ryder City Building,State House,4,REP,Terry Burton Jones ,171
-Ward,Sawyer City Hall,State House,4,REP,Terry Burton Jones ,376
-Ward,South Prairie School,State House,4,REP,Terry Burton Jones ,213
-Bottineau,Precinct 01,State House,6,REP,Paul J Thomas ,369
-Bottineau,Precinct 02,State House,6,REP,Paul J Thomas ,485
-Bottineau,Precinct 03,State House,6,REP,Paul J Thomas ,384
-Bottineau,Precinct 04,State House,6,REP,Paul J Thomas ,414
-Bottineau,Precinct 05,State House,6,REP,Paul J Thomas ,433
-McHenry,Precinct 16,State House,6,REP,Paul J Thomas ,144
-McHenry,Precinct 18,State House,6,REP,Paul J Thomas ,393
-McHenry,Precinct 27,State House,6,REP,Paul J Thomas ,105
-McHenry,Precinct 41,State House,6,REP,Paul J Thomas ,235
-McHenry,Precinct 47,State House,6,REP,Paul J Thomas ,775
-McHenry,Precinct 55,State House,6,REP,Paul J Thomas ,146
-McHenry,Precinct 58,State House,6,REP,Paul J Thomas ,167
-McHenry,Precinct 62,State House,6,REP,Paul J Thomas ,168
-Renville,GLENBURN,State House,6,REP,Paul J Thomas ,205
-Renville,MOHALL,State House,6,REP,Paul J Thomas ,341
-Renville,SHERWOOD,State House,6,REP,Paul J Thomas ,172
-Renville,TOLLEY,State House,6,REP,Paul J Thomas ,101
-Renville,WHITE ASH,State House,6,REP,Paul J Thomas ,52
+Dunn,Antelope - Twin Buttes,State House,4,REP,Terry Burton Jones,34
+Dunn,Collins/Halliday,State House,4,REP,Terry Burton Jones,154
+Dunn,Dodge/Loring,State House,4,REP,Terry Burton Jones,64
+Dunn,Dunn Center/Decorah,State House,4,REP,Terry Burton Jones,246
+Dunn,North Fox,State House,4,REP,Terry Burton Jones,13
+McKenzie,04-01 Four Bears,State House,4,REP,Terry Burton Jones,16
+McKenzie,04-02 Mandaree,State House,4,REP,Terry Burton Jones,20
+McKenzie,MCKENZIE,State House,4,REP,Terry Burton Jones,36
+McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,REP,Terry Burton Jones,473
+McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,REP,Terry Burton Jones,34
+Mercer,Precinct 0401,State House,4,REP,Terry Burton Jones,4
+Mountrail,Precinct 02,State House,4,REP,Terry Burton Jones,148
+Mountrail,Precinct 03,State House,4,REP,Terry Burton Jones,184
+Mountrail,Precinct 04,State House,4,REP,Terry Burton Jones,143
+Mountrail,Precinct 05,State House,4,REP,Terry Burton Jones,220
+Mountrail,Precinct 08,State House,4,REP,Terry Burton Jones,269
+Mountrail,Precinct 09,State House,4,REP,Terry Burton Jones,138
+Ward,Berthold Sr Citizen Center,State House,4,REP,Terry Burton Jones,361
+Ward,Kenmare Memorial Hall,State House,4,REP,Terry Burton Jones,573
+Ward,Makoti Pioneer Sr Citizen Club,State House,4,REP,Terry Burton Jones,105
+Ward,Ryder City Building,State House,4,REP,Terry Burton Jones,171
+Ward,Sawyer City Hall,State House,4,REP,Terry Burton Jones,376
+Ward,South Prairie School,State House,4,REP,Terry Burton Jones,213
+Bottineau,Precinct 01,State House,6,REP,Paul J Thomas,369
+Bottineau,Precinct 02,State House,6,REP,Paul J Thomas,485
+Bottineau,Precinct 03,State House,6,REP,Paul J Thomas,384
+Bottineau,Precinct 04,State House,6,REP,Paul J Thomas,414
+Bottineau,Precinct 05,State House,6,REP,Paul J Thomas,433
+McHenry,Precinct 16,State House,6,REP,Paul J Thomas,144
+McHenry,Precinct 18,State House,6,REP,Paul J Thomas,393
+McHenry,Precinct 27,State House,6,REP,Paul J Thomas,105
+McHenry,Precinct 41,State House,6,REP,Paul J Thomas,235
+McHenry,Precinct 47,State House,6,REP,Paul J Thomas,775
+McHenry,Precinct 55,State House,6,REP,Paul J Thomas,146
+McHenry,Precinct 58,State House,6,REP,Paul J Thomas,167
+McHenry,Precinct 62,State House,6,REP,Paul J Thomas,168
+Renville,GLENBURN,State House,6,REP,Paul J Thomas,205
+Renville,MOHALL,State House,6,REP,Paul J Thomas,341
+Renville,SHERWOOD,State House,6,REP,Paul J Thomas,172
+Renville,TOLLEY,State House,6,REP,Paul J Thomas,101
+Renville,WHITE ASH,State House,6,REP,Paul J Thomas,52
 Burleigh,County 4-H Building 0804,State House,8,REP,Dave Nehring,1367
 Burleigh,Evangel Assembly of God 0805,State House,8,REP,Dave Nehring,1096
 Burleigh,Legacy Methodist Church 0806,State House,8,REP,Dave Nehring,629
@@ -10641,52 +10641,52 @@ Burleigh,Wilton County Shop 0801,State House,8,REP,Dave Nehring,188
 Burleigh,Wilton County Shop 0802,State House,8,REP,Dave Nehring,119
 Burleigh,Wing Fire Hall 0803,State House,8,REP,Dave Nehring,161
 McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,REP,Dave Nehring,3234
-Cavalier,Precinct 1,State House,10,REP,David  Monson ,1424
-Pembina,Precinct 10-01,State House,10,REP,David  Monson ,421
-Pembina,Precinct 10-02,State House,10,REP,David  Monson ,456
-Pembina,Precinct 10-03,State House,10,REP,David  Monson ,526
-Pembina,Precinct 10-04,State House,10,REP,David  Monson ,519
-Pembina,Precinct 10-05,State House,10,REP,David  Monson ,167
-Pembina,Precinct 10-06,State House,10,REP,David  Monson ,233
-Walsh,Precinct 2 -District 10,State House,10,REP,David  Monson ,1069
-Stutsman,Precinct J1,State House,12,REP,Bernie  Satrom ,634
-Stutsman,Precinct J2,State House,12,REP,Bernie  Satrom ,1009
-Stutsman,Precinct J3,State House,12,REP,Bernie  Satrom ,655
-Stutsman,Precinct J5,State House,12,REP,Bernie  Satrom ,637
-Stutsman,Precinct J6,State House,12,REP,Bernie  Satrom ,488
-Benson,Precinct 1,State House,14,REP,Robin  Weisz ,565
-Kidder,Dawson,State House,14,REP,Robin  Weisz ,134
-Kidder,Pettibone,State House,14,REP,Robin  Weisz ,70
-Kidder,Robinson,State House,14,REP,Robin  Weisz ,66
-Kidder,Steele,State House,14,REP,Robin  Weisz ,480
-Kidder,Tappen,State House,14,REP,Robin  Weisz ,255
-Kidder,Tuttle,State House,14,REP,Robin  Weisz ,88
-Pierce,Precinct 01,State House,14,REP,Robin  Weisz ,105
-Pierce,Precinct 02,State House,14,REP,Robin  Weisz ,105
-Pierce,Precinct 03,State House,14,REP,Robin  Weisz ,236
-Pierce,Precinct 04- 1ST WARD 1ST,State House,14,REP,Robin  Weisz ,119
-Pierce,Precinct 05- 1ST WARD 2ND,State House,14,REP,Robin  Weisz ,53
-Pierce,Precinct 06 -2ND WARD,State House,14,REP,Robin  Weisz ,262
-Pierce,Precinct 07-3RD WARD,State House,14,REP,Robin  Weisz ,191
-Pierce,Precinct 08 - 4TH WARD,State House,14,REP,Robin  Weisz ,329
-Sheridan,Precinct 01,State House,14,REP,Robin  Weisz ,640
-Wells,Precinct 01 Harvey,State House,14,REP,Robin  Weisz ,284
-Wells,Precinct 02 Fessenden,State House,14,REP,Robin  Weisz ,173
-Wells,Precinct 03 Bowdon,State House,14,REP,Robin  Weisz ,215
-Wells,Precinct 04 Sykeston,State House,14,REP,Robin  Weisz ,220
-Wells,Precinct 05 Harvey,State House,14,REP,Robin  Weisz ,644
-Wells,Precinct 06 Fessenden,State House,14,REP,Robin  Weisz ,185
-Cass,1601 Meadowridge Bible Chapel,State House,16,REP,Andrew  Marschall ,847
-Cass,1602 Lutheran Church of the Cross,State House,16,REP,Andrew  Marschall ,926
-Cass,1603 Scheels Arena,State House,16,REP,Andrew  Marschall ,2210
-Cass,1604 Faith Journey Church,State House,16,REP,Andrew  Marschall ,796
-Grand Forks,Bible Baptist Church,State House,18,REP,Steve  Vetter ,346
-Grand Forks,Grand Forks City Hall 08,State House,18,REP,Steve  Vetter ,375
-Grand Forks,Grand Forks City Hall 09,State House,18,REP,Steve  Vetter ,309
-Grand Forks,Grand Forks City Hall 10,State House,18,REP,Steve  Vetter ,609
-Grand Forks,Holy Family 11,State House,18,REP,Steve  Vetter ,77
-Grand Forks,Holy Family 12,State House,18,REP,Steve  Vetter ,802
-Grand Forks,UND Wellness Center 07,State House,18,REP,Steve  Vetter ,226
+Cavalier,Precinct 1,State House,10,REP,David  Monson,1424
+Pembina,Precinct 10-01,State House,10,REP,David  Monson,421
+Pembina,Precinct 10-02,State House,10,REP,David  Monson,456
+Pembina,Precinct 10-03,State House,10,REP,David  Monson,526
+Pembina,Precinct 10-04,State House,10,REP,David  Monson,519
+Pembina,Precinct 10-05,State House,10,REP,David  Monson,167
+Pembina,Precinct 10-06,State House,10,REP,David  Monson,233
+Walsh,Precinct 2 -District 10,State House,10,REP,David  Monson,1069
+Stutsman,Precinct J1,State House,12,REP,Bernie  Satrom,634
+Stutsman,Precinct J2,State House,12,REP,Bernie  Satrom,1009
+Stutsman,Precinct J3,State House,12,REP,Bernie  Satrom,655
+Stutsman,Precinct J5,State House,12,REP,Bernie  Satrom,637
+Stutsman,Precinct J6,State House,12,REP,Bernie  Satrom,488
+Benson,Precinct 1,State House,14,REP,Robin  Weisz,565
+Kidder,Dawson,State House,14,REP,Robin  Weisz,134
+Kidder,Pettibone,State House,14,REP,Robin  Weisz,70
+Kidder,Robinson,State House,14,REP,Robin  Weisz,66
+Kidder,Steele,State House,14,REP,Robin  Weisz,480
+Kidder,Tappen,State House,14,REP,Robin  Weisz,255
+Kidder,Tuttle,State House,14,REP,Robin  Weisz,88
+Pierce,Precinct 01,State House,14,REP,Robin  Weisz,105
+Pierce,Precinct 02,State House,14,REP,Robin  Weisz,105
+Pierce,Precinct 03,State House,14,REP,Robin  Weisz,236
+Pierce,Precinct 04- 1ST WARD 1ST,State House,14,REP,Robin  Weisz,119
+Pierce,Precinct 05- 1ST WARD 2ND,State House,14,REP,Robin  Weisz,53
+Pierce,Precinct 06 -2ND WARD,State House,14,REP,Robin  Weisz,262
+Pierce,Precinct 07-3RD WARD,State House,14,REP,Robin  Weisz,191
+Pierce,Precinct 08 - 4TH WARD,State House,14,REP,Robin  Weisz,329
+Sheridan,Precinct 01,State House,14,REP,Robin  Weisz,640
+Wells,Precinct 01 Harvey,State House,14,REP,Robin  Weisz,284
+Wells,Precinct 02 Fessenden,State House,14,REP,Robin  Weisz,173
+Wells,Precinct 03 Bowdon,State House,14,REP,Robin  Weisz,215
+Wells,Precinct 04 Sykeston,State House,14,REP,Robin  Weisz,220
+Wells,Precinct 05 Harvey,State House,14,REP,Robin  Weisz,644
+Wells,Precinct 06 Fessenden,State House,14,REP,Robin  Weisz,185
+Cass,1601 Meadowridge Bible Chapel,State House,16,REP,Andrew  Marschall,847
+Cass,1602 Lutheran Church of the Cross,State House,16,REP,Andrew  Marschall,926
+Cass,1603 Scheels Arena,State House,16,REP,Andrew  Marschall,2210
+Cass,1604 Faith Journey Church,State House,16,REP,Andrew  Marschall,796
+Grand Forks,Bible Baptist Church,State House,18,REP,Steve  Vetter,346
+Grand Forks,Grand Forks City Hall 08,State House,18,REP,Steve  Vetter,375
+Grand Forks,Grand Forks City Hall 09,State House,18,REP,Steve  Vetter,309
+Grand Forks,Grand Forks City Hall 10,State House,18,REP,Steve  Vetter,609
+Grand Forks,Holy Family 11,State House,18,REP,Steve  Vetter,77
+Grand Forks,Holy Family 12,State House,18,REP,Steve  Vetter,802
+Grand Forks,UND Wellness Center 07,State House,18,REP,Steve  Vetter,226
 Cass,2001 Northern Cass PSD,State House,20,REP,Jared Hagert,271
 Grand Forks,Emerado Community Hall,State House,20,REP,Jared Hagert,384
 Grand Forks,Thompson Community Center,State House,20,REP,Jared Hagert,1157
@@ -10702,77 +10702,77 @@ Traill,Precinct 6,State House,20,REP,Jared Hagert,54
 Traill,Precinct 7,State House,20,REP,Jared Hagert,301
 Traill,Precinct 8,State House,20,REP,Jared Hagert,129
 Traill,Precinct 9,State House,20,REP,Jared Hagert,199
-Cass,2201 Page Senior Ctr,State House,22,REP,Brandy L Pyle ,134
-Cass,2202 Arthur Community Hall,State House,22,REP,Brandy L Pyle ,348
-Cass,2203 Buffalo Community Center,State House,22,REP,Brandy L Pyle ,195
-Cass,2204 Casselton City Auditorium,State House,22,REP,Brandy L Pyle ,1197
-Cass,2205 Mapleton Community Ctr,State House,22,REP,Brandy L Pyle ,560
-Cass,2206 Triumph West Church,State House,22,REP,Brandy L Pyle ,2069
-Cass,2207 Davenport Community Ctr,State House,22,REP,Brandy L Pyle ,359
-Cass,2208 Horace Senior Center,State House,22,REP,Brandy L Pyle ,1918
-Barnes,Precinct 2401-00,State House,24,REP,Dwight  Kiefert ,192
-Barnes,Precinct 2402-00,State House,24,REP,Dwight  Kiefert ,364
-Barnes,Precinct 2403-00,State House,24,REP,Dwight  Kiefert ,190
-Barnes,Precinct 2404-00,State House,24,REP,Dwight  Kiefert ,353
-Barnes,Precinct 2405-00,State House,24,REP,Dwight  Kiefert ,430
-Barnes,Precinct 2406-00,State House,24,REP,Dwight  Kiefert ,187
-Barnes,Precinct 2407-00,State House,24,REP,Dwight  Kiefert ,83
-Barnes,Precinct 2408-00,State House,24,REP,Dwight  Kiefert ,86
-Barnes,Precinct 2409-00,State House,24,REP,Dwight  Kiefert ,158
-Barnes,Precinct 2410-00,State House,24,REP,Dwight  Kiefert ,43
-Barnes,Precinct 2411-00,State House,24,REP,Dwight  Kiefert ,392
-Barnes,Precinct 2412-00,State House,24,REP,Dwight  Kiefert ,161
-Barnes,Precinct 2413-00,State House,24,REP,Dwight  Kiefert ,140
-Barnes,Precinct 2414-00,State House,24,REP,Dwight  Kiefert ,44
-Barnes,Precinct 2415-00,State House,24,REP,Dwight  Kiefert ,147
-Cass,2401 Tower City Community Ctr,State House,24,REP,Dwight  Kiefert ,104
-Cass,2402 Alice Quality Seed Office,State House,24,REP,Dwight  Kiefert ,206
-Ransom,Precinct 1,State House,24,REP,Dwight  Kiefert ,157
-Ransom,Precinct 2,State House,24,REP,Dwight  Kiefert ,296
-Dickey,Precinct 02,State House,26,REP,Kathy  Skroch ,93
-Dickey,Precinct 03,State House,26,REP,Kathy  Skroch ,712
-Ransom,Precinct 3,State House,26,REP,Kathy  Skroch ,448
-Ransom,Precinct 4,State House,26,REP,Kathy  Skroch ,308
-Richland,BARRIE-HELENDALE,State House,26,REP,Kathy  Skroch ,148
-Richland,COLFAX,State House,26,REP,Kathy  Skroch ,242
-Richland,HANKINSON 26,State House,26,REP,Kathy  Skroch ,166
-Richland,LIDGERWOOD,State House,26,REP,Kathy  Skroch ,334
-Richland,WYNDMERE,State House,26,REP,Kathy  Skroch ,347
-Sargent,Cogswell #3,State House,26,REP,Kathy  Skroch ,163
-Sargent,Forman-Havana #4,State House,26,REP,Kathy  Skroch ,289
-Sargent,Gwinner #2,State House,26,REP,Kathy  Skroch ,290
-Sargent,Milnor #1,State House,26,REP,Kathy  Skroch ,268
-Sargent,Rutland-Cayuga #5,State House,26,REP,Kathy  Skroch ,136
-Burleigh,County 4-H Building 2803,State House,28,REP,Jeffery J Magrum ,629
-Burleigh,County 4-H Building 2804,State House,28,REP,Jeffery J Magrum ,40
-Burleigh,Crossroads Cowboy Church 2802,State House,28,REP,Jeffery J Magrum ,294
-Burleigh,Sterling Methodist Church 2801,State House,28,REP,Jeffery J Magrum ,210
-Dickey,Precinct 01,State House,28,REP,Jeffery J Magrum ,586
-Emmons,Precinct 1,State House,28,REP,Jeffery J Magrum ,272
-Emmons,Precinct 2,State House,28,REP,Jeffery J Magrum ,285
-Emmons,Precinct 3,State House,28,REP,Jeffery J Magrum ,280
-Emmons,Precinct 4,State House,28,REP,Jeffery J Magrum ,217
-Emmons,Precinct 5,State House,28,REP,Jeffery J Magrum ,292
-Lamoure,Precinct 4,State House,28,REP,Jeffery J Magrum ,481
-Logan,Precinct 01- American Legion,State House,28,REP,Jeffery J Magrum ,214
-Logan,Precinct 02-American Legion,State House,28,REP,Jeffery J Magrum ,334
-Logan,Precinct 03 - Gackle School,State House,28,REP,Jeffery J Magrum ,137
-Logan,Precinct 04 -Lehr Com Cent.,State House,28,REP,Jeffery J Magrum ,48
-Logan,Precinct 05 - Fredonia Mini Ml,State House,28,REP,Jeffery J Magrum ,61
-McIntosh,Precinct 1-City of Ashley,State House,28,REP,Jeffery J Magrum ,274
-McIntosh,Precinct 2-Rural Ashley,State House,28,REP,Jeffery J Magrum ,145
-McIntosh,Precinct 3-Lehr/Rural Lehr,State House,28,REP,Jeffery J Magrum ,49
-McIntosh,Precinct 4-City of Wishek,State House,28,REP,Jeffery J Magrum ,340
-McIntosh,Precinct 5-Rural Wishek,State House,28,REP,Jeffery J Magrum ,113
-McIntosh,Precinct 6-Zeeland/Rural,State House,28,REP,Jeffery J Magrum ,109
-Burleigh,House of Prayer Church 3001,State House,30,REP,Mike  Nathe ,1204
-Burleigh,House of Prayer Church 3004,State House,30,REP,Mike  Nathe ,1742
-Burleigh,Lord of Life Church 3002,State House,30,REP,Mike  Nathe ,877
-Burleigh,Lord of Life Church 3003,State House,30,REP,Mike  Nathe ,1439
-Burleigh,Bismarck Event Center 3201,State House,32,REP,Lisa  Meier ,422
-Burleigh,Bismarck Event Center 3202,State House,32,REP,Lisa  Meier ,387
-Burleigh,Bismarck Event Center 3203,State House,32,REP,Lisa  Meier ,683
-Burleigh,Bismarck Event Center 3204,State House,32,REP,Lisa  Meier ,2644
+Cass,2201 Page Senior Ctr,State House,22,REP,Brandy L Pyle,134
+Cass,2202 Arthur Community Hall,State House,22,REP,Brandy L Pyle,348
+Cass,2203 Buffalo Community Center,State House,22,REP,Brandy L Pyle,195
+Cass,2204 Casselton City Auditorium,State House,22,REP,Brandy L Pyle,1197
+Cass,2205 Mapleton Community Ctr,State House,22,REP,Brandy L Pyle,560
+Cass,2206 Triumph West Church,State House,22,REP,Brandy L Pyle,2069
+Cass,2207 Davenport Community Ctr,State House,22,REP,Brandy L Pyle,359
+Cass,2208 Horace Senior Center,State House,22,REP,Brandy L Pyle,1918
+Barnes,Precinct 2401-00,State House,24,REP,Dwight  Kiefert,192
+Barnes,Precinct 2402-00,State House,24,REP,Dwight  Kiefert,364
+Barnes,Precinct 2403-00,State House,24,REP,Dwight  Kiefert,190
+Barnes,Precinct 2404-00,State House,24,REP,Dwight  Kiefert,353
+Barnes,Precinct 2405-00,State House,24,REP,Dwight  Kiefert,430
+Barnes,Precinct 2406-00,State House,24,REP,Dwight  Kiefert,187
+Barnes,Precinct 2407-00,State House,24,REP,Dwight  Kiefert,83
+Barnes,Precinct 2408-00,State House,24,REP,Dwight  Kiefert,86
+Barnes,Precinct 2409-00,State House,24,REP,Dwight  Kiefert,158
+Barnes,Precinct 2410-00,State House,24,REP,Dwight  Kiefert,43
+Barnes,Precinct 2411-00,State House,24,REP,Dwight  Kiefert,392
+Barnes,Precinct 2412-00,State House,24,REP,Dwight  Kiefert,161
+Barnes,Precinct 2413-00,State House,24,REP,Dwight  Kiefert,140
+Barnes,Precinct 2414-00,State House,24,REP,Dwight  Kiefert,44
+Barnes,Precinct 2415-00,State House,24,REP,Dwight  Kiefert,147
+Cass,2401 Tower City Community Ctr,State House,24,REP,Dwight  Kiefert,104
+Cass,2402 Alice Quality Seed Office,State House,24,REP,Dwight  Kiefert,206
+Ransom,Precinct 1,State House,24,REP,Dwight  Kiefert,157
+Ransom,Precinct 2,State House,24,REP,Dwight  Kiefert,296
+Dickey,Precinct 02,State House,26,REP,Kathy  Skroch,93
+Dickey,Precinct 03,State House,26,REP,Kathy  Skroch,712
+Ransom,Precinct 3,State House,26,REP,Kathy  Skroch,448
+Ransom,Precinct 4,State House,26,REP,Kathy  Skroch,308
+Richland,BARRIE-HELENDALE,State House,26,REP,Kathy  Skroch,148
+Richland,COLFAX,State House,26,REP,Kathy  Skroch,242
+Richland,HANKINSON 26,State House,26,REP,Kathy  Skroch,166
+Richland,LIDGERWOOD,State House,26,REP,Kathy  Skroch,334
+Richland,WYNDMERE,State House,26,REP,Kathy  Skroch,347
+Sargent,Cogswell #3,State House,26,REP,Kathy  Skroch,163
+Sargent,Forman-Havana #4,State House,26,REP,Kathy  Skroch,289
+Sargent,Gwinner #2,State House,26,REP,Kathy  Skroch,290
+Sargent,Milnor #1,State House,26,REP,Kathy  Skroch,268
+Sargent,Rutland-Cayuga #5,State House,26,REP,Kathy  Skroch,136
+Burleigh,County 4-H Building 2803,State House,28,REP,Jeffery J Magrum,629
+Burleigh,County 4-H Building 2804,State House,28,REP,Jeffery J Magrum,40
+Burleigh,Crossroads Cowboy Church 2802,State House,28,REP,Jeffery J Magrum,294
+Burleigh,Sterling Methodist Church 2801,State House,28,REP,Jeffery J Magrum,210
+Dickey,Precinct 01,State House,28,REP,Jeffery J Magrum,586
+Emmons,Precinct 1,State House,28,REP,Jeffery J Magrum,272
+Emmons,Precinct 2,State House,28,REP,Jeffery J Magrum,285
+Emmons,Precinct 3,State House,28,REP,Jeffery J Magrum,280
+Emmons,Precinct 4,State House,28,REP,Jeffery J Magrum,217
+Emmons,Precinct 5,State House,28,REP,Jeffery J Magrum,292
+Lamoure,Precinct 4,State House,28,REP,Jeffery J Magrum,481
+Logan,Precinct 01- American Legion,State House,28,REP,Jeffery J Magrum,214
+Logan,Precinct 02-American Legion,State House,28,REP,Jeffery J Magrum,334
+Logan,Precinct 03 - Gackle School,State House,28,REP,Jeffery J Magrum,137
+Logan,Precinct 04 -Lehr Com Cent.,State House,28,REP,Jeffery J Magrum,48
+Logan,Precinct 05 - Fredonia Mini Ml,State House,28,REP,Jeffery J Magrum,61
+McIntosh,Precinct 1-City of Ashley,State House,28,REP,Jeffery J Magrum,274
+McIntosh,Precinct 2-Rural Ashley,State House,28,REP,Jeffery J Magrum,145
+McIntosh,Precinct 3-Lehr/Rural Lehr,State House,28,REP,Jeffery J Magrum,49
+McIntosh,Precinct 4-City of Wishek,State House,28,REP,Jeffery J Magrum,340
+McIntosh,Precinct 5-Rural Wishek,State House,28,REP,Jeffery J Magrum,113
+McIntosh,Precinct 6-Zeeland/Rural,State House,28,REP,Jeffery J Magrum,109
+Burleigh,House of Prayer Church 3001,State House,30,REP,Mike  Nathe,1204
+Burleigh,House of Prayer Church 3004,State House,30,REP,Mike  Nathe,1742
+Burleigh,Lord of Life Church 3002,State House,30,REP,Mike  Nathe,877
+Burleigh,Lord of Life Church 3003,State House,30,REP,Mike  Nathe,1439
+Burleigh,Bismarck Event Center 3201,State House,32,REP,Lisa  Meier,422
+Burleigh,Bismarck Event Center 3202,State House,32,REP,Lisa  Meier,387
+Burleigh,Bismarck Event Center 3203,State House,32,REP,Lisa  Meier,683
+Burleigh,Bismarck Event Center 3204,State House,32,REP,Lisa  Meier,2644
 Morton,Precinct 01,State House,34,REP,Nathan Toman,1286
 Morton,Precinct 02,State House,34,REP,Nathan Toman,1611
 Morton,Precinct 03,State House,34,REP,Nathan Toman,551
@@ -10780,36 +10780,36 @@ Morton,Precinct 04,State House,34,REP,Nathan Toman,525
 Morton,Precinct 06,State House,34,REP,Nathan Toman,642
 Morton,Precinct 07,State House,34,REP,Nathan Toman,428
 Morton,Precinct 08,State House,34,REP,Nathan Toman,354
-Dunn,Killdeer City 36,State House,36,REP,Luke  Simons ,14
-Dunn,Kyseth,State House,36,REP,Luke  Simons ,70
-Dunn,Manning,State House,36,REP,Luke  Simons ,227
-Dunn,New Hradec,State House,36,REP,Luke  Simons ,147
-Hettinger,Indian Creek #4,State House,36,REP,Luke  Simons ,103
-Hettinger,New England #3,State House,36,REP,Luke  Simons ,352
-Morton,Precinct 36,State House,36,REP,Luke  Simons ,373
-Morton,Precinct 38,State House,36,REP,Luke  Simons ,304
-Stark,Belfield,State House,36,REP,Luke  Simons ,482
-Stark,Dickinson 36th,State House,36,REP,Luke  Simons ,1653
-Stark,Gladstone,State House,36,REP,Luke  Simons ,203
-Stark,Range 95/96,State House,36,REP,Luke  Simons ,1175
-Stark,Richardton,State House,36,REP,Luke  Simons ,380
-Stark,South Heart,State House,36,REP,Luke  Simons ,588
-Stark,Taylor,State House,36,REP,Luke  Simons ,202
-Ward,Afton Our Redeemers,State House,38,REP,Dan  Ruby ,396
-Ward,Burlington City Hall,State House,38,REP,Dan  Ruby ,930
-Ward,Des Lacs Community Hall,State House,38,REP,Dan  Ruby ,243
-Ward,Dist 38 Minot,State House,38,REP,Dan  Ruby ,2953
-Ward,Harrison Courthouse,State House,38,REP,Dan  Ruby ,694
-Ward,North Central,State House,38,REP,Dan  Ruby ,195
+Dunn,Killdeer City 36,State House,36,REP,Luke  Simons,14
+Dunn,Kyseth,State House,36,REP,Luke  Simons,70
+Dunn,Manning,State House,36,REP,Luke  Simons,227
+Dunn,New Hradec,State House,36,REP,Luke  Simons,147
+Hettinger,Indian Creek #4,State House,36,REP,Luke  Simons,103
+Hettinger,New England #3,State House,36,REP,Luke  Simons,352
+Morton,Precinct 36,State House,36,REP,Luke  Simons,373
+Morton,Precinct 38,State House,36,REP,Luke  Simons,304
+Stark,Belfield,State House,36,REP,Luke  Simons,482
+Stark,Dickinson 36th,State House,36,REP,Luke  Simons,1653
+Stark,Gladstone,State House,36,REP,Luke  Simons,203
+Stark,Range 95/96,State House,36,REP,Luke  Simons,1175
+Stark,Richardton,State House,36,REP,Luke  Simons,380
+Stark,South Heart,State House,36,REP,Luke  Simons,588
+Stark,Taylor,State House,36,REP,Luke  Simons,202
+Ward,Afton Our Redeemers,State House,38,REP,Dan  Ruby,396
+Ward,Burlington City Hall,State House,38,REP,Dan  Ruby,930
+Ward,Des Lacs Community Hall,State House,38,REP,Dan  Ruby,243
+Ward,Dist 38 Minot,State House,38,REP,Dan  Ruby,2953
+Ward,Harrison Courthouse,State House,38,REP,Dan  Ruby,694
+Ward,North Central,State House,38,REP,Dan  Ruby,195
 Ward,Dist 40 Minot,State House,40,REP,Randy A Schobinger,2549
 Ward,Ruthville,State House,40,REP,Randy A Schobinger,399
-Grand Forks,Public Works 19,State House,42,REP,"Emily  O""Brien ",599
-Grand Forks,Public Works 20,State House,42,REP,"Emily  O""Brien ",347
-Grand Forks,UND Wellness Center 21,State House,42,REP,"Emily  O""Brien ",260
-Grand Forks,UND Wellness Center 22,State House,42,REP,"Emily  O""Brien ",566
-Cass,4601 The Bowler,State House,46,REP,Shannon  Roers Jones ,959
-Cass,4602 Atonement Lutheran,State House,46,REP,Shannon  Roers Jones ,1783
-Cass,4603 Riverview Place,State House,46,REP,Shannon  Roers Jones ,1232
+Grand Forks,Public Works 19,State House,42,REP,"Emily  O""Brien",599
+Grand Forks,Public Works 20,State House,42,REP,"Emily  O""Brien",347
+Grand Forks,UND Wellness Center 21,State House,42,REP,"Emily  O""Brien",260
+Grand Forks,UND Wellness Center 22,State House,42,REP,"Emily  O""Brien",566
+Cass,4601 The Bowler,State House,46,REP,Shannon  Roers Jones,959
+Cass,4602 Atonement Lutheran,State House,46,REP,Shannon  Roers Jones,1783
+Cass,4603 Riverview Place,State House,46,REP,Shannon  Roers Jones,1232
 Dunn,Killdeer City 36,State House,36,IND,Rebecca Ferderer,3
 Dunn,Kyseth,State House,36,IND,Rebecca Ferderer,4
 Dunn,Manning,State House,36,IND,Rebecca Ferderer,27
@@ -10849,29 +10849,29 @@ Williams,Precinct 64,State House,2,,Write-ins,11
 Williams,Precinct 65,State House,2,,Write-ins,0
 Williams,Precinct 67,State House,2,,Write-ins,3
 Williams,Precinct 76,State House,2,,Write-ins,14
-Dunn,Antelope - Twin Buttes,State House,4,DNPL,Hunter L Andes ,48
-Dunn,Collins/Halliday,State House,4,DNPL,Hunter L Andes ,24
-Dunn,Dodge/Loring,State House,4,DNPL,Hunter L Andes ,14
-Dunn,Dunn Center/Decorah,State House,4,DNPL,Hunter L Andes ,32
-Dunn,North Fox,State House,4,DNPL,Hunter L Andes ,41
-McKenzie,04-01 Four Bears,State House,4,DNPL,Hunter L Andes ,67
-McKenzie,04-02 Mandaree,State House,4,DNPL,Hunter L Andes ,82
-McKenzie,MCKENZIE,State House,4,DNPL,Hunter L Andes ,149
-McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,DNPL,Hunter L Andes ,175
-McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,DNPL,Hunter L Andes ,119
-Mercer,Precinct 0401,State House,4,DNPL,Hunter L Andes ,1
-Mountrail,Precinct 02,State House,4,DNPL,Hunter L Andes ,317
-Mountrail,Precinct 03,State House,4,DNPL,Hunter L Andes ,222
-Mountrail,Precinct 04,State House,4,DNPL,Hunter L Andes ,38
-Mountrail,Precinct 05,State House,4,DNPL,Hunter L Andes ,38
-Mountrail,Precinct 08,State House,4,DNPL,Hunter L Andes ,143
-Mountrail,Precinct 09,State House,4,DNPL,Hunter L Andes ,90
-Ward,Berthold Sr Citizen Center,State House,4,DNPL,Hunter L Andes ,104
-Ward,Kenmare Memorial Hall,State House,4,DNPL,Hunter L Andes ,143
-Ward,Makoti Pioneer Sr Citizen Club,State House,4,DNPL,Hunter L Andes ,69
-Ward,Ryder City Building,State House,4,DNPL,Hunter L Andes ,70
-Ward,Sawyer City Hall,State House,4,DNPL,Hunter L Andes ,63
-Ward,South Prairie School,State House,4,DNPL,Hunter L Andes ,53
+Dunn,Antelope - Twin Buttes,State House,4,DNPL,Hunter L Andes,48
+Dunn,Collins/Halliday,State House,4,DNPL,Hunter L Andes,24
+Dunn,Dodge/Loring,State House,4,DNPL,Hunter L Andes,14
+Dunn,Dunn Center/Decorah,State House,4,DNPL,Hunter L Andes,32
+Dunn,North Fox,State House,4,DNPL,Hunter L Andes,41
+McKenzie,04-01 Four Bears,State House,4,DNPL,Hunter L Andes,67
+McKenzie,04-02 Mandaree,State House,4,DNPL,Hunter L Andes,82
+McKenzie,MCKENZIE,State House,4,DNPL,Hunter L Andes,149
+McLean,LEGISLATIVE 4-McLEAN LESS 0402,State House,4,DNPL,Hunter L Andes,175
+McLean,WHITE SHIELD/ZIEGLER RURAL,State House,4,DNPL,Hunter L Andes,119
+Mercer,Precinct 0401,State House,4,DNPL,Hunter L Andes,1
+Mountrail,Precinct 02,State House,4,DNPL,Hunter L Andes,317
+Mountrail,Precinct 03,State House,4,DNPL,Hunter L Andes,222
+Mountrail,Precinct 04,State House,4,DNPL,Hunter L Andes,38
+Mountrail,Precinct 05,State House,4,DNPL,Hunter L Andes,38
+Mountrail,Precinct 08,State House,4,DNPL,Hunter L Andes,143
+Mountrail,Precinct 09,State House,4,DNPL,Hunter L Andes,90
+Ward,Berthold Sr Citizen Center,State House,4,DNPL,Hunter L Andes,104
+Ward,Kenmare Memorial Hall,State House,4,DNPL,Hunter L Andes,143
+Ward,Makoti Pioneer Sr Citizen Club,State House,4,DNPL,Hunter L Andes,69
+Ward,Ryder City Building,State House,4,DNPL,Hunter L Andes,70
+Ward,Sawyer City Hall,State House,4,DNPL,Hunter L Andes,63
+Ward,South Prairie School,State House,4,DNPL,Hunter L Andes,53
 Bottineau,Precinct 01,State House,6,DNPL,Trygve  Hammer,154
 Bottineau,Precinct 02,State House,6,DNPL,Trygve  Hammer,186
 Bottineau,Precinct 03,State House,6,DNPL,Trygve  Hammer,131
@@ -10890,52 +10890,52 @@ Renville,MOHALL,State House,6,DNPL,Trygve  Hammer,88
 Renville,SHERWOOD,State House,6,DNPL,Trygve  Hammer,30
 Renville,TOLLEY,State House,6,DNPL,Trygve  Hammer,31
 Renville,WHITE ASH,State House,6,DNPL,Trygve  Hammer,14
-Burleigh,County 4-H Building 0804,State House,8,DNPL,Linda  Babb ,274
-Burleigh,Evangel Assembly of God 0805,State House,8,DNPL,Linda  Babb ,259
-Burleigh,Legacy Methodist Church 0806,State House,8,DNPL,Linda  Babb ,176
-Burleigh,Wilton County Shop 0801,State House,8,DNPL,Linda  Babb ,72
-Burleigh,Wilton County Shop 0802,State House,8,DNPL,Linda  Babb ,36
-Burleigh,Wing Fire Hall 0803,State House,8,DNPL,Linda  Babb ,27
-McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,DNPL,Linda  Babb ,807
-Cavalier,Precinct 1,State House,10,DNPL,Melissa  Anderson ,387
-Pembina,Precinct 10-01,State House,10,DNPL,Melissa  Anderson ,113
-Pembina,Precinct 10-02,State House,10,DNPL,Melissa  Anderson ,109
-Pembina,Precinct 10-03,State House,10,DNPL,Melissa  Anderson ,179
-Pembina,Precinct 10-04,State House,10,DNPL,Melissa  Anderson ,134
-Pembina,Precinct 10-05,State House,10,DNPL,Melissa  Anderson ,69
-Pembina,Precinct 10-06,State House,10,DNPL,Melissa  Anderson ,114
-Walsh,Precinct 2 -District 10,State House,10,DNPL,Melissa  Anderson ,430
+Burleigh,County 4-H Building 0804,State House,8,DNPL,Linda  Babb,274
+Burleigh,Evangel Assembly of God 0805,State House,8,DNPL,Linda  Babb,259
+Burleigh,Legacy Methodist Church 0806,State House,8,DNPL,Linda  Babb,176
+Burleigh,Wilton County Shop 0801,State House,8,DNPL,Linda  Babb,72
+Burleigh,Wilton County Shop 0802,State House,8,DNPL,Linda  Babb,36
+Burleigh,Wing Fire Hall 0803,State House,8,DNPL,Linda  Babb,27
+McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,DNPL,Linda  Babb,807
+Cavalier,Precinct 1,State House,10,DNPL,Melissa  Anderson,387
+Pembina,Precinct 10-01,State House,10,DNPL,Melissa  Anderson,113
+Pembina,Precinct 10-02,State House,10,DNPL,Melissa  Anderson,109
+Pembina,Precinct 10-03,State House,10,DNPL,Melissa  Anderson,179
+Pembina,Precinct 10-04,State House,10,DNPL,Melissa  Anderson,134
+Pembina,Precinct 10-05,State House,10,DNPL,Melissa  Anderson,69
+Pembina,Precinct 10-06,State House,10,DNPL,Melissa  Anderson,114
+Walsh,Precinct 2 -District 10,State House,10,DNPL,Melissa  Anderson,430
 Stutsman,Precinct J1,State House,12,DNPL,George Barnes,351
 Stutsman,Precinct J2,State House,12,DNPL,George Barnes,507
 Stutsman,Precinct J3,State House,12,DNPL,George Barnes,334
 Stutsman,Precinct J5,State House,12,DNPL,George Barnes,395
 Stutsman,Precinct J6,State House,12,DNPL,George Barnes,237
-Benson,Precinct 1,State House,14,DNPL,Richard  Lynne ,425
-Kidder,Dawson,State House,14,DNPL,Richard  Lynne ,9
-Kidder,Pettibone,State House,14,DNPL,Richard  Lynne ,19
-Kidder,Robinson,State House,14,DNPL,Richard  Lynne ,30
-Kidder,Steele,State House,14,DNPL,Richard  Lynne ,80
-Kidder,Tappen,State House,14,DNPL,Richard  Lynne ,25
-Kidder,Tuttle,State House,14,DNPL,Richard  Lynne ,33
-Pierce,Precinct 01,State House,14,DNPL,Richard  Lynne ,22
-Pierce,Precinct 02,State House,14,DNPL,Richard  Lynne ,39
-Pierce,Precinct 03,State House,14,DNPL,Richard  Lynne ,51
-Pierce,Precinct 04- 1ST WARD 1ST,State House,14,DNPL,Richard  Lynne ,60
-Pierce,Precinct 05- 1ST WARD 2ND,State House,14,DNPL,Richard  Lynne ,16
-Pierce,Precinct 06 -2ND WARD,State House,14,DNPL,Richard  Lynne ,81
-Pierce,Precinct 07-3RD WARD,State House,14,DNPL,Richard  Lynne ,51
-Pierce,Precinct 08 - 4TH WARD,State House,14,DNPL,Richard  Lynne ,71
-Sheridan,Precinct 01,State House,14,DNPL,Richard  Lynne ,106
-Wells,Precinct 01 Harvey,State House,14,DNPL,Richard  Lynne ,59
-Wells,Precinct 02 Fessenden,State House,14,DNPL,Richard  Lynne ,72
-Wells,Precinct 03 Bowdon,State House,14,DNPL,Richard  Lynne ,36
-Wells,Precinct 04 Sykeston,State House,14,DNPL,Richard  Lynne ,54
-Wells,Precinct 05 Harvey,State House,14,DNPL,Richard  Lynne ,182
-Wells,Precinct 06 Fessenden,State House,14,DNPL,Richard  Lynne ,47
-Cass,1601 Meadowridge Bible Chapel,State House,16,DNPL,Hamida  Dakane ,859
-Cass,1602 Lutheran Church of the Cross,State House,16,DNPL,Hamida  Dakane ,970
-Cass,1603 Scheels Arena,State House,16,DNPL,Hamida  Dakane ,1584
-Cass,1604 Faith Journey Church,State House,16,DNPL,Hamida  Dakane ,452
+Benson,Precinct 1,State House,14,DNPL,Richard  Lynne,425
+Kidder,Dawson,State House,14,DNPL,Richard  Lynne,9
+Kidder,Pettibone,State House,14,DNPL,Richard  Lynne,19
+Kidder,Robinson,State House,14,DNPL,Richard  Lynne,30
+Kidder,Steele,State House,14,DNPL,Richard  Lynne,80
+Kidder,Tappen,State House,14,DNPL,Richard  Lynne,25
+Kidder,Tuttle,State House,14,DNPL,Richard  Lynne,33
+Pierce,Precinct 01,State House,14,DNPL,Richard  Lynne,22
+Pierce,Precinct 02,State House,14,DNPL,Richard  Lynne,39
+Pierce,Precinct 03,State House,14,DNPL,Richard  Lynne,51
+Pierce,Precinct 04- 1ST WARD 1ST,State House,14,DNPL,Richard  Lynne,60
+Pierce,Precinct 05- 1ST WARD 2ND,State House,14,DNPL,Richard  Lynne,16
+Pierce,Precinct 06 -2ND WARD,State House,14,DNPL,Richard  Lynne,81
+Pierce,Precinct 07-3RD WARD,State House,14,DNPL,Richard  Lynne,51
+Pierce,Precinct 08 - 4TH WARD,State House,14,DNPL,Richard  Lynne,71
+Sheridan,Precinct 01,State House,14,DNPL,Richard  Lynne,106
+Wells,Precinct 01 Harvey,State House,14,DNPL,Richard  Lynne,59
+Wells,Precinct 02 Fessenden,State House,14,DNPL,Richard  Lynne,72
+Wells,Precinct 03 Bowdon,State House,14,DNPL,Richard  Lynne,36
+Wells,Precinct 04 Sykeston,State House,14,DNPL,Richard  Lynne,54
+Wells,Precinct 05 Harvey,State House,14,DNPL,Richard  Lynne,182
+Wells,Precinct 06 Fessenden,State House,14,DNPL,Richard  Lynne,47
+Cass,1601 Meadowridge Bible Chapel,State House,16,DNPL,Hamida  Dakane,859
+Cass,1602 Lutheran Church of the Cross,State House,16,DNPL,Hamida  Dakane,970
+Cass,1603 Scheels Arena,State House,16,DNPL,Hamida  Dakane,1584
+Cass,1604 Faith Journey Church,State House,16,DNPL,Hamida  Dakane,452
 Grand Forks,Bible Baptist Church,State House,18,DNPL,Jacqueline Hoffarth,138
 Grand Forks,Grand Forks City Hall 08,State House,18,DNPL,Jacqueline Hoffarth,335
 Grand Forks,Grand Forks City Hall 09,State House,18,DNPL,Jacqueline Hoffarth,297
@@ -10943,62 +10943,62 @@ Grand Forks,Grand Forks City Hall 10,State House,18,DNPL,Jacqueline Hoffarth,550
 Grand Forks,Holy Family 11,State House,18,DNPL,Jacqueline Hoffarth,94
 Grand Forks,Holy Family 12,State House,18,DNPL,Jacqueline Hoffarth,564
 Grand Forks,UND Wellness Center 07,State House,18,DNPL,Jacqueline Hoffarth,158
-Cass,2001 Northern Cass PSD,State House,20,DNPL,Zachary  Blotsky ,117
-Grand Forks,Emerado Community Hall,State House,20,DNPL,Zachary  Blotsky ,107
-Grand Forks,Thompson Community Center,State House,20,DNPL,Zachary  Blotsky ,411
-Traill,Precinct 1,State House,20,DNPL,Zachary  Blotsky ,54
-Traill,Precinct 10,State House,20,DNPL,Zachary  Blotsky ,141
-Traill,Precinct 11,State House,20,DNPL,Zachary  Blotsky ,235
-Traill,Precinct 12,State House,20,DNPL,Zachary  Blotsky ,177
-Traill,Precinct 2,State House,20,DNPL,Zachary  Blotsky ,136
-Traill,Precinct 3,State House,20,DNPL,Zachary  Blotsky ,53
-Traill,Precinct 4,State House,20,DNPL,Zachary  Blotsky ,51
-Traill,Precinct 5,State House,20,DNPL,Zachary  Blotsky ,41
-Traill,Precinct 6,State House,20,DNPL,Zachary  Blotsky ,26
-Traill,Precinct 7,State House,20,DNPL,Zachary  Blotsky ,150
-Traill,Precinct 8,State House,20,DNPL,Zachary  Blotsky ,83
-Traill,Precinct 9,State House,20,DNPL,Zachary  Blotsky ,126
-Cass,2201 Page Senior Ctr,State House,22,DNPL,Jodi  Meisch ,52
-Cass,2202 Arthur Community Hall,State House,22,DNPL,Jodi  Meisch ,96
-Cass,2203 Buffalo Community Center,State House,22,DNPL,Jodi  Meisch ,70
-Cass,2204 Casselton City Auditorium,State House,22,DNPL,Jodi  Meisch ,370
-Cass,2205 Mapleton Community Ctr,State House,22,DNPL,Jodi  Meisch ,312
-Cass,2206 Triumph West Church,State House,22,DNPL,Jodi  Meisch ,1278
-Cass,2207 Davenport Community Ctr,State House,22,DNPL,Jodi  Meisch ,152
-Cass,2208 Horace Senior Center,State House,22,DNPL,Jodi  Meisch ,1084
-Barnes,Precinct 2401-00,State House,24,DNPL,Bradley  Edin ,164
-Barnes,Precinct 2402-00,State House,24,DNPL,Bradley  Edin ,279
-Barnes,Precinct 2403-00,State House,24,DNPL,Bradley  Edin ,142
-Barnes,Precinct 2404-00,State House,24,DNPL,Bradley  Edin ,234
-Barnes,Precinct 2405-00,State House,24,DNPL,Bradley  Edin ,354
-Barnes,Precinct 2406-00,State House,24,DNPL,Bradley  Edin ,115
-Barnes,Precinct 2407-00,State House,24,DNPL,Bradley  Edin ,42
-Barnes,Precinct 2408-00,State House,24,DNPL,Bradley  Edin ,46
-Barnes,Precinct 2409-00,State House,24,DNPL,Bradley  Edin ,61
-Barnes,Precinct 2410-00,State House,24,DNPL,Bradley  Edin ,28
-Barnes,Precinct 2411-00,State House,24,DNPL,Bradley  Edin ,228
-Barnes,Precinct 2412-00,State House,24,DNPL,Bradley  Edin ,55
-Barnes,Precinct 2413-00,State House,24,DNPL,Bradley  Edin ,109
-Barnes,Precinct 2414-00,State House,24,DNPL,Bradley  Edin ,47
-Barnes,Precinct 2415-00,State House,24,DNPL,Bradley  Edin ,48
-Cass,2401 Tower City Community Ctr,State House,24,DNPL,Bradley  Edin ,72
-Cass,2402 Alice Quality Seed Office,State House,24,DNPL,Bradley  Edin ,96
-Ransom,Precinct 1,State House,24,DNPL,Bradley  Edin ,160
-Ransom,Precinct 2,State House,24,DNPL,Bradley  Edin ,229
-Dickey,Precinct 02,State House,26,DNPL,John M Hokana ,65
-Dickey,Precinct 03,State House,26,DNPL,John M Hokana ,585
-Ransom,Precinct 3,State House,26,DNPL,John M Hokana ,409
-Ransom,Precinct 4,State House,26,DNPL,John M Hokana ,189
-Richland,BARRIE-HELENDALE,State House,26,DNPL,John M Hokana ,44
-Richland,COLFAX,State House,26,DNPL,John M Hokana ,129
-Richland,HANKINSON 26,State House,26,DNPL,John M Hokana ,72
-Richland,LIDGERWOOD,State House,26,DNPL,John M Hokana ,176
-Richland,WYNDMERE,State House,26,DNPL,John M Hokana ,294
-Sargent,Cogswell #3,State House,26,DNPL,John M Hokana ,95
-Sargent,Forman-Havana #4,State House,26,DNPL,John M Hokana ,236
-Sargent,Gwinner #2,State House,26,DNPL,John M Hokana ,181
-Sargent,Milnor #1,State House,26,DNPL,John M Hokana ,225
-Sargent,Rutland-Cayuga #5,State House,26,DNPL,John M Hokana ,116
+Cass,2001 Northern Cass PSD,State House,20,DNPL,Zachary  Blotsky,117
+Grand Forks,Emerado Community Hall,State House,20,DNPL,Zachary  Blotsky,107
+Grand Forks,Thompson Community Center,State House,20,DNPL,Zachary  Blotsky,411
+Traill,Precinct 1,State House,20,DNPL,Zachary  Blotsky,54
+Traill,Precinct 10,State House,20,DNPL,Zachary  Blotsky,141
+Traill,Precinct 11,State House,20,DNPL,Zachary  Blotsky,235
+Traill,Precinct 12,State House,20,DNPL,Zachary  Blotsky,177
+Traill,Precinct 2,State House,20,DNPL,Zachary  Blotsky,136
+Traill,Precinct 3,State House,20,DNPL,Zachary  Blotsky,53
+Traill,Precinct 4,State House,20,DNPL,Zachary  Blotsky,51
+Traill,Precinct 5,State House,20,DNPL,Zachary  Blotsky,41
+Traill,Precinct 6,State House,20,DNPL,Zachary  Blotsky,26
+Traill,Precinct 7,State House,20,DNPL,Zachary  Blotsky,150
+Traill,Precinct 8,State House,20,DNPL,Zachary  Blotsky,83
+Traill,Precinct 9,State House,20,DNPL,Zachary  Blotsky,126
+Cass,2201 Page Senior Ctr,State House,22,DNPL,Jodi  Meisch,52
+Cass,2202 Arthur Community Hall,State House,22,DNPL,Jodi  Meisch,96
+Cass,2203 Buffalo Community Center,State House,22,DNPL,Jodi  Meisch,70
+Cass,2204 Casselton City Auditorium,State House,22,DNPL,Jodi  Meisch,370
+Cass,2205 Mapleton Community Ctr,State House,22,DNPL,Jodi  Meisch,312
+Cass,2206 Triumph West Church,State House,22,DNPL,Jodi  Meisch,1278
+Cass,2207 Davenport Community Ctr,State House,22,DNPL,Jodi  Meisch,152
+Cass,2208 Horace Senior Center,State House,22,DNPL,Jodi  Meisch,1084
+Barnes,Precinct 2401-00,State House,24,DNPL,Bradley  Edin,164
+Barnes,Precinct 2402-00,State House,24,DNPL,Bradley  Edin,279
+Barnes,Precinct 2403-00,State House,24,DNPL,Bradley  Edin,142
+Barnes,Precinct 2404-00,State House,24,DNPL,Bradley  Edin,234
+Barnes,Precinct 2405-00,State House,24,DNPL,Bradley  Edin,354
+Barnes,Precinct 2406-00,State House,24,DNPL,Bradley  Edin,115
+Barnes,Precinct 2407-00,State House,24,DNPL,Bradley  Edin,42
+Barnes,Precinct 2408-00,State House,24,DNPL,Bradley  Edin,46
+Barnes,Precinct 2409-00,State House,24,DNPL,Bradley  Edin,61
+Barnes,Precinct 2410-00,State House,24,DNPL,Bradley  Edin,28
+Barnes,Precinct 2411-00,State House,24,DNPL,Bradley  Edin,228
+Barnes,Precinct 2412-00,State House,24,DNPL,Bradley  Edin,55
+Barnes,Precinct 2413-00,State House,24,DNPL,Bradley  Edin,109
+Barnes,Precinct 2414-00,State House,24,DNPL,Bradley  Edin,47
+Barnes,Precinct 2415-00,State House,24,DNPL,Bradley  Edin,48
+Cass,2401 Tower City Community Ctr,State House,24,DNPL,Bradley  Edin,72
+Cass,2402 Alice Quality Seed Office,State House,24,DNPL,Bradley  Edin,96
+Ransom,Precinct 1,State House,24,DNPL,Bradley  Edin,160
+Ransom,Precinct 2,State House,24,DNPL,Bradley  Edin,229
+Dickey,Precinct 02,State House,26,DNPL,John M Hokana,65
+Dickey,Precinct 03,State House,26,DNPL,John M Hokana,585
+Ransom,Precinct 3,State House,26,DNPL,John M Hokana,409
+Ransom,Precinct 4,State House,26,DNPL,John M Hokana,189
+Richland,BARRIE-HELENDALE,State House,26,DNPL,John M Hokana,44
+Richland,COLFAX,State House,26,DNPL,John M Hokana,129
+Richland,HANKINSON 26,State House,26,DNPL,John M Hokana,72
+Richland,LIDGERWOOD,State House,26,DNPL,John M Hokana,176
+Richland,WYNDMERE,State House,26,DNPL,John M Hokana,294
+Sargent,Cogswell #3,State House,26,DNPL,John M Hokana,95
+Sargent,Forman-Havana #4,State House,26,DNPL,John M Hokana,236
+Sargent,Gwinner #2,State House,26,DNPL,John M Hokana,181
+Sargent,Milnor #1,State House,26,DNPL,John M Hokana,225
+Sargent,Rutland-Cayuga #5,State House,26,DNPL,John M Hokana,116
 Burleigh,County 4-H Building 2803,State House,28,DNPL,Rebecca Phillips,188
 Burleigh,County 4-H Building 2804,State House,28,DNPL,Rebecca Phillips,26
 Burleigh,Crossroads Cowboy Church 2802,State House,28,DNPL,Rebecca Phillips,76
@@ -11021,10 +11021,10 @@ McIntosh,Precinct 3-Lehr/Rural Lehr,State House,28,DNPL,Rebecca Phillips,17
 McIntosh,Precinct 4-City of Wishek,State House,28,DNPL,Rebecca Phillips,73
 McIntosh,Precinct 5-Rural Wishek,State House,28,DNPL,Rebecca Phillips,42
 McIntosh,Precinct 6-Zeeland/Rural,State House,28,DNPL,Rebecca Phillips,30
-Burleigh,Bismarck Event Center 3201,State House,32,DNPL,Krisanna  Holkup Peterson ,207
-Burleigh,Bismarck Event Center 3202,State House,32,DNPL,Krisanna  Holkup Peterson ,295
-Burleigh,Bismarck Event Center 3203,State House,32,DNPL,Krisanna  Holkup Peterson ,408
-Burleigh,Bismarck Event Center 3204,State House,32,DNPL,Krisanna  Holkup Peterson ,1035
+Burleigh,Bismarck Event Center 3201,State House,32,DNPL,Krisanna  Holkup Peterson,207
+Burleigh,Bismarck Event Center 3202,State House,32,DNPL,Krisanna  Holkup Peterson,295
+Burleigh,Bismarck Event Center 3203,State House,32,DNPL,Krisanna  Holkup Peterson,408
+Burleigh,Bismarck Event Center 3204,State House,32,DNPL,Krisanna  Holkup Peterson,1035
 Morton,Precinct 01,State House,34,DNPL,Joshua  Johnson,455
 Morton,Precinct 02,State House,34,DNPL,Joshua  Johnson,534
 Morton,Precinct 03,State House,34,DNPL,Joshua  Johnson,315
@@ -11032,32 +11032,32 @@ Morton,Precinct 04,State House,34,DNPL,Joshua  Johnson,215
 Morton,Precinct 06,State House,34,DNPL,Joshua  Johnson,315
 Morton,Precinct 07,State House,34,DNPL,Joshua  Johnson,170
 Morton,Precinct 08,State House,34,DNPL,Joshua  Johnson,153
-Dunn,Killdeer City 36,State House,36,DNPL,Steve  Krebs ,3
-Dunn,Kyseth,State House,36,DNPL,Steve  Krebs ,6
-Dunn,Manning,State House,36,DNPL,Steve  Krebs ,30
-Dunn,New Hradec,State House,36,DNPL,Steve  Krebs ,39
-Hettinger,Indian Creek #4,State House,36,DNPL,Steve  Krebs ,12
-Hettinger,New England #3,State House,36,DNPL,Steve  Krebs ,66
-Morton,Precinct 36,State House,36,DNPL,Steve  Krebs ,49
-Morton,Precinct 38,State House,36,DNPL,Steve  Krebs ,51
-Stark,Belfield,State House,36,DNPL,Steve  Krebs ,69
-Stark,Dickinson 36th,State House,36,DNPL,Steve  Krebs ,352
-Stark,Gladstone,State House,36,DNPL,Steve  Krebs ,48
-Stark,Range 95/96,State House,36,DNPL,Steve  Krebs ,170
-Stark,Richardton,State House,36,DNPL,Steve  Krebs ,73
-Stark,South Heart,State House,36,DNPL,Steve  Krebs ,88
-Stark,Taylor,State House,36,DNPL,Steve  Krebs ,37
-Ward,Dist 40 Minot,State House,40,DNPL,Kalyn June Dewitt ,1262
-Ward,Ruthville,State House,40,DNPL,Kalyn June Dewitt ,151
+Dunn,Killdeer City 36,State House,36,DNPL,Steve  Krebs,3
+Dunn,Kyseth,State House,36,DNPL,Steve  Krebs,6
+Dunn,Manning,State House,36,DNPL,Steve  Krebs,30
+Dunn,New Hradec,State House,36,DNPL,Steve  Krebs,39
+Hettinger,Indian Creek #4,State House,36,DNPL,Steve  Krebs,12
+Hettinger,New England #3,State House,36,DNPL,Steve  Krebs,66
+Morton,Precinct 36,State House,36,DNPL,Steve  Krebs,49
+Morton,Precinct 38,State House,36,DNPL,Steve  Krebs,51
+Stark,Belfield,State House,36,DNPL,Steve  Krebs,69
+Stark,Dickinson 36th,State House,36,DNPL,Steve  Krebs,352
+Stark,Gladstone,State House,36,DNPL,Steve  Krebs,48
+Stark,Range 95/96,State House,36,DNPL,Steve  Krebs,170
+Stark,Richardton,State House,36,DNPL,Steve  Krebs,73
+Stark,South Heart,State House,36,DNPL,Steve  Krebs,88
+Stark,Taylor,State House,36,DNPL,Steve  Krebs,37
+Ward,Dist 40 Minot,State House,40,DNPL,Kalyn June Dewitt,1262
+Ward,Ruthville,State House,40,DNPL,Kalyn June Dewitt,151
 Grand Forks,Public Works 19,State House,42,DNPL,Adam Fortwengler,381
 Grand Forks,Public Works 20,State House,42,DNPL,Adam Fortwengler,375
 Grand Forks,UND Wellness Center 21,State House,42,DNPL,Adam Fortwengler,199
 Grand Forks,UND Wellness Center 22,State House,42,DNPL,Adam Fortwengler,414
 Cass,4401 Broadway Station,State House,44,DNPL,Joshua A Boschee,1971
 Cass,4402 Grace Covenant Chrch,State House,44,DNPL,Joshua A Boschee,1599
-Cass,4601 The Bowler,State House,46,DNPL,Ben W Hanson ,1020
-Cass,4602 Atonement Lutheran,State House,46,DNPL,Ben W Hanson ,1468
-Cass,4603 Riverview Place,State House,46,DNPL,Ben W Hanson ,858
+Cass,4601 The Bowler,State House,46,DNPL,Ben W Hanson,1020
+Cass,4602 Atonement Lutheran,State House,46,DNPL,Ben W Hanson,1468
+Cass,4603 Riverview Place,State House,46,DNPL,Ben W Hanson,858
 Dunn,Antelope - Twin Buttes,State House,4,DNPL,Thomasina Mandan,71
 Dunn,Collins/Halliday,State House,4,DNPL,Thomasina Mandan,26
 Dunn,Dodge/Loring,State House,4,DNPL,Thomasina Mandan,13
@@ -11081,24 +11081,24 @@ Ward,Makoti Pioneer Sr Citizen Club,State House,4,DNPL,Thomasina Mandan,23
 Ward,Ryder City Building,State House,4,DNPL,Thomasina Mandan,50
 Ward,Sawyer City Hall,State House,4,DNPL,Thomasina Mandan,57
 Ward,South Prairie School,State House,4,DNPL,Thomasina Mandan,47
-Bottineau,Precinct 01,State House,6,DNPL,Arnold W Langehaug ,186
-Bottineau,Precinct 02,State House,6,DNPL,Arnold W Langehaug ,218
-Bottineau,Precinct 03,State House,6,DNPL,Arnold W Langehaug ,156
-Bottineau,Precinct 04,State House,6,DNPL,Arnold W Langehaug ,192
-Bottineau,Precinct 05,State House,6,DNPL,Arnold W Langehaug ,120
-McHenry,Precinct 16,State House,6,DNPL,Arnold W Langehaug ,21
-McHenry,Precinct 18,State House,6,DNPL,Arnold W Langehaug ,126
-McHenry,Precinct 27,State House,6,DNPL,Arnold W Langehaug ,31
-McHenry,Precinct 41,State House,6,DNPL,Arnold W Langehaug ,41
-McHenry,Precinct 47,State House,6,DNPL,Arnold W Langehaug ,171
-McHenry,Precinct 55,State House,6,DNPL,Arnold W Langehaug ,47
-McHenry,Precinct 58,State House,6,DNPL,Arnold W Langehaug ,44
-McHenry,Precinct 62,State House,6,DNPL,Arnold W Langehaug ,23
-Renville,GLENBURN,State House,6,DNPL,Arnold W Langehaug ,52
-Renville,MOHALL,State House,6,DNPL,Arnold W Langehaug ,111
-Renville,SHERWOOD,State House,6,DNPL,Arnold W Langehaug ,32
-Renville,TOLLEY,State House,6,DNPL,Arnold W Langehaug ,30
-Renville,WHITE ASH,State House,6,DNPL,Arnold W Langehaug ,16
+Bottineau,Precinct 01,State House,6,DNPL,Arnold W Langehaug,186
+Bottineau,Precinct 02,State House,6,DNPL,Arnold W Langehaug,218
+Bottineau,Precinct 03,State House,6,DNPL,Arnold W Langehaug,156
+Bottineau,Precinct 04,State House,6,DNPL,Arnold W Langehaug,192
+Bottineau,Precinct 05,State House,6,DNPL,Arnold W Langehaug,120
+McHenry,Precinct 16,State House,6,DNPL,Arnold W Langehaug,21
+McHenry,Precinct 18,State House,6,DNPL,Arnold W Langehaug,126
+McHenry,Precinct 27,State House,6,DNPL,Arnold W Langehaug,31
+McHenry,Precinct 41,State House,6,DNPL,Arnold W Langehaug,41
+McHenry,Precinct 47,State House,6,DNPL,Arnold W Langehaug,171
+McHenry,Precinct 55,State House,6,DNPL,Arnold W Langehaug,47
+McHenry,Precinct 58,State House,6,DNPL,Arnold W Langehaug,44
+McHenry,Precinct 62,State House,6,DNPL,Arnold W Langehaug,23
+Renville,GLENBURN,State House,6,DNPL,Arnold W Langehaug,52
+Renville,MOHALL,State House,6,DNPL,Arnold W Langehaug,111
+Renville,SHERWOOD,State House,6,DNPL,Arnold W Langehaug,32
+Renville,TOLLEY,State House,6,DNPL,Arnold W Langehaug,30
+Renville,WHITE ASH,State House,6,DNPL,Arnold W Langehaug,16
 Burleigh,County 4-H Building 0804,State House,8,DNPL,Kathrin Volochenko,295
 Burleigh,Evangel Assembly of God 0805,State House,8,DNPL,Kathrin Volochenko,311
 Burleigh,Legacy Methodist Church 0806,State House,8,DNPL,Kathrin Volochenko,189
@@ -11106,67 +11106,67 @@ Burleigh,Wilton County Shop 0801,State House,8,DNPL,Kathrin Volochenko,67
 Burleigh,Wilton County Shop 0802,State House,8,DNPL,Kathrin Volochenko,41
 Burleigh,Wing Fire Hall 0803,State House,8,DNPL,Kathrin Volochenko,36
 McLean,LEGISLATIVE 8-McLEAN COUNTY,State House,8,DNPL,Kathrin Volochenko,966
-Cavalier,Precinct 1,State House,10,DNPL,Elsie Blair Magnus ,509
-Pembina,Precinct 10-01,State House,10,DNPL,Elsie Blair Magnus ,123
-Pembina,Precinct 10-02,State House,10,DNPL,Elsie Blair Magnus ,170
-Pembina,Precinct 10-03,State House,10,DNPL,Elsie Blair Magnus ,176
-Pembina,Precinct 10-04,State House,10,DNPL,Elsie Blair Magnus ,155
-Pembina,Precinct 10-05,State House,10,DNPL,Elsie Blair Magnus ,69
-Pembina,Precinct 10-06,State House,10,DNPL,Elsie Blair Magnus ,100
-Walsh,Precinct 2 -District 10,State House,10,DNPL,Elsie Blair Magnus ,405
-Stutsman,Precinct J1,State House,12,DNPL,Pam  Musland ,432
-Stutsman,Precinct J2,State House,12,DNPL,Pam  Musland ,626
-Stutsman,Precinct J3,State House,12,DNPL,Pam  Musland ,438
-Stutsman,Precinct J5,State House,12,DNPL,Pam  Musland ,427
-Stutsman,Precinct J6,State House,12,DNPL,Pam  Musland ,289
-Benson,Precinct 1,State House,14,DNPL,Mark  Nelson ,341
-Kidder,Dawson,State House,14,DNPL,Mark  Nelson ,10
-Kidder,Pettibone,State House,14,DNPL,Mark  Nelson ,27
-Kidder,Robinson,State House,14,DNPL,Mark  Nelson ,31
-Kidder,Steele,State House,14,DNPL,Mark  Nelson ,110
-Kidder,Tappen,State House,14,DNPL,Mark  Nelson ,31
-Kidder,Tuttle,State House,14,DNPL,Mark  Nelson ,35
-Pierce,Precinct 01,State House,14,DNPL,Mark  Nelson ,30
-Pierce,Precinct 02,State House,14,DNPL,Mark  Nelson ,40
-Pierce,Precinct 03,State House,14,DNPL,Mark  Nelson ,52
-Pierce,Precinct 04- 1ST WARD 1ST,State House,14,DNPL,Mark  Nelson ,66
-Pierce,Precinct 05- 1ST WARD 2ND,State House,14,DNPL,Mark  Nelson ,21
-Pierce,Precinct 06 -2ND WARD,State House,14,DNPL,Mark  Nelson ,93
-Pierce,Precinct 07-3RD WARD,State House,14,DNPL,Mark  Nelson ,63
-Pierce,Precinct 08 - 4TH WARD,State House,14,DNPL,Mark  Nelson ,128
-Sheridan,Precinct 01,State House,14,DNPL,Mark  Nelson ,125
-Wells,Precinct 01 Harvey,State House,14,DNPL,Mark  Nelson ,55
-Wells,Precinct 02 Fessenden,State House,14,DNPL,Mark  Nelson ,55
-Wells,Precinct 03 Bowdon,State House,14,DNPL,Mark  Nelson ,49
-Wells,Precinct 04 Sykeston,State House,14,DNPL,Mark  Nelson ,77
-Wells,Precinct 05 Harvey,State House,14,DNPL,Mark  Nelson ,227
-Wells,Precinct 06 Fessenden,State House,14,DNPL,Mark  Nelson ,52
-Cass,1601 Meadowridge Bible Chapel,State House,16,DNPL,Tracey L Wilkie ,1051
-Cass,1602 Lutheran Church of the Cross,State House,16,DNPL,Tracey L Wilkie ,1000
-Cass,1603 Scheels Arena,State House,16,DNPL,Tracey L Wilkie ,1886
-Cass,1604 Faith Journey Church,State House,16,DNPL,Tracey L Wilkie ,507
-Grand Forks,Bible Baptist Church,State House,18,DNPL,Corey  Mock ,160
-Grand Forks,Grand Forks City Hall 08,State House,18,DNPL,Corey  Mock ,364
-Grand Forks,Grand Forks City Hall 09,State House,18,DNPL,Corey  Mock ,324
-Grand Forks,Grand Forks City Hall 10,State House,18,DNPL,Corey  Mock ,589
-Grand Forks,Holy Family 11,State House,18,DNPL,Corey  Mock ,129
-Grand Forks,Holy Family 12,State House,18,DNPL,Corey  Mock ,665
-Grand Forks,UND Wellness Center 07,State House,18,DNPL,Corey  Mock ,201
-Cass,2001 Northern Cass PSD,State House,20,DNPL,John Martin Pederson ,132
-Grand Forks,Emerado Community Hall,State House,20,DNPL,John Martin Pederson ,99
-Grand Forks,Thompson Community Center,State House,20,DNPL,John Martin Pederson ,386
-Traill,Precinct 1,State House,20,DNPL,John Martin Pederson ,53
-Traill,Precinct 10,State House,20,DNPL,John Martin Pederson ,142
-Traill,Precinct 11,State House,20,DNPL,John Martin Pederson ,260
-Traill,Precinct 12,State House,20,DNPL,John Martin Pederson ,191
-Traill,Precinct 2,State House,20,DNPL,John Martin Pederson ,138
-Traill,Precinct 3,State House,20,DNPL,John Martin Pederson ,44
-Traill,Precinct 4,State House,20,DNPL,John Martin Pederson ,57
-Traill,Precinct 5,State House,20,DNPL,John Martin Pederson ,40
-Traill,Precinct 6,State House,20,DNPL,John Martin Pederson ,33
-Traill,Precinct 7,State House,20,DNPL,John Martin Pederson ,182
-Traill,Precinct 8,State House,20,DNPL,John Martin Pederson ,105
-Traill,Precinct 9,State House,20,DNPL,John Martin Pederson ,152
+Cavalier,Precinct 1,State House,10,DNPL,Elsie Blair Magnus,509
+Pembina,Precinct 10-01,State House,10,DNPL,Elsie Blair Magnus,123
+Pembina,Precinct 10-02,State House,10,DNPL,Elsie Blair Magnus,170
+Pembina,Precinct 10-03,State House,10,DNPL,Elsie Blair Magnus,176
+Pembina,Precinct 10-04,State House,10,DNPL,Elsie Blair Magnus,155
+Pembina,Precinct 10-05,State House,10,DNPL,Elsie Blair Magnus,69
+Pembina,Precinct 10-06,State House,10,DNPL,Elsie Blair Magnus,100
+Walsh,Precinct 2 -District 10,State House,10,DNPL,Elsie Blair Magnus,405
+Stutsman,Precinct J1,State House,12,DNPL,Pam  Musland,432
+Stutsman,Precinct J2,State House,12,DNPL,Pam  Musland,626
+Stutsman,Precinct J3,State House,12,DNPL,Pam  Musland,438
+Stutsman,Precinct J5,State House,12,DNPL,Pam  Musland,427
+Stutsman,Precinct J6,State House,12,DNPL,Pam  Musland,289
+Benson,Precinct 1,State House,14,DNPL,Mark  Nelson,341
+Kidder,Dawson,State House,14,DNPL,Mark  Nelson,10
+Kidder,Pettibone,State House,14,DNPL,Mark  Nelson,27
+Kidder,Robinson,State House,14,DNPL,Mark  Nelson,31
+Kidder,Steele,State House,14,DNPL,Mark  Nelson,110
+Kidder,Tappen,State House,14,DNPL,Mark  Nelson,31
+Kidder,Tuttle,State House,14,DNPL,Mark  Nelson,35
+Pierce,Precinct 01,State House,14,DNPL,Mark  Nelson,30
+Pierce,Precinct 02,State House,14,DNPL,Mark  Nelson,40
+Pierce,Precinct 03,State House,14,DNPL,Mark  Nelson,52
+Pierce,Precinct 04- 1ST WARD 1ST,State House,14,DNPL,Mark  Nelson,66
+Pierce,Precinct 05- 1ST WARD 2ND,State House,14,DNPL,Mark  Nelson,21
+Pierce,Precinct 06 -2ND WARD,State House,14,DNPL,Mark  Nelson,93
+Pierce,Precinct 07-3RD WARD,State House,14,DNPL,Mark  Nelson,63
+Pierce,Precinct 08 - 4TH WARD,State House,14,DNPL,Mark  Nelson,128
+Sheridan,Precinct 01,State House,14,DNPL,Mark  Nelson,125
+Wells,Precinct 01 Harvey,State House,14,DNPL,Mark  Nelson,55
+Wells,Precinct 02 Fessenden,State House,14,DNPL,Mark  Nelson,55
+Wells,Precinct 03 Bowdon,State House,14,DNPL,Mark  Nelson,49
+Wells,Precinct 04 Sykeston,State House,14,DNPL,Mark  Nelson,77
+Wells,Precinct 05 Harvey,State House,14,DNPL,Mark  Nelson,227
+Wells,Precinct 06 Fessenden,State House,14,DNPL,Mark  Nelson,52
+Cass,1601 Meadowridge Bible Chapel,State House,16,DNPL,Tracey L Wilkie,1051
+Cass,1602 Lutheran Church of the Cross,State House,16,DNPL,Tracey L Wilkie,1000
+Cass,1603 Scheels Arena,State House,16,DNPL,Tracey L Wilkie,1886
+Cass,1604 Faith Journey Church,State House,16,DNPL,Tracey L Wilkie,507
+Grand Forks,Bible Baptist Church,State House,18,DNPL,Corey  Mock,160
+Grand Forks,Grand Forks City Hall 08,State House,18,DNPL,Corey  Mock,364
+Grand Forks,Grand Forks City Hall 09,State House,18,DNPL,Corey  Mock,324
+Grand Forks,Grand Forks City Hall 10,State House,18,DNPL,Corey  Mock,589
+Grand Forks,Holy Family 11,State House,18,DNPL,Corey  Mock,129
+Grand Forks,Holy Family 12,State House,18,DNPL,Corey  Mock,665
+Grand Forks,UND Wellness Center 07,State House,18,DNPL,Corey  Mock,201
+Cass,2001 Northern Cass PSD,State House,20,DNPL,John Martin Pederson,132
+Grand Forks,Emerado Community Hall,State House,20,DNPL,John Martin Pederson,99
+Grand Forks,Thompson Community Center,State House,20,DNPL,John Martin Pederson,386
+Traill,Precinct 1,State House,20,DNPL,John Martin Pederson,53
+Traill,Precinct 10,State House,20,DNPL,John Martin Pederson,142
+Traill,Precinct 11,State House,20,DNPL,John Martin Pederson,260
+Traill,Precinct 12,State House,20,DNPL,John Martin Pederson,191
+Traill,Precinct 2,State House,20,DNPL,John Martin Pederson,138
+Traill,Precinct 3,State House,20,DNPL,John Martin Pederson,44
+Traill,Precinct 4,State House,20,DNPL,John Martin Pederson,57
+Traill,Precinct 5,State House,20,DNPL,John Martin Pederson,40
+Traill,Precinct 6,State House,20,DNPL,John Martin Pederson,33
+Traill,Precinct 7,State House,20,DNPL,John Martin Pederson,182
+Traill,Precinct 8,State House,20,DNPL,John Martin Pederson,105
+Traill,Precinct 9,State House,20,DNPL,John Martin Pederson,152
 Cass,2201 Page Senior Ctr,State House,22,DNPL,Will Thompson,56
 Cass,2202 Arthur Community Hall,State House,22,DNPL,Will Thompson,92
 Cass,2203 Buffalo Community Center,State House,22,DNPL,Will Thompson,62
@@ -11175,76 +11175,76 @@ Cass,2205 Mapleton Community Ctr,State House,22,DNPL,Will Thompson,238
 Cass,2206 Triumph West Church,State House,22,DNPL,Will Thompson,1069
 Cass,2207 Davenport Community Ctr,State House,22,DNPL,Will Thompson,141
 Cass,2208 Horace Senior Center,State House,22,DNPL,Will Thompson,881
-Barnes,Precinct 2401-00,State House,24,DNPL,Naomi T Muscha ,201
-Barnes,Precinct 2402-00,State House,24,DNPL,Naomi T Muscha ,308
-Barnes,Precinct 2403-00,State House,24,DNPL,Naomi T Muscha ,168
-Barnes,Precinct 2404-00,State House,24,DNPL,Naomi T Muscha ,273
-Barnes,Precinct 2405-00,State House,24,DNPL,Naomi T Muscha ,370
-Barnes,Precinct 2406-00,State House,24,DNPL,Naomi T Muscha ,131
-Barnes,Precinct 2407-00,State House,24,DNPL,Naomi T Muscha ,49
-Barnes,Precinct 2408-00,State House,24,DNPL,Naomi T Muscha ,47
-Barnes,Precinct 2409-00,State House,24,DNPL,Naomi T Muscha ,60
-Barnes,Precinct 2410-00,State House,24,DNPL,Naomi T Muscha ,29
-Barnes,Precinct 2411-00,State House,24,DNPL,Naomi T Muscha ,222
-Barnes,Precinct 2412-00,State House,24,DNPL,Naomi T Muscha ,68
-Barnes,Precinct 2413-00,State House,24,DNPL,Naomi T Muscha ,106
-Barnes,Precinct 2414-00,State House,24,DNPL,Naomi T Muscha ,39
-Barnes,Precinct 2415-00,State House,24,DNPL,Naomi T Muscha ,57
-Cass,2401 Tower City Community Ctr,State House,24,DNPL,Naomi T Muscha ,75
-Cass,2402 Alice Quality Seed Office,State House,24,DNPL,Naomi T Muscha ,144
-Ransom,Precinct 1,State House,24,DNPL,Naomi T Muscha ,217
-Ransom,Precinct 2,State House,24,DNPL,Naomi T Muscha ,308
-Dickey,Precinct 02,State House,26,DNPL,Alan J Peterson ,46
-Dickey,Precinct 03,State House,26,DNPL,Alan J Peterson ,359
-Ransom,Precinct 3,State House,26,DNPL,Alan J Peterson ,392
-Ransom,Precinct 4,State House,26,DNPL,Alan J Peterson ,188
-Richland,BARRIE-HELENDALE,State House,26,DNPL,Alan J Peterson ,49
-Richland,COLFAX,State House,26,DNPL,Alan J Peterson ,130
-Richland,HANKINSON 26,State House,26,DNPL,Alan J Peterson ,89
-Richland,LIDGERWOOD,State House,26,DNPL,Alan J Peterson ,172
-Richland,WYNDMERE,State House,26,DNPL,Alan J Peterson ,309
-Sargent,Cogswell #3,State House,26,DNPL,Alan J Peterson ,79
-Sargent,Forman-Havana #4,State House,26,DNPL,Alan J Peterson ,246
-Sargent,Gwinner #2,State House,26,DNPL,Alan J Peterson ,172
-Sargent,Milnor #1,State House,26,DNPL,Alan J Peterson ,220
-Sargent,Rutland-Cayuga #5,State House,26,DNPL,Alan J Peterson ,117
+Barnes,Precinct 2401-00,State House,24,DNPL,Naomi T Muscha,201
+Barnes,Precinct 2402-00,State House,24,DNPL,Naomi T Muscha,308
+Barnes,Precinct 2403-00,State House,24,DNPL,Naomi T Muscha,168
+Barnes,Precinct 2404-00,State House,24,DNPL,Naomi T Muscha,273
+Barnes,Precinct 2405-00,State House,24,DNPL,Naomi T Muscha,370
+Barnes,Precinct 2406-00,State House,24,DNPL,Naomi T Muscha,131
+Barnes,Precinct 2407-00,State House,24,DNPL,Naomi T Muscha,49
+Barnes,Precinct 2408-00,State House,24,DNPL,Naomi T Muscha,47
+Barnes,Precinct 2409-00,State House,24,DNPL,Naomi T Muscha,60
+Barnes,Precinct 2410-00,State House,24,DNPL,Naomi T Muscha,29
+Barnes,Precinct 2411-00,State House,24,DNPL,Naomi T Muscha,222
+Barnes,Precinct 2412-00,State House,24,DNPL,Naomi T Muscha,68
+Barnes,Precinct 2413-00,State House,24,DNPL,Naomi T Muscha,106
+Barnes,Precinct 2414-00,State House,24,DNPL,Naomi T Muscha,39
+Barnes,Precinct 2415-00,State House,24,DNPL,Naomi T Muscha,57
+Cass,2401 Tower City Community Ctr,State House,24,DNPL,Naomi T Muscha,75
+Cass,2402 Alice Quality Seed Office,State House,24,DNPL,Naomi T Muscha,144
+Ransom,Precinct 1,State House,24,DNPL,Naomi T Muscha,217
+Ransom,Precinct 2,State House,24,DNPL,Naomi T Muscha,308
+Dickey,Precinct 02,State House,26,DNPL,Alan J Peterson,46
+Dickey,Precinct 03,State House,26,DNPL,Alan J Peterson,359
+Ransom,Precinct 3,State House,26,DNPL,Alan J Peterson,392
+Ransom,Precinct 4,State House,26,DNPL,Alan J Peterson,188
+Richland,BARRIE-HELENDALE,State House,26,DNPL,Alan J Peterson,49
+Richland,COLFAX,State House,26,DNPL,Alan J Peterson,130
+Richland,HANKINSON 26,State House,26,DNPL,Alan J Peterson,89
+Richland,LIDGERWOOD,State House,26,DNPL,Alan J Peterson,172
+Richland,WYNDMERE,State House,26,DNPL,Alan J Peterson,309
+Sargent,Cogswell #3,State House,26,DNPL,Alan J Peterson,79
+Sargent,Forman-Havana #4,State House,26,DNPL,Alan J Peterson,246
+Sargent,Gwinner #2,State House,26,DNPL,Alan J Peterson,172
+Sargent,Milnor #1,State House,26,DNPL,Alan J Peterson,220
+Sargent,Rutland-Cayuga #5,State House,26,DNPL,Alan J Peterson,117
 Burleigh,Bismarck Event Center 3201,State House,32,DNPL,Carl  Young,197
 Burleigh,Bismarck Event Center 3202,State House,32,DNPL,Carl  Young,268
 Burleigh,Bismarck Event Center 3203,State House,32,DNPL,Carl  Young,345
 Burleigh,Bismarck Event Center 3204,State House,32,DNPL,Carl  Young,967
-Morton,Precinct 01,State House,34,DNPL,Bernie  Parkhurst ,392
-Morton,Precinct 02,State House,34,DNPL,Bernie  Parkhurst ,457
-Morton,Precinct 03,State House,34,DNPL,Bernie  Parkhurst ,299
-Morton,Precinct 04,State House,34,DNPL,Bernie  Parkhurst ,210
-Morton,Precinct 06,State House,34,DNPL,Bernie  Parkhurst ,287
-Morton,Precinct 07,State House,34,DNPL,Bernie  Parkhurst ,166
-Morton,Precinct 08,State House,34,DNPL,Bernie  Parkhurst ,151
-Dunn,Killdeer City 36,State House,36,DNPL,Linda  Weiss ,2
-Dunn,Kyseth,State House,36,DNPL,Linda  Weiss ,7
-Dunn,Manning,State House,36,DNPL,Linda  Weiss ,39
-Dunn,New Hradec,State House,36,DNPL,Linda  Weiss ,32
-Hettinger,Indian Creek #4,State House,36,DNPL,Linda  Weiss ,12
-Hettinger,New England #3,State House,36,DNPL,Linda  Weiss ,57
-Morton,Precinct 36,State House,36,DNPL,Linda  Weiss ,48
-Morton,Precinct 38,State House,36,DNPL,Linda  Weiss ,51
-Stark,Belfield,State House,36,DNPL,Linda  Weiss ,66
-Stark,Dickinson 36th,State House,36,DNPL,Linda  Weiss ,377
-Stark,Gladstone,State House,36,DNPL,Linda  Weiss ,56
-Stark,Range 95/96,State House,36,DNPL,Linda  Weiss ,171
-Stark,Richardton,State House,36,DNPL,Linda  Weiss ,74
-Stark,South Heart,State House,36,DNPL,Linda  Weiss ,104
-Stark,Taylor,State House,36,DNPL,Linda  Weiss ,32
-Ward,Dist 40 Minot,State House,40,DNPL,Robert E Kibler ,1196
-Ward,Ruthville,State House,40,DNPL,Robert E Kibler ,118
-Grand Forks,Public Works 19,State House,42,DNPL,Zachary Stephen Tomczik ,352
-Grand Forks,Public Works 20,State House,42,DNPL,Zachary Stephen Tomczik ,357
-Grand Forks,UND Wellness Center 21,State House,42,DNPL,Zachary Stephen Tomczik ,196
-Grand Forks,UND Wellness Center 22,State House,42,DNPL,Zachary Stephen Tomczik ,458
+Morton,Precinct 01,State House,34,DNPL,Bernie  Parkhurst,392
+Morton,Precinct 02,State House,34,DNPL,Bernie  Parkhurst,457
+Morton,Precinct 03,State House,34,DNPL,Bernie  Parkhurst,299
+Morton,Precinct 04,State House,34,DNPL,Bernie  Parkhurst,210
+Morton,Precinct 06,State House,34,DNPL,Bernie  Parkhurst,287
+Morton,Precinct 07,State House,34,DNPL,Bernie  Parkhurst,166
+Morton,Precinct 08,State House,34,DNPL,Bernie  Parkhurst,151
+Dunn,Killdeer City 36,State House,36,DNPL,Linda  Weiss,2
+Dunn,Kyseth,State House,36,DNPL,Linda  Weiss,7
+Dunn,Manning,State House,36,DNPL,Linda  Weiss,39
+Dunn,New Hradec,State House,36,DNPL,Linda  Weiss,32
+Hettinger,Indian Creek #4,State House,36,DNPL,Linda  Weiss,12
+Hettinger,New England #3,State House,36,DNPL,Linda  Weiss,57
+Morton,Precinct 36,State House,36,DNPL,Linda  Weiss,48
+Morton,Precinct 38,State House,36,DNPL,Linda  Weiss,51
+Stark,Belfield,State House,36,DNPL,Linda  Weiss,66
+Stark,Dickinson 36th,State House,36,DNPL,Linda  Weiss,377
+Stark,Gladstone,State House,36,DNPL,Linda  Weiss,56
+Stark,Range 95/96,State House,36,DNPL,Linda  Weiss,171
+Stark,Richardton,State House,36,DNPL,Linda  Weiss,74
+Stark,South Heart,State House,36,DNPL,Linda  Weiss,104
+Stark,Taylor,State House,36,DNPL,Linda  Weiss,32
+Ward,Dist 40 Minot,State House,40,DNPL,Robert E Kibler,1196
+Ward,Ruthville,State House,40,DNPL,Robert E Kibler,118
+Grand Forks,Public Works 19,State House,42,DNPL,Zachary Stephen Tomczik,352
+Grand Forks,Public Works 20,State House,42,DNPL,Zachary Stephen Tomczik,357
+Grand Forks,UND Wellness Center 21,State House,42,DNPL,Zachary Stephen Tomczik,196
+Grand Forks,UND Wellness Center 22,State House,42,DNPL,Zachary Stephen Tomczik,458
 Cass,4401 Broadway Station,State House,44,DNPL,Karla Rose Hanson,2198
 Cass,4402 Grace Covenant Chrch,State House,44,DNPL,Karla Rose Hanson,1586
-Cass,4601 The Bowler,State House,46,DNPL,Ben M Hanson ,1012
-Cass,4602 Atonement Lutheran,State House,46,DNPL,Ben M Hanson ,1384
-Cass,4603 Riverview Place,State House,46,DNPL,Ben M Hanson ,953
+Cass,4601 The Bowler,State House,46,DNPL,Ben M Hanson,1012
+Cass,4602 Atonement Lutheran,State House,46,DNPL,Ben M Hanson,1384
+Cass,4603 Riverview Place,State House,46,DNPL,Ben M Hanson,953
 Dunn,Antelope - Twin Buttes,State House,4,,Write-ins,1
 Dunn,Collins/Halliday,State House,4,,Write-ins,0
 Dunn,Dodge/Loring,State House,4,,Write-ins,0
